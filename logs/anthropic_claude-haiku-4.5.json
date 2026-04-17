@@ -1,0 +1,1334 @@
+[
+  {
+    "question": "Podwodny grunt",
+    "correct_answer": "DNO",
+    "model": "openrouter/anthropic/claude-haiku-4.5",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _",
+        "raw_answer": "DNO",
+        "cleaned_answer": "DNO",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Podwodny grunt\nLiczba liter: 3\nMaska: _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 205,
+          "prompt_tokens": 220,
+          "total_tokens": 425,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 120,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.001245,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.001245,
+            "upstream_inference_prompt_cost": 0.00022,
+            "upstream_inference_completions_cost": 0.001025
+          }
+        },
+        "elapsed_ms": 2504,
+        "response_model": "anthropic/claude-4.5-haiku-20251001",
+        "reasoning": "Definicja: Podwodny grunt\nLiczba liter: 3\nMaska: _ _ _\n\nSzukam 3-literowego słowa, które oznacza podwodny grunt.\n\nPodwodny grunt - to dno (dna) morza, rzeki, jeziora.\n\nSłowo \"DNA\" ma 3 litery: D-N-A\n\nAle czekaj, definicja to \"podwodny grunt\". Czy \"DNA\" to podwodny grunt? Nie, DNA to kwas deoksynukleinowy.\n\nDno - to podwodny grunt!\nD-N-O (3 litery)\n\nTak, \"DNO\" to prawidłowa odpowiedź dla definicji \"podwodny grunt\"."
+      }
+    ]
+  },
+  {
+    "question": "Kropla smutku",
+    "correct_answer": "ŁZA",
+    "model": "openrouter/anthropic/claude-haiku-4.5",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _",
+        "raw_answer": "ŁZA",
+        "cleaned_answer": "ŁZA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Kropla smutku\nLiczba liter: 3\nMaska: _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 132,
+          "prompt_tokens": 220,
+          "total_tokens": 352,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 78,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00088,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00088,
+            "upstream_inference_prompt_cost": 0.00022,
+            "upstream_inference_completions_cost": 0.00066
+          }
+        },
+        "elapsed_ms": 2148,
+        "response_model": "anthropic/claude-4.5-haiku-20251001",
+        "reasoning": "Definicja: \"Kropla smutku\"\nLiczba liter: 3\nMaska: _ _ _\n\nSzukam 3-literowego słowa, które oznacza \"kropla smutku\". Smutku, płacz... Łza! Łza to kropla, która wypływa z oka, szczególnie związana ze smutkiem lub płaczem.\n\nŁZA - 3 litery, idealnie pasuje do maski."
+      }
+    ]
+  },
+  {
+    "question": "Góral z dowcipów",
+    "correct_answer": "BACA",
+    "model": "openrouter/anthropic/claude-haiku-4.5",
+    "guessed": true,
+    "required_hints": 2,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _",
+        "raw_answer": null,
+        "cleaned_answer": "",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Góral z dowcipów\nLiczba liter: 4\nMaska: _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 1025,
+          "prompt_tokens": 223,
+          "total_tokens": 1248,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 469,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.005348,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.005348,
+            "upstream_inference_prompt_cost": 0.000223,
+            "upstream_inference_completions_cost": 0.005125
+          }
+        },
+        "elapsed_ms": 9274,
+        "response_model": "anthropic/claude-4.5-haiku-20251001",
+        "reasoning": "Góral z dowcipów... To jest odniesienie do żartów, których bohaterem jest góral. W polskich dowcipach, szczególnie tych klasycznych, bardzo popularnym bohaterem jest Góral o imieniu Józek lub Jó­zef, ale to by było na 5 znaków.\n\nCzekaj, może chodzi o postać bardziej znaną? W polskiej kulturze dowcipów, grale to bohaterowie dowcipów. Jeden z najpopularniejszych górali w dowcipach to... \n\nMoże to \"GÓRAL\" bez preposycji? To 5 liter.\n\nHmm, cztery litery... \"GÓRA\"? To tylko 4 litery, ale to nie jest góral.\n\nCzekaj - może to \"JÓZEK\"? To 5 liter.\n\nCztery litery... Może \"NOGG\"? Nie, to nie ma sensu.\n\nW polskich dowcipach klasycznych znany jest \"Józek\" - górski bohater dowcipów. Ale to 5 liter.\n\nMoże to \"JÓZA\" - wariant od Józefa? To 4 litery: J-Ó-Z-A. Ale to raczej nie jest standardowa nazwa postaci.\n\nCzekaj - może to \"GOROL\" czy coś takiego? Nie, to nie polskie.\n\nMoże to po prostu skrót lub pseudonim? \n\nPomyślmy inaczej - jakie górale są znane z dowcipów? Józek z Zakopanego...\n\nCztery litery - może to \"ZOEK\"? Nie...\n\nMoże to \"JÓZE\"? Cztery litery: J-Ó-Z-E. Ale to nie kończy się na 'Z'.\n\n\nCzekaj - \"GÓRA\" to 4 litery, ale to nie góral. Może to imię: \"JÓZEF\"? To 5 liter. Hmm, może to \"ZOZO\"? Nie... Cztery litery, góral z dowcipów... Może to \"JÓKA\"? J-Ó-K-A - to 4 litery. Ale to nie jest znana postać. Czekaj - może to właśnie \"JÓZEK\" zapisany jako \"JÓ\n\nZEK\"? Nie, to 5 liter. Wciąż szukam czterolitrowego imienia związanego z góralszczyzną. \"TATRY\" ma 5 liter, \"HOLA\" to nie postać... Może to jednak coś innego - imię \"JÓZIA\" to 5 liter, więc odpada."
+      },
+      {
+        "hints": 1,
+        "mask": "B _ _ _",
+        "raw_answer": "BALON",
+        "cleaned_answer": "BALON",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Góral z dowcipów\nLiczba liter: 4\nMaska: B _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 134,
+          "prompt_tokens": 223,
+          "total_tokens": 357,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 89,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.000893,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.000893,
+            "upstream_inference_prompt_cost": 0.000223,
+            "upstream_inference_completions_cost": 0.00067
+          }
+        },
+        "elapsed_ms": 3129,
+        "response_model": "anthropic/claude-4.5-haiku-20251001",
+        "reasoning": "Góral z dowcipów - to postać z polskich tradycyjnych żartów. Maska to B___.\n\nSłynny góral z dowcipów to BALON. Balon to postaćiego znana z wielu polskich anegdot i żartów. Jest to tradycyjna postać folklorystyczna używana w poczcie humorystycznej.\n\nCztery litery: B-A-L-O-N\n\nTo pasuje do maski B___."
+      },
+      {
+        "hints": 2,
+        "mask": "B A _ _",
+        "raw_answer": "BACA",
+        "cleaned_answer": "BACA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Góral z dowcipów\nLiczba liter: 4\nMaska: B A _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: BALON\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 572,
+          "prompt_tokens": 254,
+          "total_tokens": 826,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 336,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.003114,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.003114,
+            "upstream_inference_prompt_cost": 0.000254,
+            "upstream_inference_completions_cost": 0.00286
+          }
+        },
+        "elapsed_ms": 5821,
+        "response_model": "anthropic/claude-4.5-haiku-20251001",
+        "reasoning": "Góral z dowcipów, to znane postaci z anegdot. Maska to B A _ _ (4 litery).\n\nSłynnego górala z dowcipów to Bachor! Ale to nie pasuje, bo ma 6 liter.\n\nCzekaj, TO bardziej znane jest hasło \"BACA\" - ale to trzy litery, nie cztery.\n\nZastanawiam się... Góral z dowcipów, 4 litery, B A _ _\n\nMoże to \"BARTEK\"? Nie, to 6 liter.\n\nCzekaj, może chodzi o \"BAND\"? B A N D? Nie, to nie góral.\n\nHm, polska postać górala z dowcipów... \n\nBAJDA? B A J D A - pięć liter, nie cztery.\n\nCzekaj - może to \"BACA\"? Ale to 4 litery: B A C A. To jest słowo oznaczające przywódcę góralskiego, ale czy to znany dowcipnik?\n\nAlbo może \"BARD\"? B A R D - to 4 litery i odpowiada masce B A _ _. Ale bard to nie góral z dowcipów.\n\nMoże to \"BARC\"? B A R C? To nie słowo.\n\n\"BARK\"? B A R K? To nie góral.\n\nCzekaj... może to po prostu \"BAJA\"? B A J A - to onomatopeja, dziwne słowo.\n\nAlbo \"BAZA\"? B A Z A - baza to nie góral z dowcipów.\n\nHmm, może \"BASS\"? Nie, to nie ma sensu.\n\nCzekaj! Może to \"BANDA\"? B A N D A - ale to ma 5 liter, nie 4.\n\n\nWracam do \"BACA\" - to ma dokładnie 4 litery i oznacza przywódcę góralskiego. To powinno być prawidłowe rozwiązanie."
+      }
+    ]
+  },
+  {
+    "question": "Blada u chorego",
+    "correct_answer": "CERA",
+    "model": "openrouter/anthropic/claude-haiku-4.5",
+    "guessed": true,
+    "required_hints": 1,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _",
+        "raw_answer": "USTA",
+        "cleaned_answer": "USTA",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Blada u chorego\nLiczba liter: 4\nMaska: _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 767,
+          "prompt_tokens": 221,
+          "total_tokens": 988,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 371,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.004056,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.004056,
+            "upstream_inference_prompt_cost": 0.000221,
+            "upstream_inference_completions_cost": 0.003835
+          }
+        },
+        "elapsed_ms": 7090,
+        "response_model": "anthropic/claude-4.5-haiku-20251001",
+        "reasoning": "Definicja: \"Blada u chorego\" - 4 litery\n\nSzukam słowa opisującego coś bladego u chorego, 4 litery.\n\nMogę myśleć o:\n- twarz - 5 liter, za dużo\n- twarz - nie pasuje\n- usta - 4 litery - mogą być blade u chorego\n- wargi - 5 liter, za dużo\n- nos - 3 litery, za mało\n- oczy - 4 litery - oczy mogą być blade\n- warga - 5 liter, za dużo\n- blada - 5 liter, za dużo\n\nCzekaj... \"Blada u chorego\" - może to coś na temat wyglądu?\n\nTWARZ - 5 liter\nUSTA - 4 litery\nOCZY - 4 litery\n\nCzekaj, to mogą być \"wargi\" ale to 5 liter.\n\nRozmyślam:\n- Blada twarz u chorego? Ale TWARZ to 5 liter\n- Blade wargi? WARGI to 5 liter\n- Blade oczy? OCZY to 4 litery!\n- Blada usta? USTA to 4 litery!\n\nOCZY - to ma 4 litery: O-C-Z-Y\nUSTA - to ma 4 litery: U-S-T-A\n\nOczy lub usta mogą być blade u chorego. Które bardziej pasuje do definicji \"Blada u chorego\"?\n\nMyślę, że chodzi o \"USTA\" - wargi mogą być blade u chorego (są to przede wszystkim wargi, które wizualnie się przywołuje). \n\nOczy też mogą być blade, ale usta wydają się bardziej naturalne jako odpowiedź. Rozważam też inne możliwości - może czoło lub skóra, ale to za dużo liter. Zostają mi USTA i OCZY jako główne kandydaci, przy czym USTA wydają się bardziej pasować do opisu \"blada u chorego\"."
+      },
+      {
+        "hints": 1,
+        "mask": "C _ _ _",
+        "raw_answer": "CERA",
+        "cleaned_answer": "CERA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Blada u chorego\nLiczba liter: 4\nMaska: C _ _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: USTA\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 206,
+          "prompt_tokens": 252,
+          "total_tokens": 458,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 126,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.001282,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.001282,
+            "upstream_inference_prompt_cost": 0.000252,
+            "upstream_inference_completions_cost": 0.00103
+          }
+        },
+        "elapsed_ms": 2885,
+        "response_model": "anthropic/claude-4.5-haiku-20251001",
+        "reasoning": "Definicja: Blada u chorego\nLiczba liter: 4\nMaska: C _ _ _\n\nSzukamy słowa o 4 literach, zaczynającego się na C, które oznacza \"blada u chorego\".\n\nU chorego może być blada... cera? Ale to 4 litery - C-E-R-A. To pasuje do maski C _ _ _!\n\n\"Blada u chorego\" - to chodzi o cerę (twarz), która u chorego jest blada.\n\nCERA - to się zgadza!\n- 4 litery: C-E-R-A\n- Zaczyna się na C\n- \"Blada u chorego\" - blada cera\n\nOdpowiedź to CERA."
+      }
+    ]
+  },
+  {
+    "question": "Podróż przez morze",
+    "correct_answer": "REJS",
+    "model": "openrouter/anthropic/claude-haiku-4.5",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _",
+        "raw_answer": "REJS",
+        "cleaned_answer": "REJS",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Podróż przez morze\nLiczba liter: 4\nMaska: _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 296,
+          "prompt_tokens": 222,
+          "total_tokens": 518,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 198,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.001702,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.001702,
+            "upstream_inference_prompt_cost": 0.000222,
+            "upstream_inference_completions_cost": 0.00148
+          }
+        },
+        "elapsed_ms": 3286,
+        "response_model": "anthropic/claude-4.5-haiku-20251001",
+        "reasoning": "Szukam 4-literowego polskiego słowa związanego z \"podróż przez morze\".\n\nMożliwe słowa:\n- PROM - pojazd do przewozu osób i towarów przez morze/rzekę ✓\n- ŁÓDŹ - nie ma 4 liter, ma 4 znaki ale... czekaj, ŁÓDŹ ma właśnie 4 litery: Ł-O-D-Z. To również pasuje.\n- REJS - podróż morska/statkiem - R-E-J-S - 4 litery ✓\n\nNajbardziej typowe rozumienie \"podróż przez morze\":\n- REJS - to podróż, ekspedycja morska\n- PROM - to pojazd, ale używany do podróży przez morze\n- ŁÓDŹ - pojazd, ale typowo na mniejszą skalę\n\n\"Podróż przez morze\" - najlepiej pasuje REJS, bo to rzeczywiście podróż.\n\nREJS (4 litery: R-E-J-S) - to jest odpowiedź."
+      }
+    ]
+  },
+  {
+    "question": "Sala sportowa",
+    "correct_answer": "HALA",
+    "model": "openrouter/anthropic/claude-haiku-4.5",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _",
+        "raw_answer": "HALA",
+        "cleaned_answer": "HALA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Sala sportowa\nLiczba liter: 4\nMaska: _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 79,
+          "prompt_tokens": 219,
+          "total_tokens": 298,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 41,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.000614,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.000614,
+            "upstream_inference_prompt_cost": 0.000219,
+            "upstream_inference_completions_cost": 0.000395
+          }
+        },
+        "elapsed_ms": 2077,
+        "response_model": "anthropic/claude-4.5-haiku-20251001",
+        "reasoning": "Sala sportowa to 4 litery i maska to _ _ _ _\n\nSala sportowa to hala. Hala ma 4 litery: H-A-L-A\n\nTo pasuje do definicji \"sala sportowa\" i ma 4 litery."
+      }
+    ]
+  },
+  {
+    "question": "Połowica władcy zwierząt",
+    "correct_answer": "LWICA",
+    "model": "openrouter/anthropic/claude-haiku-4.5",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "LWICA",
+        "cleaned_answer": "LWICA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Połowica władcy zwierząt\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 463,
+          "prompt_tokens": 226,
+          "total_tokens": 689,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 315,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.002541,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.002541,
+            "upstream_inference_prompt_cost": 0.000226,
+            "upstream_inference_completions_cost": 0.002315
+          }
+        },
+        "elapsed_ms": 5108,
+        "response_model": "anthropic/claude-4.5-haiku-20251001",
+        "reasoning": "\"Połowica władcy zwierząt\" - potrzebuje wymyślić, co to oznacza.\n\nWładca zwierząt - to może być lew (krótko) lub bardziej abstrakcyjnie.\n\nJeśli myślimy o \"połowie władcy zwierząt\":\n- Lew ma 3 litery\n- Ale może chodzi o słowo, które ma 5 liter?\n\n\"Połowica\" - może chodzić o dosłownie połowę słowa?\n\nWładca zwierząt = LEW\nPołowica LEW = LE? Ale to za krótkie\n\nCzekaj, może to zagadka bardziej złożona. \"Połowica władcy zwierząt\" mogłaby być:\n- KRÓLI? (KRÓLESTWO zwierząt)\n- LWIĄTKO? (za długie)\n\nMoże chodzi o LEW - rodzaj męski, a \"połowica\" to połowa imienia?\n\nAlbo czekaj - czasami \"władca zwierząt\" to DEMON (w bajkach), lub BESTIA, czy może SŁOŃ?\n\nHmm, ale 5 liter...\n\nLWIĄT? Nie, to 5 liter: L-W-I-Ą-T. Ale czy to mówi się \"połowica\"?\n\nCzekaj - może to grza na słowach: \"LEW\" to władca, a jego połowica (żeńska forma) to \"LWICA\"! \nL-W-I-C-A = 5 liter!\n\nLWICA to żeńska forma lwa, czyli \"połowica\" (druga połowa, żeńska).\n\nMaska: _ _ _ _ _\nOdpowiedź: LWICA"
+      }
+    ]
+  },
+  {
+    "question": "Fallon, komik z TV",
+    "correct_answer": "JIMMY",
+    "model": "openrouter/anthropic/claude-haiku-4.5",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "JIMMY",
+        "cleaned_answer": "JIMMY",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Fallon, komik z TV\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 397,
+          "prompt_tokens": 224,
+          "total_tokens": 621,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 298,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.002209,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.002209,
+            "upstream_inference_prompt_cost": 0.000224,
+            "upstream_inference_completions_cost": 0.001985
+          }
+        },
+        "elapsed_ms": 4408,
+        "response_model": "anthropic/claude-4.5-haiku-20251001",
+        "reasoning": "Definicja: \"Fallon, komik z TV\"\nLiczba liter: 5\n\nTo chyba chodzi o Jimmy'ego Fallona, który prowadzi \"The Tonight Show\". Ale to jest nazwisko angielskie.\n\nCzekaj, może to polska krzyżówka i chodzi o polskiego komiką? Ale definicja mówi \"Fallon, komik z TV\".\n\nJimmy Fallon to słynny komik i prowadzący show telewizyjny. Ale pytanie jest po polsku i wymaga polskiego słowa 5-literowego.\n\nJIMMY - to 5 liter: J-I-M-M-Y\n\nAle czekaj, to jest imię angielskie. W polskiej krzyżówce mogą jednak takie słowa się pojawiać.\n\nJIMMU? Nie, to nie ma sensu.\n\nCzekaj, może to nie o Jimmym Fallonie? Może to o kimś innym?\n\nFallon to bardzo charakterystyczne słowo. Jimmy Fallon to słynny komik i prowadzący show.\n\nJIMMY - dokładnie 5 liter.\n\nAle w polskiej krzyżówce mogą być angielskie słowa? To raczej nie.\n\nHmm, może interpretować inaczej? \"Fallon, komik z TV\" - może to kod czy coś?\n\nChyba jednak chodzi o Jimmy'ego Fallona. W krzyżówkach angielskie imiona mogą się pojawiać w polskich krzyżówkach.\n\nJIMMY"
+      }
+    ]
+  },
+  {
+    "question": "Siostra Balladyny",
+    "correct_answer": "ALINA",
+    "model": "openrouter/anthropic/claude-haiku-4.5",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "ALINA",
+        "cleaned_answer": "ALINA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Siostra Balladyny\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 162,
+          "prompt_tokens": 224,
+          "total_tokens": 386,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 94,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.001034,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.001034,
+            "upstream_inference_prompt_cost": 0.000224,
+            "upstream_inference_completions_cost": 0.00081
+          }
+        },
+        "elapsed_ms": 2265,
+        "response_model": "anthropic/claude-4.5-haiku-20251001",
+        "reasoning": "Definicja: \"Siostra Balladyny\"\n\nBalladyna to bohaterka dramatu \"Balladyna\" Juliusza Słowackiego. Jest to polska literatura klasyczna. Balladyna ma siostrę - jej imię to Alina.\n\nLiczba liter: 5\nSłowo: ALINA\n\nSprawdzenie:\nA - L - I - N - A\n1 - 2 - 3 - 4 - 5\n\nTak, to ma 5 liter i to jest siostra Balladyny z dramatu Słowackiego."
+      }
+    ]
+  },
+  {
+    "question": "Okrągłe skrzyżowanie",
+    "correct_answer": "RONDO",
+    "model": "openrouter/anthropic/claude-haiku-4.5",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "RONDO",
+        "cleaned_answer": "RONDO",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Okrągłe skrzyżowanie\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 104,
+          "prompt_tokens": 227,
+          "total_tokens": 331,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 58,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.000747,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.000747,
+            "upstream_inference_prompt_cost": 0.000227,
+            "upstream_inference_completions_cost": 0.00052
+          }
+        },
+        "elapsed_ms": 1626,
+        "response_model": "anthropic/claude-4.5-haiku-20251001",
+        "reasoning": "Okrągłe skrzyżowanie - to jest pytanie z krzyżówki, gdzie szukam słowa z 5 literami.\n\nOkrągłe skrzyżowanie to pojazd rotacyjny - czyli rondo. Rondo ma 5 liter: R-O-N-D-O.\n\nOdpowiedź: RONDO"
+      }
+    ]
+  },
+  {
+    "question": "Imię Kurosawy, reżysera",
+    "correct_answer": "AKIRA",
+    "model": "openrouter/anthropic/claude-haiku-4.5",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "AKIRA",
+        "cleaned_answer": "AKIRA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Imię Kurosawy, reżysera\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 119,
+          "prompt_tokens": 228,
+          "total_tokens": 347,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 66,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.000823,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.000823,
+            "upstream_inference_prompt_cost": 0.000228,
+            "upstream_inference_completions_cost": 0.000595
+          }
+        },
+        "elapsed_ms": 1796,
+        "response_model": "anthropic/claude-4.5-haiku-20251001",
+        "reasoning": "Definicja: Imię Kurosawy, reżysera\nLiczba liter: 5\nMaska: _ _ _ _ _\n\nKurosawa to słynny japoński reżyser filmowy. Jego imię to Akira.\nA-K-I-R-A\n\nTo dokładnie 5 liter, pasuje do maski _ _ _ _ _\n\nOdpowiedź: AKIRA"
+      }
+    ]
+  },
+  {
+    "question": "Nabranie powietrza do płuc",
+    "correct_answer": "WDECH",
+    "model": "openrouter/anthropic/claude-haiku-4.5",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "wdech",
+        "cleaned_answer": "WDECH",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Nabranie powietrza do płuc\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 171,
+          "prompt_tokens": 227,
+          "total_tokens": 398,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 105,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.001082,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.001082,
+            "upstream_inference_prompt_cost": 0.000227,
+            "upstream_inference_completions_cost": 0.000855
+          }
+        },
+        "elapsed_ms": 2204,
+        "response_model": "anthropic/claude-4.5-haiku-20251001",
+        "reasoning": "Definicja: \"Nabranie powietrza do płuc\"\nLiczba liter: 5\nMaska: _ _ _ _ _\n\nSzukamy słowa describiującego nabranie powietrza do płuc. Po polsku to się называет \"wdychanie\" - ale to 8 liter.\n\nKrótsze słowo... może \"wdech\"? To 5 liter: w-d-e-c-h.\n\nWdech to rzeczywiście nabranie powietrza do płuc.\n\nw-d-e-c-h = 5 liter\n\nZgadza się!"
+      }
+    ]
+  },
+  {
+    "question": "Listwa stołu bilardowego",
+    "correct_answer": "BANDA",
+    "model": "openrouter/anthropic/claude-haiku-4.5",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "BANDA",
+        "cleaned_answer": "BANDA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Listwa stołu bilardowego\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 157,
+          "prompt_tokens": 225,
+          "total_tokens": 382,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 110,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00101,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00101,
+            "upstream_inference_prompt_cost": 0.000225,
+            "upstream_inference_completions_cost": 0.000785
+          }
+        },
+        "elapsed_ms": 2866,
+        "response_model": "anthropic/claude-4.5-haiku-20251001",
+        "reasoning": "Listwa stołu bilardowego - to jest element stołu bilardowego. Stół bilardowy ma obramowanie, które chroni kulki. Ta listwa to gumowa taśma wokół stołu.\n\nSzukam słowa na 5 liter, które oznacza liwstę stołu bilardowego.\n\nSłowo to: BANDA\n\nBanda - to elastyczne obramowanie (listwa) na stole bilardowym, o które odbijają się bile.\n\nSprawdzam: B-A-N-D-A (5 liter) ✓"
+      }
+    ]
+  },
+  {
+    "question": "Naczynie na kakao",
+    "correct_answer": "KUBEK",
+    "model": "openrouter/anthropic/claude-haiku-4.5",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "kubek",
+        "cleaned_answer": "KUBEK",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Naczynie na kakao\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 187,
+          "prompt_tokens": 223,
+          "total_tokens": 410,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 111,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.001158,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.001158,
+            "upstream_inference_prompt_cost": 0.000223,
+            "upstream_inference_completions_cost": 0.000935
+          }
+        },
+        "elapsed_ms": 2420,
+        "response_model": "anthropic/claude-4.5-haiku-20251001",
+        "reasoning": "Naczynie na kakao. To musi być filiżanka. Filiżanka ma 9 liter, więc to nie pasuje.\n\nCzekaj, 5 liter. Może to będzie \"czara\"? Czara to naczynie, ale do kakao? \n\nCzara - c-z-a-r-a (5 liter)\n\nLub może to być \"kubek\"? k-u-b-e-k (5 liter)\n\nKubek na kakao - to ma sens! Kubek to naczynie, którym się pije kakao.\n\nKUBEK to najlogiczniejsza odpowiedź dla naczynia na kakao z 5 literami."
+      }
+    ]
+  },
+  {
+    "question": "Kaczor z kreskówek",
+    "correct_answer": "DONALD",
+    "model": "openrouter/anthropic/claude-haiku-4.5",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _ _",
+        "raw_answer": "DONALD",
+        "cleaned_answer": "DONALD",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Kaczor z kreskówek\nLiczba liter: 6\nMaska: _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 368,
+          "prompt_tokens": 226,
+          "total_tokens": 594,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 237,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.002066,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.002066,
+            "upstream_inference_prompt_cost": 0.000226,
+            "upstream_inference_completions_cost": 0.00184
+          }
+        },
+        "elapsed_ms": 4286,
+        "response_model": "anthropic/claude-4.5-haiku-20251001",
+        "reasoning": "Definicja: Kaczor z kreskówek\nLiczba liter: 6\n\nSłynny kaczor z kreskówek to Donald (Donald Kaczak). W polskiej wersji nazwę \"Donald Duck\" przetłumaczony jako \"Donald Kaczak\".\n\nAle czekaj, Donald Kaczak to 11 liter (Donald Kaczak) czy jeśli pisać razem \"DonaldKaczak\"?\n\nSłowo \"Donald\" - to 6 liter! D-O-N-A-L-D\n\nA może to \"Kaczak\"? K-A-C-Z-A-K - to też 6 liter!\n\nAle pytanie mówi o kaczoru z kreskówek. Najsłynniejszy kaczor to Donald (Donald Duck/Kaczor Donald/Donald Kaczak).\n\nW polskich kreskówkach Disney, postać to \"Kaczor Donald\" lub \"Donald Kaczak\".\n\nJa myślę, że odpowiedź to \"Donald\" (6 liter) albo \"Kaczak\" (6 liter).\n\nNajczęściej w polskich krzyżówkach, gdy pytają o \"Kaczora z kreskówek\", odpowiedzią jest \"Donald\" - imię głównego bohatera.\n\nDonald = D-O-N-A-L-D (6 liter)\n\nTo pasuje!"
+      }
+    ]
+  },
+  {
+    "question": "Buduje igloo",
+    "correct_answer": "ESKIMOS",
+    "model": "openrouter/anthropic/claude-haiku-4.5",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _ _ _",
+        "raw_answer": "ESKIMOS",
+        "cleaned_answer": "ESKIMOS",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Buduje igloo\nLiczba liter: 7\nMaska: _ _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 400,
+          "prompt_tokens": 223,
+          "total_tokens": 623,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 243,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.002223,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.002223,
+            "upstream_inference_prompt_cost": 0.000223,
+            "upstream_inference_completions_cost": 0.002
+          }
+        },
+        "elapsed_ms": 4487,
+        "response_model": "anthropic/claude-4.5-haiku-20251001",
+        "reasoning": "Definicja: Buduje igloo\nLiczba liter: 7\nMaska: _ _ _ _ _ _ _\n\nKto buduje igloo? Igloo to tradycyjny dom budowany z bloków lodu przez ludzi żyjących na Północy - Inuitów. Ale szukamy słowa na 7 liter.\n\nMożliwe słowa:\n- ESKIMOS - 7 liter (E-S-K-I-M-O-S) - to jednak staromodne określenie\n- INUICI - nie, to źle napisane\n- INUIOWIE - za dużo liter\n\nCzekaj, może chodzi o słowo bardziej ogólne?\n\nESKIMOS - to 7 liter: E-S-K-I-M-O-S\n\nLub może... INUICI? Nie, to 6 liter.\n\nINUIOWIE? To 8 liter.\n\nMyślę, że odpowiedź to ESKIMOS (7 liter) - choć to staromodne określenie, Eskimosów, ludzi budujących igloo.\n\nCzekaj, ale może to bardziej współczesne słowo? INUICI to 6 liter (I-N-U-I-C-I).\n\nINUIOWIE - 8 liter\n\nHmm, może INUICKI? Nie, to przymiotnik.\n\nNajlepsza odpowiedź to ESKIMOS (7 liter: E-S-K-I-M-O-S)"
+      }
+    ]
+  },
+  {
+    "question": "Internetowa sprzedaż",
+    "correct_answer": "EHANDEL",
+    "model": "openrouter/anthropic/claude-haiku-4.5",
+    "guessed": true,
+    "required_hints": 1,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _ _ _",
+        "raw_answer": "ZAKUPKI",
+        "cleaned_answer": "ZAKUPKI",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Internetowa sprzedaż\nLiczba liter: 7\nMaska: _ _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 582,
+          "prompt_tokens": 226,
+          "total_tokens": 808,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 346,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.003136,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.003136,
+            "upstream_inference_prompt_cost": 0.000226,
+            "upstream_inference_completions_cost": 0.00291
+          }
+        },
+        "elapsed_ms": 6432,
+        "response_model": "anthropic/claude-4.5-haiku-20251001",
+        "reasoning": "Internetowa sprzedaż - to chodzi o sprzedaż przez internet, e-commerce. \n\n7 liter: _ _ _ _ _ _ _\n\nTermin dla internetowej sprzedaży to \"e-BIZNES\"? To 7 liter: e-b-i-z-n-e-s... ale to z myślnikiem.\n\nMoże to \"ESHOP\"? To 5 liter.\n\nCzekaj, może to \"AUKCJA\"? To 6 liter.\n\n\"SKLEPIK\"? To 7 liter: s-k-l-e-p-i-k. Ale to nie jest specjalnie internetowe.\n\n\"SKLEP\" - 5 liter.\n\nMoże \"CYBER\" coś? \"CYBERSKLEP\"? To za dużo liter.\n\nCzekaj, może to \"e-COMMERCE\"? W polwersji to byłoby... hmm.\n\nHasło na 7 liter związane z internetową sprzedażą...\n\n\"BIZNES\" - 6 liter.\n\n\"INTERNET\" - 8 liter.\n\nMoże \"E-BIZNES\" ale bez myślnika to \"EBIZNES\" - 7 liter: e-b-i-z-n-e-s.\n\nAlbo może to \"SKLEP\" + coś...\n\nCzekaj, może to \"OSESEK\"? Nie, to bez sensu.\n\nMoże to \"AUCJA\"? To 6 liter.\n\nMoże to \"AUKCJON\"? To 7 liter: a-u-k-c-j-o-n.\n\nHmm, ale to nie całkiem internetowa sprzedaż, choć aukcje są w internecie.\n\nMoże to \"ESHOP\" czy \"E-SHOP\"? Ale to 5 liter.\n\n\nCzekaj, może to \"ZAKUPKI\"? To 7 liter: z-a-k-u-p-k-i. To pasuje do internetowej sprzedaży! Albo \"EKOMERS\" jako polska wersja e-commerce, ale to brzmi dziwnie. \"ZAKUPKI\" wydaje się bardziej sensowne - to słowo związane z kupowaniem online."
+      },
+      {
+        "hints": 1,
+        "mask": "E _ _ _ _ _ _",
+        "raw_answer": "EHANDEL",
+        "cleaned_answer": "EHANDEL",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Internetowa sprzedaż\nLiczba liter: 7\nMaska: E _ _ _ _ _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: ZAKUPKI\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 775,
+          "prompt_tokens": 258,
+          "total_tokens": 1033,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 323,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.004133,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.004133,
+            "upstream_inference_prompt_cost": 0.000258,
+            "upstream_inference_completions_cost": 0.003875
+          }
+        },
+        "elapsed_ms": 7588,
+        "response_model": "anthropic/claude-4.5-haiku-20251001",
+        "reasoning": "Internetowa sprzedaż, 7 liter, zaczyna się na E.\n\nInternetowa sprzedaż to e-commerce. Ale to angielskie słowo.\n\nW polskim: e-sklep? Ale to tylko 6 liter (e-sklep)\n\nCzekaj, maska: E _ _ _ _ _ _\n\n7 liter, zaczyna się na E.\n\nInternetowa sprzedaż... to może być \"EMISJA\"? Nie, to nie ma związku.\n\n\"E-TRADE\"? To marka.\n\n\"ECOMMERCE\"? To 9 liter.\n\nHmm, może \"EZAKUPY\"? E-ZAKUPY? To by było 7 liter! Ale bez myślnika: EZAKUPY\n\nCzekaj, ale to raczej \"e-zakupy\" z myślnikiem.\n\nMoże po prostu \"E-SKLEP\"? Ale to 7 liter z myślnikiem czy bez?\n\nBez myślnika: E + SKLEP = ESKLEP (6 liter)\n\nCzekaj: E _ _ _ _ _ _\n1-E, 2-?, 3-?, 4-?, 5-?, 6-?, 7-?\n\nTo 7 pozycji.\n\nHmm, może to polskie słowo? \"ELEKTRONIKA\"? Nie, za dużo liter.\n\n\"EMERYTURA\"? 8 liter.\n\n\"EKSPRES\"? Nie, to 7 liter ale nie pasuje.\n\nMoże \"E-SKLEPY\" (E-SKLEPY bez myślnika = ESKLEPY) - 7 liter? Ale byłoby to ESKLEPY.\n\nCzekaj, mylę się. Bez myślnika to:\n\n\nESKLEPY to dokładnie 7 znaków. Ale dla internetowej sprzedaży bardziej pasuje \"EHANDEL\" - E-H-A-N-D-E-L, również 7 liter, bardziej ogólne określenie dla handlu elektronicznego."
+      }
+    ]
+  },
+  {
+    "question": "Naprawa uszkodzenia",
+    "correct_answer": "REPARACJA",
+    "model": "openrouter/anthropic/claude-haiku-4.5",
+    "guessed": true,
+    "required_hints": 3,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _ _ _ _ _",
+        "raw_answer": "REPERACJA",
+        "cleaned_answer": "REPERACJA",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Naprawa uszkodzenia\nLiczba liter: 9\nMaska: _ _ _ _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 400,
+          "prompt_tokens": 228,
+          "total_tokens": 628,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 225,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.002228,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.002228,
+            "upstream_inference_prompt_cost": 0.000228,
+            "upstream_inference_completions_cost": 0.002
+          }
+        },
+        "elapsed_ms": 3942,
+        "response_model": "anthropic/claude-4.5-haiku-20251001",
+        "reasoning": "Definicja: \"Naprawa uszkodzenia\"\nLiczba liter: 9 liter\nMaska: _ _ _ _ _ _ _ _ _ (bez żadnych wskazówek)\n\nSzukam polskiego słowa na 9 liter, które oznacza naprawę uszkodzenia.\n\nMożliwości:\n- NAPRAWIENIE - to 11 liter, za dużo\n- REPERACJA - to słowo łacińskie, 9 liter: r-e-p-e-r-a-c-j-a. To może być, ale sprawdzę inne opcje\n-REPLIK? - nie pasuje\n- REMONT - to 6 liter\n- REPERACJA - r-e-p-e-r-a-c-j-a = 9 liter! To chyba najbardziej pasujące słowo\n\nCzekaj, myślę o tym bardziej po polsku:\n- NAPRAWKA - n-a-p-r-a-w-k-a = 8 liter, za mało\n- NAPRAWIANIE - za dużo liter\n- ODNOWIENIE - o-d-n-o-w-i-e-n-i-e = 10 liter\n\nA może:\n- REPERACJA - r-e-p-e-r-a-c-j-a = 9 liter\n\nTo słowo oznacza naprawę, przywrócenie czego-ś do złego stanu.\n\nOdpowiedź: REPERACJA"
+      },
+      {
+        "hints": 1,
+        "mask": "R _ _ _ _ _ _ _ _",
+        "raw_answer": "RENOWACJA",
+        "cleaned_answer": "RENOWACJA",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Naprawa uszkodzenia\nLiczba liter: 9\nMaska: R _ _ _ _ _ _ _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: REPERACJA\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 451,
+          "prompt_tokens": 260,
+          "total_tokens": 711,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 258,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.002515,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.002515,
+            "upstream_inference_prompt_cost": 0.00026,
+            "upstream_inference_completions_cost": 0.002255
+          }
+        },
+        "elapsed_ms": 3943,
+        "response_model": "anthropic/claude-4.5-haiku-20251001",
+        "reasoning": "Definicja: Naprawa uszkodzenia\nLiczba liter: 9\nMaska: R _ _ _ _ _ _ _ _\n\nZaczyna się na R i ma 9 liter. To słowo oznaczające naprawę uszkodzenia.\n\nWyłączona odpowiedź: REPERACJA (choć to logiczne słowo, ale widać, że to błędna odpowiedź)\n\nInne słowa na R oznaczające naprawę:\n- REMONT - 6 liter, za mało\n- RESTYTUCJA - 10 liter, za dużo\n- REPARACJA - 9 liter! Czekaj, to prawie to samo co REPERACJA. REPARACJA to: R-E-P-A-R-A-C-J-A. Ale to odmiana od REPERACJA.\n\nHmm, może chodzi o REGULACJA? R-E-G-U-L-A-C-J-A - 9 liter. Ale to bardziej o uregulowaniu, nie naprawie.\n\nREFUNDACJA? R-E-F-U-N-D-A-C-J-A - 9 liter. Ale to zwrot pieniędzy, nie naprawa.\n\nRENOWACJA? R-E-N-O-W-A-C-J-A - 9 liter! To jest naprawa, odnowienie, przywrócenie do stanu używalności.\n\nSprawdzam: R-E-N-O-W-A-C-J-A\nMaska: R _ _ _ _ _ _ _ _\nPasuje!\n\nRENOWACJA to renowacja - naprawa, przywrócenie do pierwotnego stanu."
+      },
+      {
+        "hints": 2,
+        "mask": "R E _ _ _ _ _ _ _",
+        "raw_answer": null,
+        "cleaned_answer": "",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Naprawa uszkodzenia\nLiczba liter: 9\nMaska: R E _ _ _ _ _ _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: REPERACJA, RENOWACJA\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 1025,
+          "prompt_tokens": 265,
+          "total_tokens": 1290,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 359,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00539,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00539,
+            "upstream_inference_prompt_cost": 0.000265,
+            "upstream_inference_completions_cost": 0.005125
+          }
+        },
+        "elapsed_ms": 7271,
+        "response_model": "anthropic/claude-4.5-haiku-20251001",
+        "reasoning": "Szukam słowa 9-literowego, zaczynającego się na \"RE\" i oznaczającego naprawę uszkodzenia.\n\nMaska: R E _ _ _ _ _ _ _\n\nWymyślone błędne odpowiedzi to:\n- REPERACJA (9 liter) - ale to nie są typowe słowo\n- RENOWACJA (9 liter) - to słowo oznaczające odnowienie, modernizację\n\nPomyślmy o słowach związanych z naprawą:\n- RESTAURACJA? R-E-S-T-A-U-R-A-C-J-A = 11 liter, za długo\n- REMONTACJA? Nie, to nie jest słowo\n- REMONT? R-E-M-O-N-T = 6 liter, za krótko\n\nCzekaj, myślę o \"REPERACJA\" - ale nie to. A co z \"REWERSACJA\"? Nie, to nie ma sensu.\n\nMoże \"REPARACJA\"? R-E-P-A-R-A-C-J-A = 9 liter\nR E P A R A C J A\nAle to podobne do REPERACJI...\n\nCzekaj - \"RECYKLACJA\"? R-E-C-Y-K-L-A-C-J-A = 10 liter, za długo\n\nA może \"RESTYTUCJA\"? R-E-S-T-Y-T-U-C-J-A = 10 liter\n\nAlbo \"RESTURACJA\"? Nie, to błędna pisownia.\n\n\"REDAKCJA\"? R-E-D-A-K-C-J-A = 8 liter, za krótko\n\nCzekaj... \"RESTAURIA\"? Nie, to nie słowo.\n\n\nSprawdzam inne możliwości - RESORPCJA to termin naukowy, REZOLUCJA i REWOLUCJA to 9 liter, ale oznaczają uchwałę i rewolucję, nie naprawę. REKUPERACJA jest za długa, a REFUNDACJA się nie kończy.\n\nRozważam REKONSTRUKCJA, REWINDACJA, REKLAMACJA - wszystkie albo za długie, albo nie pasują. REFORMACJA i REWALIDACJA też m"
+      },
+      {
+        "hints": 3,
+        "mask": "R E P _ _ _ _ _ _",
+        "raw_answer": "REPARACJA",
+        "cleaned_answer": "REPARACJA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Naprawa uszkodzenia\nLiczba liter: 9\nMaska: R E P _ _ _ _ _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: REPERACJA, RENOWACJA\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 893,
+          "prompt_tokens": 265,
+          "total_tokens": 1158,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 420,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00473,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00473,
+            "upstream_inference_prompt_cost": 0.000265,
+            "upstream_inference_completions_cost": 0.004465
+          }
+        },
+        "elapsed_ms": 8591,
+        "response_model": "anthropic/claude-4.5-haiku-20251001",
+        "reasoning": "Szukamy słowa o 9 literach zaczynającego się na \"REP\" i dotyczące naprawy uszkodzenia.\n\nMaska: R E P _ _ _ _ _ _\n\nBłędne odpowiedzi: REPERACJA, RENOWACJA\n\nMuszę pomyśleć o słowach dotyczących naprawy/uszkodzenia:\n- REPARACJA - ma 9 liter, ale to podane jako błędne\n- REPERACJA - również błędne\n- RENOWACJA - także błędne\n\nCzekaj, REPARACJA to prawidłowe słowo (R-E-P-A-R-A-C-J-A) - 9 liter. Ale zostało podane jako błędne.\n\nMoże chodzi o:\n- REPLIKACJA? Nie, to bardziej dotyczące kopiowania\n- REPUTACJA? Nie, to dotyczące opinii\n- REPETYCJA? R-E-P-E-T-Y-C-J-A - 9 liter, ale to dotyczenie powtarzania\n\nCzekaj, może chodzi o RATOWANIE? Ale to nie zaczyna się na REP.\n\nJakie słowo na REP_ oznacza naprawę?\n- REPEROWAĆ - ale to przymiotnik/czasownik\n- REPARATOR - ale to osoba, nie naprawa\n- REPARUNEK? Nie, takie słowo nie istnieje\n\nMoże to REPRODUKCJA? R-E-P-R-O-D-U-K-C-J-A - 11 liter, za dużo.\n\nCzekaj, może to prostsze słowo. REPRODUK? Nie.\n\nREPULACJA? REPULSA? \n\nMoże REPASOWAĆ? R-E-P-A-S-O-W-A-Ć - ale to czasownik.\n\n\nRozważam inne warianty - REPULSJA to raczej odrzucenie, a REPERKUSJA ma 10 liter. REPLENACJA również ma 10 liter. Może to REPUTACJA, ale to nie dotyczy naprawy.\n\nPrzychodzą mi do głowy REPRODUKCJA czy REPARACJA, ale żaden z tych wariantów nie wydaje się idealnie pasować. Rozważam też RESTYTUCJA - to ma 9 liter i zaczyna się na RE-, choć nie na REP. Może to po prostu REPASACJA?"
+      }
+    ]
+  },
+  {
+    "question": "Obcy wtręt językowy",
+    "correct_answer": "MAKARONIZM",
+    "model": "openrouter/anthropic/claude-haiku-4.5",
+    "guessed": true,
+    "required_hints": 1,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _ _ _ _ _ _",
+        "raw_answer": null,
+        "cleaned_answer": "",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Obcy wtręt językowy\nLiczba liter: 10\nMaska: _ _ _ _ _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 1025,
+          "prompt_tokens": 229,
+          "total_tokens": 1254,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 335,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.005354,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.005354,
+            "upstream_inference_prompt_cost": 0.000229,
+            "upstream_inference_completions_cost": 0.005125
+          }
+        },
+        "elapsed_ms": 7836,
+        "response_model": "anthropic/claude-4.5-haiku-20251001",
+        "reasoning": "Szukamy słowa o 10 literach oznaczającego \"Obcy wtręt językowy\".\n\nObcy wtręt językowy - to słowo, które wchodzi z innego języka do języka polskiego. Może to być:\n- zapożyczenie\n- anglicyzm\n- barbaryzm\n\nAle szukamy słowa o dokładnie 10 literach.\n\n\"zapożyczenie\" - z-a-p-o-ż-y-c-z-e-n-i-e = 12 liter (za dużo)\n\n\"anglicyzm\" - a-n-g-l-i-c-y-z-m = 9 liter (za mało)\n\n\"barbaryzm\" - b-a-r-b-a-r-y-z-m = 9 liter (za mało)\n\nHmm, może \"barbaryzmy\" (liczba mnoga)?\nb-a-r-b-a-r-y-z-m-y = 10 liter!\n\nAle sprawdzę jeszcze inne możliwości...\n\n\"zapożyczenia\" - z-a-p-o-ż-y-c-z-e-n-i-a = 12 liter (za dużo)\n\n\"neologizm\" - n-e-o-l-o-g-i-z-m = 9 liter (za mało)\n\n\"neologizmy\" - n-e-o-l-o-g-i-z-m-y = 10 liter\n\nAle \"barbaryzmy\" wydaje się lepiej pasować do definicji \"obcy wtręt językowy\".\n\nSprawdzę: \"barbaryzmy\" - to ma być słowo w liczbie pojedynczej czy może \"barbaryzm\"?\n\nAle \"barbaryzm\" ma 9 liter.\n\n\nRozważam inne warianty - \"frazeologizm\" to 12 liter, za dużo. Może to forma \"barbaryzm\" w innym przypadku? Czekaj, może to \"anglicyzmy\"? a-n-g-l-i-c-y-z-m-y = 10 liter! To pasuje lepiej do pojęcia obcego wtrętu językowego."
+      },
+      {
+        "hints": 1,
+        "mask": "M _ _ _ _ _ _ _ _ _",
+        "raw_answer": "MAKARONIZM",
+        "cleaned_answer": "MAKARONIZM",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Obcy wtręt językowy\nLiczba liter: 10\nMaska: M _ _ _ _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 254,
+          "prompt_tokens": 229,
+          "total_tokens": 483,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 145,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.001499,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.001499,
+            "upstream_inference_prompt_cost": 0.000229,
+            "upstream_inference_completions_cost": 0.00127
+          }
+        },
+        "elapsed_ms": 2784,
+        "response_model": "anthropic/claude-4.5-haiku-20251001",
+        "reasoning": "Szukam słowa 10-literowego, zaczynającego się na \"M\", które oznacza \"obcy wtręt językowy\".\n\nObcy wtręt językowy to wyraz z innego języka, który wpadł do naszego języka. To jest MAKARONIZM - czy to ma 10 liter?\n\nM-A-K-A-R-O-N-I-Z-M = 10 liter. Sprawdzam:\n1. M\n2. A\n3. K\n4. A\n5. R\n6. O\n7. N\n8. I\n9. Z\n10. M\n\nTak, MAKARONIZM ma dokładnie 10 liter i zacyna się na M.\n\nMaska: M _ _ _ _ _ _ _ _ _\nMAKARONIZM powinien pasować.\n\nM-A-K-A-R-O-N-I-Z-M\n\nTo definitywnie pasuje."
+      }
+    ]
+  }
+]

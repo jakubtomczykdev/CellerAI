@@ -1,0 +1,1119 @@
+[
+  {
+    "question": "Podwodny grunt",
+    "correct_answer": "DNO",
+    "model": "openrouter/x-ai/grok-4.1-fast",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _",
+        "raw_answer": "dno",
+        "cleaned_answer": "DNO",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Podwodny grunt\nLiczba liter: 3\nMaska: _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 242,
+          "prompt_tokens": 304,
+          "total_tokens": 546,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 240,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 147,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00015975,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00015975,
+            "upstream_inference_prompt_cost": 3.875e-05,
+            "upstream_inference_completions_cost": 0.000121
+          }
+        },
+        "elapsed_ms": 3106,
+        "response_model": "x-ai/grok-4.1-fast",
+        "reasoning": "Najpierw polityka: Muszę przestrzegać core policies, ale to nie jest nic nielegalnego. To krzyżówka.\n"
+      }
+    ]
+  },
+  {
+    "question": "Kropla smutku",
+    "correct_answer": "ŁZA",
+    "model": "openrouter/x-ai/grok-4.1-fast",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _",
+        "raw_answer": "łza",
+        "cleaned_answer": "ŁZA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Kropla smutku\nLiczba liter: 3\nMaska: _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 275,
+          "prompt_tokens": 303,
+          "total_tokens": 578,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 273,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 150,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0001756,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0001756,
+            "upstream_inference_prompt_cost": 3.81e-05,
+            "upstream_inference_completions_cost": 0.0001375
+          }
+        },
+        "elapsed_ms": 2913,
+        "response_model": "x-ai/grok-4.1-fast",
+        "reasoning": "Najpierw polityka: Muszę przestrzegać core policies. To nie jest nic nielegalnego, to po prostu krzyżówka.\n"
+      }
+    ]
+  },
+  {
+    "question": "Góral z dowcipów",
+    "correct_answer": "BACA",
+    "model": "openrouter/x-ai/grok-4.1-fast",
+    "guessed": true,
+    "required_hints": 1,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _",
+        "raw_answer": "JAŚK",
+        "cleaned_answer": "JAŚK",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Góral z dowcipów\nLiczba liter: 4\nMaska: _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 1580,
+          "prompt_tokens": 306,
+          "total_tokens": 1886,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 1577,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 147,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00082915,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00082915,
+            "upstream_inference_prompt_cost": 3.915e-05,
+            "upstream_inference_completions_cost": 0.00079
+          }
+        },
+        "elapsed_ms": 17772,
+        "response_model": "x-ai/grok-4.1-fast",
+        "reasoning": "Najpierw polityka: Muszę przestrzegać core policies. To nie jest nic nielegalnego, to zwykła krzyżówka.\nIf ExistingSummary is empty, create a new subheading without referencing ExistingSummary.\n\n---\n\nAssistant: ## Analyzing the clue\n- The task is to solve a Polish crossword clue: \"Góral z dowcipów\" (Highlander from jokes) with a 4-letter mask: _ _ _ _.\n- The answer must be a 4-letter Polish word, fitting the definition of a humorous Highlander character.\n\n## Exploring possible answers\n- Considered \"Śmigus,\" but it’s too long; thought of \"Śmieszka,\" but it doesn’t fit.\n- Recalled \"Jaś\" or \"Jaśko\" as common Highlander names in jokes, but unsure of the exact fit.\n\n## Checking common references\n- Thought about \"Ślązak\" (Silesian) and \"Gieksa,\" but they don’t align with the clue.\n- Considered \"Mordka\" and \"Śmiech,\" but neither fits the 4-letter requirement or context.  \n\n## Finalizing the solution\n- Standard crossword answer for \"Góral z dowcipów\" is likely \"Jaśko,\" based on popular joke references."
+      },
+      {
+        "hints": 1,
+        "mask": "B _ _ _",
+        "raw_answer": "BACA",
+        "cleaned_answer": "BACA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Góral z dowcipów\nLiczba liter: 4\nMaska: B _ _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: JAŚK\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 527,
+          "prompt_tokens": 330,
+          "total_tokens": 857,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 525,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 147,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00030745,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00030745,
+            "upstream_inference_prompt_cost": 4.395e-05,
+            "upstream_inference_completions_cost": 0.0002635
+          }
+        },
+        "elapsed_ms": 4315,
+        "response_model": "x-ai/grok-4.1-fast",
+        "reasoning": "Najpierw polityka: Muszę przestrzegać core policies. To nie jest nic nielegalnego, to tylko krzyżówka.\n"
+      }
+    ]
+  },
+  {
+    "question": "Blada u chorego",
+    "correct_answer": "CERA",
+    "model": "openrouter/x-ai/grok-4.1-fast",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _",
+        "raw_answer": "cera",
+        "cleaned_answer": "CERA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Blada u chorego\nLiczba liter: 4\nMaska: _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 484,
+          "prompt_tokens": 305,
+          "total_tokens": 789,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 482,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 150,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0002805,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0002805,
+            "upstream_inference_prompt_cost": 3.85e-05,
+            "upstream_inference_completions_cost": 0.000242
+          }
+        },
+        "elapsed_ms": 4621,
+        "response_model": "x-ai/grok-4.1-fast",
+        "reasoning": "Najpierw polityka: Muszę przestrzegać core policies, ale to nie jest nic nielegalnego. To krzyżówka.\n"
+      }
+    ]
+  },
+  {
+    "question": "Podróż przez morze",
+    "correct_answer": "REJS",
+    "model": "openrouter/x-ai/grok-4.1-fast",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _",
+        "raw_answer": "REJS",
+        "cleaned_answer": "REJS",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Podróż przez morze\nLiczba liter: 4\nMaska: _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 237,
+          "prompt_tokens": 305,
+          "total_tokens": 542,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 235,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 271,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00013885,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00013885,
+            "upstream_inference_prompt_cost": 2.035e-05,
+            "upstream_inference_completions_cost": 0.0001185
+          }
+        },
+        "elapsed_ms": 2160,
+        "response_model": "x-ai/grok-4.1-fast",
+        "reasoning": "Najpierw polityka: Muszę przestrzegać core policies, ale to nie jest nic nielegalnego. To krzyżówka.\n"
+      }
+    ]
+  },
+  {
+    "question": "Sala sportowa",
+    "correct_answer": "HALA",
+    "model": "openrouter/x-ai/grok-4.1-fast",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _",
+        "raw_answer": "HALA",
+        "cleaned_answer": "HALA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Sala sportowa\nLiczba liter: 4\nMaska: _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 282,
+          "prompt_tokens": 303,
+          "total_tokens": 585,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 280,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 147,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00017955,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00017955,
+            "upstream_inference_prompt_cost": 3.855e-05,
+            "upstream_inference_completions_cost": 0.000141
+          }
+        },
+        "elapsed_ms": 3495,
+        "response_model": "x-ai/grok-4.1-fast",
+        "reasoning": "Najpierw polityka: Muszę przestrzegać zasad w <policy>, ale to nie jest nic nielegalnego. To krzyżówka.\n"
+      }
+    ]
+  },
+  {
+    "question": "Połowica władcy zwierząt",
+    "correct_answer": "LWICA",
+    "model": "openrouter/x-ai/grok-4.1-fast",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "lwica",
+        "cleaned_answer": "LWICA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Połowica władcy zwierząt\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 302,
+          "prompt_tokens": 307,
+          "total_tokens": 609,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 300,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 147,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00019035,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00019035,
+            "upstream_inference_prompt_cost": 3.935e-05,
+            "upstream_inference_completions_cost": 0.000151
+          }
+        },
+        "elapsed_ms": 3081,
+        "response_model": "x-ai/grok-4.1-fast",
+        "reasoning": "Najpierw polityka: Muszę przestrzegać zasad, ale to nie jest nic nielegalnego. To krzyżówka.\n"
+      }
+    ]
+  },
+  {
+    "question": "Fallon, komik z TV",
+    "correct_answer": "JIMMY",
+    "model": "openrouter/x-ai/grok-4.1-fast",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "JIMMY",
+        "cleaned_answer": "JIMMY",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Fallon, komik z TV\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 357,
+          "prompt_tokens": 307,
+          "total_tokens": 664,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 354,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 147,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00021785,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00021785,
+            "upstream_inference_prompt_cost": 3.935e-05,
+            "upstream_inference_completions_cost": 0.0001785
+          }
+        },
+        "elapsed_ms": 2911,
+        "response_model": "x-ai/grok-4.1-fast",
+        "reasoning": "Najpierw polityka: Muszę przestrzegać core policies, ale to nie jest nic nielegalnego. To krzyżówka.\n"
+      }
+    ]
+  },
+  {
+    "question": "Siostra Balladyny",
+    "correct_answer": "ALINA",
+    "model": "openrouter/x-ai/grok-4.1-fast",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "ALINA",
+        "cleaned_answer": "ALINA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Siostra Balladyny\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 632,
+          "prompt_tokens": 306,
+          "total_tokens": 938,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 630,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 147,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00035515,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00035515,
+            "upstream_inference_prompt_cost": 3.915e-05,
+            "upstream_inference_completions_cost": 0.000316
+          }
+        },
+        "elapsed_ms": 6228,
+        "response_model": "x-ai/grok-4.1-fast",
+        "reasoning": "Najpierw polityka: Muszę przestrzegać core policies, ale to nie jest nic nielegalnego. To krzyżówka.\n"
+      }
+    ]
+  },
+  {
+    "question": "Okrągłe skrzyżowanie",
+    "correct_answer": "RONDO",
+    "model": "openrouter/x-ai/grok-4.1-fast",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "RONDO",
+        "cleaned_answer": "RONDO",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Okrągłe skrzyżowanie\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 218,
+          "prompt_tokens": 307,
+          "total_tokens": 525,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 216,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 147,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00014835,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00014835,
+            "upstream_inference_prompt_cost": 3.935e-05,
+            "upstream_inference_completions_cost": 0.000109
+          }
+        },
+        "elapsed_ms": 2295,
+        "response_model": "x-ai/grok-4.1-fast",
+        "reasoning": "Najpierw polityka: Muszę przestrzegać core policies, ale to nie jest nic nielegalnego. To krzyżówka.\n"
+      }
+    ]
+  },
+  {
+    "question": "Imię Kurosawy, reżysera",
+    "correct_answer": "AKIRA",
+    "model": "openrouter/x-ai/grok-4.1-fast",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "AKIRA",
+        "cleaned_answer": "AKIRA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Imię Kurosawy, reżysera\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 199,
+          "prompt_tokens": 310,
+          "total_tokens": 509,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 197,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 147,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00013945,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00013945,
+            "upstream_inference_prompt_cost": 3.995e-05,
+            "upstream_inference_completions_cost": 9.95e-05
+          }
+        },
+        "elapsed_ms": 1828,
+        "response_model": "x-ai/grok-4.1-fast",
+        "reasoning": "Najpierw polityka: Muszę przestrzegać core policies, ale to nie jest nic nielegalnego. To krzyżówka.\n"
+      }
+    ]
+  },
+  {
+    "question": "Nabranie powietrza do płuc",
+    "correct_answer": "WDECH",
+    "model": "openrouter/x-ai/grok-4.1-fast",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "wdech",
+        "cleaned_answer": "WDECH",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Nabranie powietrza do płuc\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 298,
+          "prompt_tokens": 308,
+          "total_tokens": 606,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 296,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 147,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00018855,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00018855,
+            "upstream_inference_prompt_cost": 3.955e-05,
+            "upstream_inference_completions_cost": 0.000149
+          }
+        },
+        "elapsed_ms": 2833,
+        "response_model": "x-ai/grok-4.1-fast",
+        "reasoning": "Najpierw polityka: Muszę przestrzegać zasad, ale to jest krzyżówka, nic nie łamie zasad.\n"
+      }
+    ]
+  },
+  {
+    "question": "Listwa stołu bilardowego",
+    "correct_answer": "BANDA",
+    "model": "openrouter/x-ai/grok-4.1-fast",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "BANDA",
+        "cleaned_answer": "BANDA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Listwa stołu bilardowego\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 291,
+          "prompt_tokens": 308,
+          "total_tokens": 599,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 289,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 147,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00018505,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00018505,
+            "upstream_inference_prompt_cost": 3.955e-05,
+            "upstream_inference_completions_cost": 0.0001455
+          }
+        },
+        "elapsed_ms": 2823,
+        "response_model": "x-ai/grok-4.1-fast",
+        "reasoning": "Najpierw polityka: Muszę przestrzegać core policies, ale to nie jest nic nielegalnego. To krzyżówka, czysta zabawa.\n"
+      }
+    ]
+  },
+  {
+    "question": "Naczynie na kakao",
+    "correct_answer": "KUBEK",
+    "model": "openrouter/x-ai/grok-4.1-fast",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "kubek",
+        "cleaned_answer": "KUBEK",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Naczynie na kakao\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 257,
+          "prompt_tokens": 307,
+          "total_tokens": 564,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 254,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 147,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00016785,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00016785,
+            "upstream_inference_prompt_cost": 3.935e-05,
+            "upstream_inference_completions_cost": 0.0001285
+          }
+        },
+        "elapsed_ms": 2527,
+        "response_model": "x-ai/grok-4.1-fast",
+        "reasoning": "Najpierw polityka: Muszę przestrzegać core policies, ale to nie jest nic nielegalnego. To krzyżówka, czysta zabawa.\n"
+      }
+    ]
+  },
+  {
+    "question": "Kaczor z kreskówek",
+    "correct_answer": "DONALD",
+    "model": "openrouter/x-ai/grok-4.1-fast",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _ _",
+        "raw_answer": "DONALD",
+        "cleaned_answer": "DONALD",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Kaczor z kreskówek\nLiczba liter: 6\nMaska: _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 244,
+          "prompt_tokens": 309,
+          "total_tokens": 553,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 242,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 150,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0001613,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0001613,
+            "upstream_inference_prompt_cost": 3.93e-05,
+            "upstream_inference_completions_cost": 0.000122
+          }
+        },
+        "elapsed_ms": 2205,
+        "response_model": "x-ai/grok-4.1-fast",
+        "reasoning": "Najpierw polityka: Muszę przestrzegać core policies, ale to nie jest nic nielegalnego. To krzyżówka.\n"
+      }
+    ]
+  },
+  {
+    "question": "Buduje igloo",
+    "correct_answer": "ESKIMOS",
+    "model": "openrouter/x-ai/grok-4.1-fast",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _ _ _",
+        "raw_answer": "eskimos",
+        "cleaned_answer": "ESKIMOS",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Buduje igloo\nLiczba liter: 7\nMaska: _ _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 399,
+          "prompt_tokens": 307,
+          "total_tokens": 706,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 397,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 271,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00022025,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00022025,
+            "upstream_inference_prompt_cost": 2.075e-05,
+            "upstream_inference_completions_cost": 0.0001995
+          }
+        },
+        "elapsed_ms": 4143,
+        "response_model": "x-ai/grok-4.1-fast",
+        "reasoning": "Najpierw polityka: Muszę być precyzyjnym systemem rozwiązującym polskie krzyżówki. Podawać TYLKO I WYŁĄCZNIE ostateczne hasło. Żadnego dodatkowego tekstu, interpunkcji, kropek ani zwrotów.\n"
+      }
+    ]
+  },
+  {
+    "question": "Internetowa sprzedaż",
+    "correct_answer": "EHANDEL",
+    "model": "openrouter/x-ai/grok-4.1-fast",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _ _ _",
+        "raw_answer": "EHANDEL",
+        "cleaned_answer": "EHANDEL",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Internetowa sprzedaż\nLiczba liter: 7\nMaska: _ _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 409,
+          "prompt_tokens": 306,
+          "total_tokens": 715,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 406,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 150,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0002432,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0002432,
+            "upstream_inference_prompt_cost": 3.87e-05,
+            "upstream_inference_completions_cost": 0.0002045
+          }
+        },
+        "elapsed_ms": 4142,
+        "response_model": "x-ai/grok-4.1-fast",
+        "reasoning": "Najpierw polityka: Muszę przestrzegać core policies. To nie jest nic nielegalnego, to zwykła krzyżówka.\n"
+      }
+    ]
+  },
+  {
+    "question": "Naprawa uszkodzenia",
+    "correct_answer": "REPARACJA",
+    "model": "openrouter/x-ai/grok-4.1-fast",
+    "guessed": true,
+    "required_hints": 1,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _ _ _ _ _",
+        "raw_answer": "REPARATURA",
+        "cleaned_answer": "REPARATURA",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Naprawa uszkodzenia\nLiczba liter: 9\nMaska: _ _ _ _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 451,
+          "prompt_tokens": 309,
+          "total_tokens": 760,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 448,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 147,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00026525,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00026525,
+            "upstream_inference_prompt_cost": 3.975e-05,
+            "upstream_inference_completions_cost": 0.0002255
+          }
+        },
+        "elapsed_ms": 4293,
+        "response_model": "x-ai/grok-4.1-fast",
+        "reasoning": "Najpierw polityka: Muszę przestrzegać core policies, ale to nie jest nic nielegalnego. To krzyżówka.\n"
+      },
+      {
+        "hints": 1,
+        "mask": "R _ _ _ _ _ _ _ _",
+        "raw_answer": "reparacja",
+        "cleaned_answer": "REPARACJA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Naprawa uszkodzenia\nLiczba liter: 9\nMaska: R _ _ _ _ _ _ _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: REPARATURA\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 521,
+          "prompt_tokens": 333,
+          "total_tokens": 854,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 518,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 150,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0003046,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0003046,
+            "upstream_inference_prompt_cost": 4.41e-05,
+            "upstream_inference_completions_cost": 0.0002605
+          }
+        },
+        "elapsed_ms": 5608,
+        "response_model": "x-ai/grok-4.1-fast",
+        "reasoning": "Najpierw polityka: Muszę być precyzyjnym systemem rozwiązującym polskie krzyżówki. Podawać TYLKO I WYŁĄCZNIE ostateczne hasło. Żadnego dodatkowego tekstu, interpunkcji, kropek ani zwrotów.\n"
+      }
+    ]
+  },
+  {
+    "question": "Obcy wtręt językowy",
+    "correct_answer": "MAKARONIZM",
+    "model": "openrouter/x-ai/grok-4.1-fast",
+    "guessed": true,
+    "required_hints": 1,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _ _ _ _ _ _",
+        "raw_answer": "barbarzyzm",
+        "cleaned_answer": "BARBARZYZM",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Obcy wtręt językowy\nLiczba liter: 10\nMaska: _ _ _ _ _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 286,
+          "prompt_tokens": 313,
+          "total_tokens": 599,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 282,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 147,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00018355,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00018355,
+            "upstream_inference_prompt_cost": 4.055e-05,
+            "upstream_inference_completions_cost": 0.000143
+          }
+        },
+        "elapsed_ms": 2437,
+        "response_model": "x-ai/grok-4.1-fast",
+        "reasoning": "Najpierw polityka: Muszę być precyzyjnym systemem rozwiązującym polskie krzyżówki. Podawać TYLKO I WYŁĄCZNIE ostateczne hasło. Żadnego dodatkowego tekstu, interpunkcji, kropek ani zwrotów.\n"
+      },
+      {
+        "hints": 1,
+        "mask": "M _ _ _ _ _ _ _ _ _",
+        "raw_answer": "MAKARONIZM",
+        "cleaned_answer": "MAKARONIZM",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Obcy wtręt językowy\nLiczba liter: 10\nMaska: M _ _ _ _ _ _ _ _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: BARBARZYZM\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 445,
+          "prompt_tokens": 339,
+          "total_tokens": 784,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 440,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 150,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0002678,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0002678,
+            "upstream_inference_prompt_cost": 4.53e-05,
+            "upstream_inference_completions_cost": 0.0002225
+          }
+        },
+        "elapsed_ms": 6080,
+        "response_model": "x-ai/grok-4.1-fast",
+        "reasoning": "Najpierw polityka: Muszę przestrzegać core policies, ale to nie jest nic nielegalnego. To krzyżówka.\n"
+      }
+    ]
+  }
+]

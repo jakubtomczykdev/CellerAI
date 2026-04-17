@@ -1,0 +1,1979 @@
+[
+  {
+    "question": "Podwodny grunt",
+    "correct_answer": "DNO",
+    "model": "openrouter/mistralai/ministral-14b-2512",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _",
+        "raw_answer": "dno",
+        "cleaned_answer": "DNO",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Podwodny grunt\nLiczba liter: 3\nMaska: _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 3,
+          "prompt_tokens": 177,
+          "total_tokens": 180,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 3.6e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 3.6e-05,
+            "upstream_inference_prompt_cost": 3.54e-05,
+            "upstream_inference_completions_cost": 6e-07
+          }
+        },
+        "elapsed_ms": 196,
+        "response_model": "mistralai/ministral-14b-2512"
+      }
+    ]
+  },
+  {
+    "question": "Kropla smutku",
+    "correct_answer": "ŁZA",
+    "model": "openrouter/mistralai/ministral-14b-2512",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _",
+        "raw_answer": "ŁZA",
+        "cleaned_answer": "ŁZA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Kropla smutku\nLiczba liter: 3\nMaska: _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 4,
+          "prompt_tokens": 178,
+          "total_tokens": 182,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 3.64e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 3.64e-05,
+            "upstream_inference_prompt_cost": 3.56e-05,
+            "upstream_inference_completions_cost": 8e-07
+          }
+        },
+        "elapsed_ms": 179,
+        "response_model": "mistralai/ministral-14b-2512"
+      }
+    ]
+  },
+  {
+    "question": "Góral z dowcipów",
+    "correct_answer": "BACA",
+    "model": "openrouter/mistralai/ministral-14b-2512",
+    "guessed": true,
+    "required_hints": 3,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _",
+        "raw_answer": "KUKUŁ",
+        "cleaned_answer": "KUKUŁ",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Góral z dowcipów\nLiczba liter: 4\nMaska: _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 6,
+          "prompt_tokens": 180,
+          "total_tokens": 186,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 128,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 1.416e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 1.416e-05,
+            "upstream_inference_prompt_cost": 1.296e-05,
+            "upstream_inference_completions_cost": 1.2e-06
+          }
+        },
+        "elapsed_ms": 205,
+        "response_model": "mistralai/ministral-14b-2512"
+      },
+      {
+        "hints": 1,
+        "mask": "B _ _ _",
+        "raw_answer": "BALA",
+        "cleaned_answer": "BALA",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Góral z dowcipów\nLiczba liter: 4\nMaska: B _ _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: KUKUŁ\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 4,
+          "prompt_tokens": 214,
+          "total_tokens": 218,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 7.63e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 7.63e-05,
+            "upstream_inference_prompt_cost": 7.49e-05,
+            "upstream_inference_completions_cost": 1.4e-06
+          }
+        },
+        "elapsed_ms": 518,
+        "response_model": "mistralai/ministral-14b-2512"
+      },
+      {
+        "hints": 2,
+        "mask": "B A _ _",
+        "raw_answer": "BALA",
+        "cleaned_answer": "BALA",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Góral z dowcipów\nLiczba liter: 4\nMaska: B A _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: KUKUŁ, BALA\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 4,
+          "prompt_tokens": 217,
+          "total_tokens": 221,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 4.42e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 4.42e-05,
+            "upstream_inference_prompt_cost": 4.34e-05,
+            "upstream_inference_completions_cost": 8e-07
+          }
+        },
+        "elapsed_ms": 184,
+        "response_model": "mistralai/ministral-14b-2512"
+      },
+      {
+        "hints": 3,
+        "mask": "B A C _",
+        "raw_answer": "BACA",
+        "cleaned_answer": "BACA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Góral z dowcipów\nLiczba liter: 4\nMaska: B A C _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: KUKUŁ, BALA\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 4,
+          "prompt_tokens": 217,
+          "total_tokens": 221,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 128,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 2.116e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 2.116e-05,
+            "upstream_inference_prompt_cost": 2.036e-05,
+            "upstream_inference_completions_cost": 8e-07
+          }
+        },
+        "elapsed_ms": 208,
+        "response_model": "mistralai/ministral-14b-2512"
+      }
+    ]
+  },
+  {
+    "question": "Blada u chorego",
+    "correct_answer": "CERA",
+    "model": "openrouter/mistralai/ministral-14b-2512",
+    "guessed": true,
+    "required_hints": 1,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _",
+        "raw_answer": "blada",
+        "cleaned_answer": "BLADA",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Blada u chorego\nLiczba liter: 4\nMaska: _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 3,
+          "prompt_tokens": 179,
+          "total_tokens": 182,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 128,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 1.336e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 1.336e-05,
+            "upstream_inference_prompt_cost": 1.276e-05,
+            "upstream_inference_completions_cost": 6e-07
+          }
+        },
+        "elapsed_ms": 178,
+        "response_model": "mistralai/ministral-14b-2512"
+      },
+      {
+        "hints": 1,
+        "mask": "C _ _ _",
+        "raw_answer": "CERA",
+        "cleaned_answer": "CERA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Blada u chorego\nLiczba liter: 4\nMaska: C _ _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: BLADA\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 3,
+          "prompt_tokens": 211,
+          "total_tokens": 214,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 7.49e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 7.49e-05,
+            "upstream_inference_prompt_cost": 7.385e-05,
+            "upstream_inference_completions_cost": 1.05e-06
+          }
+        },
+        "elapsed_ms": 462,
+        "response_model": "mistralai/ministral-14b-2512"
+      }
+    ]
+  },
+  {
+    "question": "Podróż przez morze",
+    "correct_answer": "REJS",
+    "model": "openrouter/mistralai/ministral-14b-2512",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _",
+        "raw_answer": "rejs",
+        "cleaned_answer": "REJS",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Podróż przez morze\nLiczba liter: 4\nMaska: _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 3,
+          "prompt_tokens": 179,
+          "total_tokens": 182,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 3.64e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 3.64e-05,
+            "upstream_inference_prompt_cost": 3.58e-05,
+            "upstream_inference_completions_cost": 6e-07
+          }
+        },
+        "elapsed_ms": 176,
+        "response_model": "mistralai/ministral-14b-2512"
+      }
+    ]
+  },
+  {
+    "question": "Sala sportowa",
+    "correct_answer": "HALA",
+    "model": "openrouter/mistralai/ministral-14b-2512",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _",
+        "raw_answer": "hala",
+        "cleaned_answer": "HALA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Sala sportowa\nLiczba liter: 4\nMaska: _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 3,
+          "prompt_tokens": 177,
+          "total_tokens": 180,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 6.3e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 6.3e-05,
+            "upstream_inference_prompt_cost": 6.195e-05,
+            "upstream_inference_completions_cost": 1.05e-06
+          }
+        },
+        "elapsed_ms": 388,
+        "response_model": "mistralai/ministral-14b-2512"
+      }
+    ]
+  },
+  {
+    "question": "Połowica władcy zwierząt",
+    "correct_answer": "LWICA",
+    "model": "openrouter/mistralai/ministral-14b-2512",
+    "guessed": true,
+    "required_hints": 1,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "LEWICA",
+        "cleaned_answer": "LEWICA",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Połowica władcy zwierząt\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 5,
+          "prompt_tokens": 183,
+          "total_tokens": 188,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 3.76e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 3.76e-05,
+            "upstream_inference_prompt_cost": 3.66e-05,
+            "upstream_inference_completions_cost": 1e-06
+          }
+        },
+        "elapsed_ms": 195,
+        "response_model": "mistralai/ministral-14b-2512"
+      },
+      {
+        "hints": 1,
+        "mask": "L _ _ _ _",
+        "raw_answer": "LWICA",
+        "cleaned_answer": "LWICA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Połowica władcy zwierząt\nLiczba liter: 5\nMaska: L _ _ _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: LEWICA\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 5,
+          "prompt_tokens": 216,
+          "total_tokens": 221,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 128,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 2.116e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 2.116e-05,
+            "upstream_inference_prompt_cost": 2.016e-05,
+            "upstream_inference_completions_cost": 1e-06
+          }
+        },
+        "elapsed_ms": 266,
+        "response_model": "mistralai/ministral-14b-2512"
+      }
+    ]
+  },
+  {
+    "question": "Fallon, komik z TV",
+    "correct_answer": "JIMMY",
+    "model": "openrouter/mistralai/ministral-14b-2512",
+    "guessed": true,
+    "required_hints": 4,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "JAROSŁAW",
+        "cleaned_answer": "JAROSŁAW",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Fallon, komik z TV\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 8,
+          "prompt_tokens": 182,
+          "total_tokens": 190,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 128,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 1.496e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 1.496e-05,
+            "upstream_inference_prompt_cost": 1.336e-05,
+            "upstream_inference_completions_cost": 1.6e-06
+          }
+        },
+        "elapsed_ms": 587,
+        "response_model": "mistralai/ministral-14b-2512"
+      },
+      {
+        "hints": 1,
+        "mask": "J _ _ _ _",
+        "raw_answer": "JARZĘB",
+        "cleaned_answer": "JARZĘB",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Fallon, komik z TV\nLiczba liter: 5\nMaska: J _ _ _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: JAROSŁAW\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 7,
+          "prompt_tokens": 218,
+          "total_tokens": 225,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 128,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 2.196e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 2.196e-05,
+            "upstream_inference_prompt_cost": 2.056e-05,
+            "upstream_inference_completions_cost": 1.4e-06
+          }
+        },
+        "elapsed_ms": 378,
+        "response_model": "mistralai/ministral-14b-2512"
+      },
+      {
+        "hints": 2,
+        "mask": "J I _ _ _",
+        "raw_answer": "JARZYŁ",
+        "cleaned_answer": "JARZYŁ",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Fallon, komik z TV\nLiczba liter: 5\nMaska: J I _ _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: JAROSŁAW, JARZĘB\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 7,
+          "prompt_tokens": 225,
+          "total_tokens": 232,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 4.64e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 4.64e-05,
+            "upstream_inference_prompt_cost": 4.5e-05,
+            "upstream_inference_completions_cost": 1.4e-06
+          }
+        },
+        "elapsed_ms": 196,
+        "response_model": "mistralai/ministral-14b-2512"
+      },
+      {
+        "hints": 3,
+        "mask": "J I M _ _",
+        "raw_answer": "JIMCARREY",
+        "cleaned_answer": "JIMCARREY",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Fallon, komik z TV\nLiczba liter: 5\nMaska: J I M _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: JAROSŁAW, JARZĘB, JARZYŁ\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 6,
+          "prompt_tokens": 232,
+          "total_tokens": 238,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 128,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 2.456e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 2.456e-05,
+            "upstream_inference_prompt_cost": 2.336e-05,
+            "upstream_inference_completions_cost": 1.2e-06
+          }
+        },
+        "elapsed_ms": 188,
+        "response_model": "mistralai/ministral-14b-2512"
+      },
+      {
+        "hints": 4,
+        "mask": "J I M M _",
+        "raw_answer": "JIMMY",
+        "cleaned_answer": "JIMMY",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Fallon, komik z TV\nLiczba liter: 5\nMaska: J I M M _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: JAROSŁAW, JARZĘB, JARZYŁ, JIMCARREY\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 4,
+          "prompt_tokens": 238,
+          "total_tokens": 242,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 4.84e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 4.84e-05,
+            "upstream_inference_prompt_cost": 4.76e-05,
+            "upstream_inference_completions_cost": 8e-07
+          }
+        },
+        "elapsed_ms": 167,
+        "response_model": "mistralai/ministral-14b-2512"
+      }
+    ]
+  },
+  {
+    "question": "Siostra Balladyny",
+    "correct_answer": "ALINA",
+    "model": "openrouter/mistralai/ministral-14b-2512",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "ALINA",
+        "cleaned_answer": "ALINA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Siostra Balladyny\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 4,
+          "prompt_tokens": 180,
+          "total_tokens": 184,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 128,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 1.376e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 1.376e-05,
+            "upstream_inference_prompt_cost": 1.296e-05,
+            "upstream_inference_completions_cost": 8e-07
+          }
+        },
+        "elapsed_ms": 412,
+        "response_model": "mistralai/ministral-14b-2512"
+      }
+    ]
+  },
+  {
+    "question": "Okrągłe skrzyżowanie",
+    "correct_answer": "RONDO",
+    "model": "openrouter/mistralai/ministral-14b-2512",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "RONDO",
+        "cleaned_answer": "RONDO",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Okrągłe skrzyżowanie\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 4,
+          "prompt_tokens": 184,
+          "total_tokens": 188,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 6.58e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 6.58e-05,
+            "upstream_inference_prompt_cost": 6.44e-05,
+            "upstream_inference_completions_cost": 1.4e-06
+          }
+        },
+        "elapsed_ms": 513,
+        "response_model": "mistralai/ministral-14b-2512"
+      }
+    ]
+  },
+  {
+    "question": "Imię Kurosawy, reżysera",
+    "correct_answer": "AKIRA",
+    "model": "openrouter/mistralai/ministral-14b-2512",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "AKIRA",
+        "cleaned_answer": "AKIRA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Imię Kurosawy, reżysera\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 4,
+          "prompt_tokens": 185,
+          "total_tokens": 189,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 128,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 1.476e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 1.476e-05,
+            "upstream_inference_prompt_cost": 1.396e-05,
+            "upstream_inference_completions_cost": 8e-07
+          }
+        },
+        "elapsed_ms": 164,
+        "response_model": "mistralai/ministral-14b-2512"
+      }
+    ]
+  },
+  {
+    "question": "Nabranie powietrza do płuc",
+    "correct_answer": "WDECH",
+    "model": "openrouter/mistralai/ministral-14b-2512",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "wdech",
+        "cleaned_answer": "WDECH",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Nabranie powietrza do płuc\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 4,
+          "prompt_tokens": 183,
+          "total_tokens": 187,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 128,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 1.436e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 1.436e-05,
+            "upstream_inference_prompt_cost": 1.356e-05,
+            "upstream_inference_completions_cost": 8e-07
+          }
+        },
+        "elapsed_ms": 186,
+        "response_model": "mistralai/ministral-14b-2512"
+      }
+    ]
+  },
+  {
+    "question": "Listwa stołu bilardowego",
+    "correct_answer": "BANDA",
+    "model": "openrouter/mistralai/ministral-14b-2512",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "BANDA",
+        "cleaned_answer": "BANDA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Listwa stołu bilardowego\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 4,
+          "prompt_tokens": 182,
+          "total_tokens": 186,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 6.51e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 6.51e-05,
+            "upstream_inference_prompt_cost": 6.37e-05,
+            "upstream_inference_completions_cost": 1.4e-06
+          }
+        },
+        "elapsed_ms": 348,
+        "response_model": "mistralai/ministral-14b-2512"
+      }
+    ]
+  },
+  {
+    "question": "Naczynie na kakao",
+    "correct_answer": "KUBEK",
+    "model": "openrouter/mistralai/ministral-14b-2512",
+    "guessed": true,
+    "required_hints": 4,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "TERMOS",
+        "cleaned_answer": "TERMOS",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Naczynie na kakao\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 4,
+          "prompt_tokens": 181,
+          "total_tokens": 185,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 6.475e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 6.475e-05,
+            "upstream_inference_prompt_cost": 6.335e-05,
+            "upstream_inference_completions_cost": 1.4e-06
+          }
+        },
+        "elapsed_ms": 346,
+        "response_model": "mistralai/ministral-14b-2512"
+      },
+      {
+        "hints": 1,
+        "mask": "K _ _ _ _",
+        "raw_answer": "KAKOWNICA",
+        "cleaned_answer": "KAKOWNICA",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Naczynie na kakao\nLiczba liter: 5\nMaska: K _ _ _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: TERMOS\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 7,
+          "prompt_tokens": 213,
+          "total_tokens": 220,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 128,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 2.096e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 2.096e-05,
+            "upstream_inference_prompt_cost": 1.956e-05,
+            "upstream_inference_completions_cost": 1.4e-06
+          }
+        },
+        "elapsed_ms": 190,
+        "response_model": "mistralai/ministral-14b-2512"
+      },
+      {
+        "hints": 2,
+        "mask": "K U _ _ _",
+        "raw_answer": "KUWETKA",
+        "cleaned_answer": "KUWETKA",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Naczynie na kakao\nLiczba liter: 5\nMaska: K U _ _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: TERMOS, KAKOWNICA\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 6,
+          "prompt_tokens": 219,
+          "total_tokens": 225,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 128,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 2.196e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 2.196e-05,
+            "upstream_inference_prompt_cost": 2.076e-05,
+            "upstream_inference_completions_cost": 1.2e-06
+          }
+        },
+        "elapsed_ms": 251,
+        "response_model": "mistralai/ministral-14b-2512"
+      },
+      {
+        "hints": 3,
+        "mask": "K U B _ _",
+        "raw_answer": "KUBECZKA",
+        "cleaned_answer": "KUBECZKA",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Naczynie na kakao\nLiczba liter: 5\nMaska: K U B _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: TERMOS, KAKOWNICA, KUWETKA\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 6,
+          "prompt_tokens": 225,
+          "total_tokens": 231,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 8.085e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 8.085e-05,
+            "upstream_inference_prompt_cost": 7.875e-05,
+            "upstream_inference_completions_cost": 2.1e-06
+          }
+        },
+        "elapsed_ms": 335,
+        "response_model": "mistralai/ministral-14b-2512"
+      },
+      {
+        "hints": 4,
+        "mask": "K U B E _",
+        "raw_answer": "KUBEK",
+        "cleaned_answer": "KUBEK",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Naczynie na kakao\nLiczba liter: 5\nMaska: K U B E _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: TERMOS, KAKOWNICA, KUWETKA, KUBECZKA\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 4,
+          "prompt_tokens": 231,
+          "total_tokens": 235,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 128,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 2.396e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 2.396e-05,
+            "upstream_inference_prompt_cost": 2.316e-05,
+            "upstream_inference_completions_cost": 8e-07
+          }
+        },
+        "elapsed_ms": 483,
+        "response_model": "mistralai/ministral-14b-2512"
+      }
+    ]
+  },
+  {
+    "question": "Kaczor z kreskówek",
+    "correct_answer": "DONALD",
+    "model": "openrouter/mistralai/ministral-14b-2512",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _ _",
+        "raw_answer": "DONALD",
+        "cleaned_answer": "DONALD",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Kaczor z kreskówek\nLiczba liter: 6\nMaska: _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 5,
+          "prompt_tokens": 184,
+          "total_tokens": 189,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 128,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 1.476e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 1.476e-05,
+            "upstream_inference_prompt_cost": 1.376e-05,
+            "upstream_inference_completions_cost": 1e-06
+          }
+        },
+        "elapsed_ms": 171,
+        "response_model": "mistralai/ministral-14b-2512"
+      }
+    ]
+  },
+  {
+    "question": "Buduje igloo",
+    "correct_answer": "ESKIMOS",
+    "model": "openrouter/mistralai/ministral-14b-2512",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _ _ _",
+        "raw_answer": "ESKIMOS",
+        "cleaned_answer": "ESKIMOS",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Buduje igloo\nLiczba liter: 7\nMaska: _ _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 5,
+          "prompt_tokens": 181,
+          "total_tokens": 186,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 128,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 1.416e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 1.416e-05,
+            "upstream_inference_prompt_cost": 1.316e-05,
+            "upstream_inference_completions_cost": 1e-06
+          }
+        },
+        "elapsed_ms": 195,
+        "response_model": "mistralai/ministral-14b-2512"
+      }
+    ]
+  },
+  {
+    "question": "Internetowa sprzedaż",
+    "correct_answer": "EHANDEL",
+    "model": "openrouter/mistralai/ministral-14b-2512",
+    "guessed": false,
+    "required_hints": null,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _ _ _",
+        "raw_answer": "EBAY",
+        "cleaned_answer": "EBAY",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Internetowa sprzedaż\nLiczba liter: 7\nMaska: _ _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 4,
+          "prompt_tokens": 182,
+          "total_tokens": 186,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 6.51e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 6.51e-05,
+            "upstream_inference_prompt_cost": 6.37e-05,
+            "upstream_inference_completions_cost": 1.4e-06
+          }
+        },
+        "elapsed_ms": 315,
+        "response_model": "mistralai/ministral-14b-2512"
+      },
+      {
+        "hints": 1,
+        "mask": "E _ _ _ _ _ _",
+        "raw_answer": "ECOM",
+        "cleaned_answer": "ECOM",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Internetowa sprzedaż\nLiczba liter: 7\nMaska: E _ _ _ _ _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: EBAY\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 3,
+          "prompt_tokens": 214,
+          "total_tokens": 217,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 7.595e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 7.595e-05,
+            "upstream_inference_prompt_cost": 7.49e-05,
+            "upstream_inference_completions_cost": 1.05e-06
+          }
+        },
+        "elapsed_ms": 340,
+        "response_model": "mistralai/ministral-14b-2512"
+      },
+      {
+        "hints": 2,
+        "mask": "E H _ _ _ _ _",
+        "raw_answer": "EHANDL",
+        "cleaned_answer": "EHANDL",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Internetowa sprzedaż\nLiczba liter: 7\nMaska: E H _ _ _ _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: EBAY, ECOM\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 5,
+          "prompt_tokens": 217,
+          "total_tokens": 222,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 128,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 2.136e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 2.136e-05,
+            "upstream_inference_prompt_cost": 2.036e-05,
+            "upstream_inference_completions_cost": 1e-06
+          }
+        },
+        "elapsed_ms": 170,
+        "response_model": "mistralai/ministral-14b-2512"
+      },
+      {
+        "hints": 3,
+        "mask": "E H A _ _ _ _",
+        "raw_answer": "EHURTO",
+        "cleaned_answer": "EHURTO",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Internetowa sprzedaż\nLiczba liter: 7\nMaska: E H A _ _ _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: EBAY, ECOM, EHANDL\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 5,
+          "prompt_tokens": 222,
+          "total_tokens": 227,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 128,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 2.236e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 2.236e-05,
+            "upstream_inference_prompt_cost": 2.136e-05,
+            "upstream_inference_completions_cost": 1e-06
+          }
+        },
+        "elapsed_ms": 188,
+        "response_model": "mistralai/ministral-14b-2512"
+      },
+      {
+        "hints": 4,
+        "mask": "E H A N _ _ _",
+        "raw_answer": "EHANDLO",
+        "cleaned_answer": "EHANDLO",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Internetowa sprzedaż\nLiczba liter: 7\nMaska: E H A N _ _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: EBAY, ECOM, EHANDL, EHURTO\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 5,
+          "prompt_tokens": 227,
+          "total_tokens": 232,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 128,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 2.336e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 2.336e-05,
+            "upstream_inference_prompt_cost": 2.236e-05,
+            "upstream_inference_completions_cost": 1e-06
+          }
+        },
+        "elapsed_ms": 177,
+        "response_model": "mistralai/ministral-14b-2512"
+      },
+      {
+        "hints": 5,
+        "mask": "E H A N D _ _",
+        "raw_answer": "EHANDAR",
+        "cleaned_answer": "EHANDAR",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Internetowa sprzedaż\nLiczba liter: 7\nMaska: E H A N D _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: EBAY, ECOM, EHANDL, EHURTO, EHANDLO\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 5,
+          "prompt_tokens": 232,
+          "total_tokens": 237,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 128,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 2.436e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 2.436e-05,
+            "upstream_inference_prompt_cost": 2.336e-05,
+            "upstream_inference_completions_cost": 1e-06
+          }
+        },
+        "elapsed_ms": 179,
+        "response_model": "mistralai/ministral-14b-2512"
+      },
+      {
+        "hints": 6,
+        "mask": "E H A N D E _",
+        "raw_answer": "EHANDLU",
+        "cleaned_answer": "EHANDLU",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Internetowa sprzedaż\nLiczba liter: 7\nMaska: E H A N D E _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: ECOM, EHANDL, EHURTO, EHANDLO, EHANDAR\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 5,
+          "prompt_tokens": 233,
+          "total_tokens": 238,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 128,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 2.456e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 2.456e-05,
+            "upstream_inference_prompt_cost": 2.356e-05,
+            "upstream_inference_completions_cost": 1e-06
+          }
+        },
+        "elapsed_ms": 202,
+        "response_model": "mistralai/ministral-14b-2512"
+      },
+      {
+        "hints": 7,
+        "mask": "E H A N D E L",
+        "raw_answer": "EHANDLOW",
+        "cleaned_answer": "EHANDLOW",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Internetowa sprzedaż\nLiczba liter: 7\nMaska: E H A N D E L\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: EHANDL, EHURTO, EHANDLO, EHANDAR, EHANDLU\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 6,
+          "prompt_tokens": 236,
+          "total_tokens": 242,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 128,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 2.536e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 2.536e-05,
+            "upstream_inference_prompt_cost": 2.416e-05,
+            "upstream_inference_completions_cost": 1.2e-06
+          }
+        },
+        "elapsed_ms": 192,
+        "response_model": "mistralai/ministral-14b-2512"
+      }
+    ]
+  },
+  {
+    "question": "Naprawa uszkodzenia",
+    "correct_answer": "REPARACJA",
+    "model": "openrouter/mistralai/ministral-14b-2512",
+    "guessed": true,
+    "required_hints": 1,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _ _ _ _ _",
+        "raw_answer": "naprawa",
+        "cleaned_answer": "NAPRAWA",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Naprawa uszkodzenia\nLiczba liter: 9\nMaska: _ _ _ _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 4,
+          "prompt_tokens": 185,
+          "total_tokens": 189,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 128,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 1.476e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 1.476e-05,
+            "upstream_inference_prompt_cost": 1.396e-05,
+            "upstream_inference_completions_cost": 8e-07
+          }
+        },
+        "elapsed_ms": 195,
+        "response_model": "mistralai/ministral-14b-2512"
+      },
+      {
+        "hints": 1,
+        "mask": "R _ _ _ _ _ _ _ _",
+        "raw_answer": "REPARACJA",
+        "cleaned_answer": "REPARACJA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Naprawa uszkodzenia\nLiczba liter: 9\nMaska: R _ _ _ _ _ _ _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: NAPRAWA\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 5,
+          "prompt_tokens": 218,
+          "total_tokens": 223,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 7.805e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 7.805e-05,
+            "upstream_inference_prompt_cost": 7.63e-05,
+            "upstream_inference_completions_cost": 1.75e-06
+          }
+        },
+        "elapsed_ms": 512,
+        "response_model": "mistralai/ministral-14b-2512"
+      }
+    ]
+  },
+  {
+    "question": "Obcy wtręt językowy",
+    "correct_answer": "MAKARONIZM",
+    "model": "openrouter/mistralai/ministral-14b-2512",
+    "guessed": true,
+    "required_hints": 3,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _ _ _ _ _ _",
+        "raw_answer": "kalka",
+        "cleaned_answer": "KALKA",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Obcy wtręt językowy\nLiczba liter: 10\nMaska: _ _ _ _ _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 3,
+          "prompt_tokens": 190,
+          "total_tokens": 193,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 6.755e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 6.755e-05,
+            "upstream_inference_prompt_cost": 6.65e-05,
+            "upstream_inference_completions_cost": 1.05e-06
+          }
+        },
+        "elapsed_ms": 403,
+        "response_model": "mistralai/ministral-14b-2512"
+      },
+      {
+        "hints": 1,
+        "mask": "M _ _ _ _ _ _ _ _ _",
+        "raw_answer": "MANERYZM",
+        "cleaned_answer": "MANERYZM",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Obcy wtręt językowy\nLiczba liter: 10\nMaska: M _ _ _ _ _ _ _ _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: KALKA\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 6,
+          "prompt_tokens": 222,
+          "total_tokens": 228,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 7.98e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 7.98e-05,
+            "upstream_inference_prompt_cost": 7.77e-05,
+            "upstream_inference_completions_cost": 2.1e-06
+          }
+        },
+        "elapsed_ms": 426,
+        "response_model": "mistralai/ministral-14b-2512"
+      },
+      {
+        "hints": 2,
+        "mask": "M A _ _ _ _ _ _ _ _",
+        "raw_answer": "MAŁOŻYDŁOWY",
+        "cleaned_answer": "MAŁOŻYDŁOWY",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Obcy wtręt językowy\nLiczba liter: 10\nMaska: M A _ _ _ _ _ _ _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: KALKA, MANERYZM\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 13,
+          "prompt_tokens": 227,
+          "total_tokens": 240,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 128,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 2.496e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 2.496e-05,
+            "upstream_inference_prompt_cost": 2.236e-05,
+            "upstream_inference_completions_cost": 2.6e-06
+          }
+        },
+        "elapsed_ms": 232,
+        "response_model": "mistralai/ministral-14b-2512"
+      },
+      {
+        "hints": 3,
+        "mask": "M A K _ _ _ _ _ _ _",
+        "raw_answer": "MAKARONIZM",
+        "cleaned_answer": "MAKARONIZM",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Obcy wtręt językowy\nLiczba liter: 10\nMaska: M A K _ _ _ _ _ _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: KALKA, MANERYZM, MAŁOŻYDŁOWY\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 7,
+          "prompt_tokens": 240,
+          "total_tokens": 247,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 8.645e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 8.645e-05,
+            "upstream_inference_prompt_cost": 8.4e-05,
+            "upstream_inference_completions_cost": 2.45e-06
+          }
+        },
+        "elapsed_ms": 371,
+        "response_model": "mistralai/ministral-14b-2512"
+      }
+    ]
+  }
+]
