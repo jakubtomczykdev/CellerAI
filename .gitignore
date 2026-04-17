@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+
+# Dane i wyniki (nie chcemy ich w repozytorium)
+dataset.json
+wyniki.csv
+wyniki_szczegoly.csv
+results.csv
+results_details.csv
