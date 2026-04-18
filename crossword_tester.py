@@ -24,8 +24,9 @@ MODELS_TO_TEST = [
 #     "openrouter/google/gemma-4-26b-a4b-it",
     "openrouter/qwen/qwen3.5-flash-02-23",
     "openrouter/mistralai/ministral-14b-2512",
-    "openrouter/mistralai/mistral-small-2603"
-    "anthropic/claude-sonnet-4.6"
+    "openrouter/mistralai/mistral-small-2603",
+    "openrouter/anthropic/claude-sonnet-4.6",
+    "openrouter/anthropic/claude-opus-4.7",
     # "openrouter/anthropic/claude-haiku-4.5"
 ]
 
