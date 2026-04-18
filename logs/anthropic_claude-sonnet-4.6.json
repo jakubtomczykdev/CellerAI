@@ -1,0 +1,1119 @@
+[
+  {
+    "question": "Podwodny grunt",
+    "correct_answer": "DNO",
+    "model": "openrouter/anthropic/claude-sonnet-4.6",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _",
+        "raw_answer": "DNO",
+        "cleaned_answer": "DNO",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Podwodny grunt\nLiczba liter: 3\nMaska: _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 16,
+          "prompt_tokens": 220,
+          "total_tokens": 236,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 1,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0009,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0009,
+            "upstream_inference_prompt_cost": 0.00066,
+            "upstream_inference_completions_cost": 0.00024
+          }
+        },
+        "elapsed_ms": 3128,
+        "response_model": "anthropic/claude-4.6-sonnet-20260217",
+        "reasoning": "DNO"
+      }
+    ]
+  },
+  {
+    "question": "Kropla smutku",
+    "correct_answer": "ŁZA",
+    "model": "openrouter/anthropic/claude-sonnet-4.6",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _",
+        "raw_answer": "ŁZA",
+        "cleaned_answer": "ŁZA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Kropla smutku\nLiczba liter: 3\nMaska: _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 21,
+          "prompt_tokens": 220,
+          "total_tokens": 241,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 2,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.000975,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.000975,
+            "upstream_inference_prompt_cost": 0.00066,
+            "upstream_inference_completions_cost": 0.000315
+          }
+        },
+        "elapsed_ms": 1882,
+        "response_model": "anthropic/claude-4.6-sonnet-20260217",
+        "reasoning": "ŁZA"
+      }
+    ]
+  },
+  {
+    "question": "Góral z dowcipów",
+    "correct_answer": "BACA",
+    "model": "openrouter/anthropic/claude-sonnet-4.6",
+    "guessed": true,
+    "required_hints": 1,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _",
+        "raw_answer": "JÓZK",
+        "cleaned_answer": "JÓZK",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Góral z dowcipów\nLiczba liter: 4\nMaska: _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 17,
+          "prompt_tokens": 223,
+          "total_tokens": 240,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 2,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.000924,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.000924,
+            "upstream_inference_prompt_cost": 0.000669,
+            "upstream_inference_completions_cost": 0.000255
+          }
+        },
+        "elapsed_ms": 3075,
+        "response_model": "anthropic/claude-4.6-sonnet-20260217",
+        "reasoning": "JÓZEK"
+      },
+      {
+        "hints": 1,
+        "mask": "B _ _ _",
+        "raw_answer": "BACA",
+        "cleaned_answer": "BACA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Góral z dowcipów\nLiczba liter: 4\nMaska: B _ _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: JÓZK\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 17,
+          "prompt_tokens": 254,
+          "total_tokens": 271,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 1,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.001017,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.001017,
+            "upstream_inference_prompt_cost": 0.000762,
+            "upstream_inference_completions_cost": 0.000255
+          }
+        },
+        "elapsed_ms": 1405,
+        "response_model": "anthropic/claude-4.6-sonnet-20260217",
+        "reasoning": "BACA"
+      }
+    ]
+  },
+  {
+    "question": "Blada u chorego",
+    "correct_answer": "CERA",
+    "model": "openrouter/anthropic/claude-sonnet-4.6",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _",
+        "raw_answer": "CERA",
+        "cleaned_answer": "CERA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Blada u chorego\nLiczba liter: 4\nMaska: _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 17,
+          "prompt_tokens": 221,
+          "total_tokens": 238,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 1,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.000918,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.000918,
+            "upstream_inference_prompt_cost": 0.000663,
+            "upstream_inference_completions_cost": 0.000255
+          }
+        },
+        "elapsed_ms": 1159,
+        "response_model": "anthropic/claude-4.6-sonnet-20260217",
+        "reasoning": "CERA"
+      }
+    ]
+  },
+  {
+    "question": "Podróż przez morze",
+    "correct_answer": "REJS",
+    "model": "openrouter/anthropic/claude-sonnet-4.6",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _",
+        "raw_answer": "REJS",
+        "cleaned_answer": "REJS",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Podróż przez morze\nLiczba liter: 4\nMaska: _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 17,
+          "prompt_tokens": 222,
+          "total_tokens": 239,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 1,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.000921,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.000921,
+            "upstream_inference_prompt_cost": 0.000666,
+            "upstream_inference_completions_cost": 0.000255
+          }
+        },
+        "elapsed_ms": 1394,
+        "response_model": "anthropic/claude-4.6-sonnet-20260217",
+        "reasoning": "REJS"
+      }
+    ]
+  },
+  {
+    "question": "Sala sportowa",
+    "correct_answer": "HALA",
+    "model": "openrouter/anthropic/claude-sonnet-4.6",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _",
+        "raw_answer": "HALA",
+        "cleaned_answer": "HALA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Sala sportowa\nLiczba liter: 4\nMaska: _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 17,
+          "prompt_tokens": 219,
+          "total_tokens": 236,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 1,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.000912,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.000912,
+            "upstream_inference_prompt_cost": 0.000657,
+            "upstream_inference_completions_cost": 0.000255
+          }
+        },
+        "elapsed_ms": 1409,
+        "response_model": "anthropic/claude-4.6-sonnet-20260217",
+        "reasoning": "HALA"
+      }
+    ]
+  },
+  {
+    "question": "Połowica władcy zwierząt",
+    "correct_answer": "LWICA",
+    "model": "openrouter/anthropic/claude-sonnet-4.6",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "LWICA",
+        "cleaned_answer": "LWICA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Połowica władcy zwierząt\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 17,
+          "prompt_tokens": 226,
+          "total_tokens": 243,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 2,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.000933,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.000933,
+            "upstream_inference_prompt_cost": 0.000678,
+            "upstream_inference_completions_cost": 0.000255
+          }
+        },
+        "elapsed_ms": 1133,
+        "response_model": "anthropic/claude-4.6-sonnet-20260217",
+        "reasoning": "LWICA"
+      }
+    ]
+  },
+  {
+    "question": "Fallon, komik z TV",
+    "correct_answer": "JIMMY",
+    "model": "openrouter/anthropic/claude-sonnet-4.6",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "JIMMY",
+        "cleaned_answer": "JIMMY",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Fallon, komik z TV\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 15,
+          "prompt_tokens": 224,
+          "total_tokens": 239,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 2,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.000897,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.000897,
+            "upstream_inference_prompt_cost": 0.000672,
+            "upstream_inference_completions_cost": 0.000225
+          }
+        },
+        "elapsed_ms": 1402,
+        "response_model": "anthropic/claude-4.6-sonnet-20260217",
+        "reasoning": "JIMMY"
+      }
+    ]
+  },
+  {
+    "question": "Siostra Balladyny",
+    "correct_answer": "ALINA",
+    "model": "openrouter/anthropic/claude-sonnet-4.6",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "ALINA",
+        "cleaned_answer": "ALINA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Siostra Balladyny\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 17,
+          "prompt_tokens": 224,
+          "total_tokens": 241,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 2,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.000927,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.000927,
+            "upstream_inference_prompt_cost": 0.000672,
+            "upstream_inference_completions_cost": 0.000255
+          }
+        },
+        "elapsed_ms": 2163,
+        "response_model": "anthropic/claude-4.6-sonnet-20260217",
+        "reasoning": "ALINA"
+      }
+    ]
+  },
+  {
+    "question": "Okrągłe skrzyżowanie",
+    "correct_answer": "RONDO",
+    "model": "openrouter/anthropic/claude-sonnet-4.6",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "RONDO",
+        "cleaned_answer": "RONDO",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Okrągłe skrzyżowanie\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 17,
+          "prompt_tokens": 227,
+          "total_tokens": 244,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 2,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.000936,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.000936,
+            "upstream_inference_prompt_cost": 0.000681,
+            "upstream_inference_completions_cost": 0.000255
+          }
+        },
+        "elapsed_ms": 1598,
+        "response_model": "anthropic/claude-4.6-sonnet-20260217",
+        "reasoning": "RONDO"
+      }
+    ]
+  },
+  {
+    "question": "Imię Kurosawy, reżysera",
+    "correct_answer": "AKIRA",
+    "model": "openrouter/anthropic/claude-sonnet-4.6",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "AKIRA",
+        "cleaned_answer": "AKIRA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Imię Kurosawy, reżysera\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 17,
+          "prompt_tokens": 228,
+          "total_tokens": 245,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 2,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.000939,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.000939,
+            "upstream_inference_prompt_cost": 0.000684,
+            "upstream_inference_completions_cost": 0.000255
+          }
+        },
+        "elapsed_ms": 1288,
+        "response_model": "anthropic/claude-4.6-sonnet-20260217",
+        "reasoning": "AKIRA"
+      }
+    ]
+  },
+  {
+    "question": "Nabranie powietrza do płuc",
+    "correct_answer": "WDECH",
+    "model": "openrouter/anthropic/claude-sonnet-4.6",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "WDECH",
+        "cleaned_answer": "WDECH",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Nabranie powietrza do płuc\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 19,
+          "prompt_tokens": 227,
+          "total_tokens": 246,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 2,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.000966,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.000966,
+            "upstream_inference_prompt_cost": 0.000681,
+            "upstream_inference_completions_cost": 0.000285
+          }
+        },
+        "elapsed_ms": 1286,
+        "response_model": "anthropic/claude-4.6-sonnet-20260217",
+        "reasoning": "WDECH"
+      }
+    ]
+  },
+  {
+    "question": "Listwa stołu bilardowego",
+    "correct_answer": "BANDA",
+    "model": "openrouter/anthropic/claude-sonnet-4.6",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "BANDA",
+        "cleaned_answer": "BANDA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Listwa stołu bilardowego\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 15,
+          "prompt_tokens": 225,
+          "total_tokens": 240,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 2,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0009,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0009,
+            "upstream_inference_prompt_cost": 0.000675,
+            "upstream_inference_completions_cost": 0.000225
+          }
+        },
+        "elapsed_ms": 1119,
+        "response_model": "anthropic/claude-4.6-sonnet-20260217",
+        "reasoning": "BANDA"
+      }
+    ]
+  },
+  {
+    "question": "Naczynie na kakao",
+    "correct_answer": "KUBEK",
+    "model": "openrouter/anthropic/claude-sonnet-4.6",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "KUBEK",
+        "cleaned_answer": "KUBEK",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Naczynie na kakao\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 30,
+          "prompt_tokens": 223,
+          "total_tokens": 253,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 9,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.001119,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.001119,
+            "upstream_inference_prompt_cost": 0.000669,
+            "upstream_inference_completions_cost": 0.00045
+          }
+        },
+        "elapsed_ms": 1662,
+        "response_model": "anthropic/claude-4.6-sonnet-20260217",
+        "reasoning": "KUBEK - naczynie na kakao, 5 liter"
+      }
+    ]
+  },
+  {
+    "question": "Kaczor z kreskówek",
+    "correct_answer": "DONALD",
+    "model": "openrouter/anthropic/claude-sonnet-4.6",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _ _",
+        "raw_answer": "DONALD",
+        "cleaned_answer": "DONALD",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Kaczor z kreskówek\nLiczba liter: 6\nMaska: _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 15,
+          "prompt_tokens": 226,
+          "total_tokens": 241,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 2,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.000903,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.000903,
+            "upstream_inference_prompt_cost": 0.000678,
+            "upstream_inference_completions_cost": 0.000225
+          }
+        },
+        "elapsed_ms": 2454,
+        "response_model": "anthropic/claude-4.6-sonnet-20260217",
+        "reasoning": "DONALD"
+      }
+    ]
+  },
+  {
+    "question": "Buduje igloo",
+    "correct_answer": "ESKIMOS",
+    "model": "openrouter/anthropic/claude-sonnet-4.6",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _ _ _",
+        "raw_answer": "ESKIMOS",
+        "cleaned_answer": "ESKIMOS",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Buduje igloo\nLiczba liter: 7\nMaska: _ _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 17,
+          "prompt_tokens": 223,
+          "total_tokens": 240,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 2,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.000924,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.000924,
+            "upstream_inference_prompt_cost": 0.000669,
+            "upstream_inference_completions_cost": 0.000255
+          }
+        },
+        "elapsed_ms": 1226,
+        "response_model": "anthropic/claude-4.6-sonnet-20260217",
+        "reasoning": "ESKIMOS"
+      }
+    ]
+  },
+  {
+    "question": "Internetowa sprzedaż",
+    "correct_answer": "EHANDEL",
+    "model": "openrouter/anthropic/claude-sonnet-4.6",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _ _ _",
+        "raw_answer": "EHANDEL",
+        "cleaned_answer": "EHANDEL",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Internetowa sprzedaż\nLiczba liter: 7\nMaska: _ _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 137,
+          "prompt_tokens": 226,
+          "total_tokens": 363,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 73,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.002733,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.002733,
+            "upstream_inference_prompt_cost": 0.000678,
+            "upstream_inference_completions_cost": 0.002055
+          }
+        },
+        "elapsed_ms": 4044,
+        "response_model": "anthropic/claude-4.6-sonnet-20260217",
+        "reasoning": "E-HANDEL or Ehandel... but that's 6 letters. \n\nSKLEP ONLINE - too many letters.\n\nWEBSHOP - 7 letters but English.\n\nAUKCJA - 6 letters.\n\nE-SKLEP - 7 with hyphen? ESKLEP - 6.\n\nECOMMERC - no.\n\nHANDEL - 6.\n\nEHANDEL - 7 letters: E-H-A-N-D-E-L = 7. Yes!"
+      }
+    ]
+  },
+  {
+    "question": "Naprawa uszkodzenia",
+    "correct_answer": "REPARACJA",
+    "model": "openrouter/anthropic/claude-sonnet-4.6",
+    "guessed": true,
+    "required_hints": 1,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _ _ _ _ _",
+        "raw_answer": "REPERACJA",
+        "cleaned_answer": "REPERACJA",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Naprawa uszkodzenia\nLiczba liter: 9\nMaska: _ _ _ _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 19,
+          "prompt_tokens": 228,
+          "total_tokens": 247,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 3,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.000969,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.000969,
+            "upstream_inference_prompt_cost": 0.000684,
+            "upstream_inference_completions_cost": 0.000285
+          }
+        },
+        "elapsed_ms": 1356,
+        "response_model": "anthropic/claude-4.6-sonnet-20260217",
+        "reasoning": "REPERACJA"
+      },
+      {
+        "hints": 1,
+        "mask": "R _ _ _ _ _ _ _ _",
+        "raw_answer": "REPARACJA",
+        "cleaned_answer": "REPARACJA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Naprawa uszkodzenia\nLiczba liter: 9\nMaska: R _ _ _ _ _ _ _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: REPERACJA\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 174,
+          "prompt_tokens": 260,
+          "total_tokens": 434,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 98,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00339,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00339,
+            "upstream_inference_prompt_cost": 0.00078,
+            "upstream_inference_completions_cost": 0.00261
+          }
+        },
+        "elapsed_ms": 4871,
+        "response_model": "anthropic/claude-4.6-sonnet-20260217",
+        "reasoning": "RENOWACJA - nie, to odnowienie\nREPARACJA - naprawa, 9 liter, R_______\n\nREPERACJA jest błędne.\n\nREPARACJA - R-E-P-A-R-A-C-J-A - 9 liter. To też naprawa/odszkodowanie.\n\nRESTAURACJA - za dużo liter\n\nREKONSTRUKCJA - za dużo\n\nREMONT - za mało\n\nRESTYTUCJA - przywrócenie\n\nREPARACJA = naprawienie szkód, 9 liter: R-E-P-A-R-A-C-J-A"
+      }
+    ]
+  },
+  {
+    "question": "Obcy wtręt językowy",
+    "correct_answer": "MAKARONIZM",
+    "model": "openrouter/anthropic/claude-sonnet-4.6",
+    "guessed": true,
+    "required_hints": 1,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _ _ _ _ _ _",
+        "raw_answer": "ZAPOŻYCZENIE",
+        "cleaned_answer": "ZAPOŻYCZENIE",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Obcy wtręt językowy\nLiczba liter: 10\nMaska: _ _ _ _ _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 21,
+          "prompt_tokens": 229,
+          "total_tokens": 250,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 4,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.001002,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.001002,
+            "upstream_inference_prompt_cost": 0.000687,
+            "upstream_inference_completions_cost": 0.000315
+          }
+        },
+        "elapsed_ms": 2340,
+        "response_model": "anthropic/claude-4.6-sonnet-20260217",
+        "reasoning": "ZAPOŻYCZENIE"
+      },
+      {
+        "hints": 1,
+        "mask": "M _ _ _ _ _ _ _ _ _",
+        "raw_answer": "MAKARONIZM",
+        "cleaned_answer": "MAKARONIZM",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Obcy wtręt językowy\nLiczba liter: 10\nMaska: M _ _ _ _ _ _ _ _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: ZAPOŻYCZENIE\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 23,
+          "prompt_tokens": 262,
+          "total_tokens": 285,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 3,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.001131,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.001131,
+            "upstream_inference_prompt_cost": 0.000786,
+            "upstream_inference_completions_cost": 0.000345
+          }
+        },
+        "elapsed_ms": 1612,
+        "response_model": "anthropic/claude-4.6-sonnet-20260217",
+        "reasoning": "MAKARONIZM"
+      }
+    ]
+  }
+]

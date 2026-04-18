@@ -1,0 +1,1162 @@
+[
+  {
+    "question": "Podwodny grunt",
+    "correct_answer": "DNO",
+    "model": "openrouter/x-ai/grok-4.20",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _",
+        "raw_answer": "DNO",
+        "cleaned_answer": "DNO",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Podwodny grunt\nLiczba liter: 3\nMaska: _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 484,
+          "prompt_tokens": 275,
+          "total_tokens": 759,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 482,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 64,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0033388,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0033388,
+            "upstream_inference_prompt_cost": 0.0004348,
+            "upstream_inference_completions_cost": 0.002904
+          }
+        },
+        "elapsed_ms": 3437,
+        "response_model": "x-ai/grok-4.20-20260309",
+        "reasoning": "Najpierw użytkownik podaje definicję: \"Podwodny grunt\".\n"
+      }
+    ]
+  },
+  {
+    "question": "Kropla smutku",
+    "correct_answer": "ŁZA",
+    "model": "openrouter/x-ai/grok-4.20",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _",
+        "raw_answer": "ŁZA",
+        "cleaned_answer": "ŁZA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Kropla smutku\nLiczba liter: 3\nMaska: _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 296,
+          "prompt_tokens": 274,
+          "total_tokens": 570,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 294,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 64,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0022088,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0022088,
+            "upstream_inference_prompt_cost": 0.0004328,
+            "upstream_inference_completions_cost": 0.001776
+          }
+        },
+        "elapsed_ms": 2628,
+        "response_model": "x-ai/grok-4.20-20260309",
+        "reasoning": "Najpierw użytkownik podaje: \"Definicja: Kropla smutku\", \"Liczba liter: 3\", \"Maska: _ _ _\".\n"
+      }
+    ]
+  },
+  {
+    "question": "Góral z dowcipów",
+    "correct_answer": "BACA",
+    "model": "openrouter/x-ai/grok-4.20",
+    "guessed": true,
+    "required_hints": 1,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _",
+        "raw_answer": "SABA",
+        "cleaned_answer": "SABA",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Góral z dowcipów\nLiczba liter: 4\nMaska: _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 1220,
+          "prompt_tokens": 277,
+          "total_tokens": 1497,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 1218,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 64,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0077588,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0077588,
+            "upstream_inference_prompt_cost": 0.0004388,
+            "upstream_inference_completions_cost": 0.00732
+          }
+        },
+        "elapsed_ms": 9377,
+        "response_model": "x-ai/grok-4.20-20260309",
+        "reasoning": "Najpierw użytkownik podaje definicję: \"Góral z dowcipów\". To po polsku oznacza \"Góral z dowcipów\" – prawdopodobnie chodzi o stereotypowego górala z polskich dowcipów.\nI think the definition \"Góral z dowcipów\" refers to a stereotypical highlander from Polish jokes, and with a 4-letter word mask of _ _ _ _, the answer is \"JOJKO\". But that's not right; let's think about it. In Polish humor, common highlander names are longer, but for  crossword purposes, it's \"BACO\", referring to a diminutive for a shepherd or a typical highlander figure. But actually, upon reflection, the fitting word is \"BACO\", as baca is a 4-letter term for a highlander-related role, and it's often featured in jokes."
+      },
+      {
+        "hints": 1,
+        "mask": "B _ _ _",
+        "raw_answer": "BACA",
+        "cleaned_answer": "BACA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Góral z dowcipów\nLiczba liter: 4\nMaska: B _ _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: SABA\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 1095,
+          "prompt_tokens": 300,
+          "total_tokens": 1395,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 1093,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 64,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0070548,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0070548,
+            "upstream_inference_prompt_cost": 0.0004848,
+            "upstream_inference_completions_cost": 0.00657
+          }
+        },
+        "elapsed_ms": 8655,
+        "response_model": "x-ai/grok-4.20-20260309",
+        "reasoning": "The task is to solve a Polish crossword clue. The definition is \"Góral z dowcipów\" which means \"Highlander from jokes\" or something like that. It's a 4-letter word, mask is B _ _ _.\nI need to figure out a 4-letter word that fits the clue \"Góral z dowcipów\" with the pattern B _ _ _, and it's not SABA, which is definitely wrong.\n\nThe clue translates to \"Highlander from jokes,\" referring to a stereotypical character in Polish humor, probably a highlanderfrom the mountains.\n\nI recall that \"baca\" is a term for a highlander shepherd, and it's often featured in jokes. \"Baca\" is spelled B-A-C-A, which fits the pattern B _ _ _ perfectly.\n\nSince SABA doesn't fit the pattern anyway (it starts with S), it's likelya previous wrong guess, and \"baca\" makes sense as the answer.\n\nSo, the new word I'm coming up with is BACA."
+      }
+    ]
+  },
+  {
+    "question": "Blada u chorego",
+    "correct_answer": "CERA",
+    "model": "openrouter/x-ai/grok-4.20",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _",
+        "raw_answer": "CERA",
+        "cleaned_answer": "CERA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Blada u chorego\nLiczba liter: 4\nMaska: _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 950,
+          "prompt_tokens": 276,
+          "total_tokens": 1226,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 948,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 64,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0061368,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0061368,
+            "upstream_inference_prompt_cost": 0.0004368,
+            "upstream_inference_completions_cost": 0.0057
+          }
+        },
+        "elapsed_ms": 7670,
+        "response_model": "x-ai/grok-4.20-20260309",
+        "reasoning": "Najpierw zadanie: Jestem precyzyjnym systemem rozwiązującym polskie krzyżówki. Muszę podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawać żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani z...I think the clue \"Blada u chorego\" for a 4-letter word in Polish crossword means \"cera,\" which fits perfectly. The definition suggests \"pallor\" or \"complexion,\" and \"blada cera\" is a common phrase for a pale complexion in a patient. \"Cera\" means \"skin\" or \"complexion,\" exactly 4 letters, matching the mask _ _ _ _. Other options like \"twarz\" or \"mina\" don't fit as well, but \"cera\" aligns with medical and crossword contexts."
+      }
+    ]
+  },
+  {
+    "question": "Podróż przez morze",
+    "correct_answer": "REJS",
+    "model": "openrouter/x-ai/grok-4.20",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _",
+        "raw_answer": "REJS",
+        "cleaned_answer": "REJS",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Podróż przez morze\nLiczba liter: 4\nMaska: _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 272,
+          "prompt_tokens": 276,
+          "total_tokens": 548,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 270,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 64,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0020688,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0020688,
+            "upstream_inference_prompt_cost": 0.0004368,
+            "upstream_inference_completions_cost": 0.001632
+          }
+        },
+        "elapsed_ms": 2845,
+        "response_model": "x-ai/grok-4.20-20260309",
+        "reasoning": "Najpierw użytkownik podaje definicję: \"Podróż przez morze\". Liczba liter: 4. Maska: _ _ _ _.\n"
+      }
+    ]
+  },
+  {
+    "question": "Sala sportowa",
+    "correct_answer": "HALA",
+    "model": "openrouter/x-ai/grok-4.20",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _",
+        "raw_answer": "HALA",
+        "cleaned_answer": "HALA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Sala sportowa\nLiczba liter: 4\nMaska: _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 431,
+          "prompt_tokens": 274,
+          "total_tokens": 705,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 429,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 64,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0030188,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0030188,
+            "upstream_inference_prompt_cost": 0.0004328,
+            "upstream_inference_completions_cost": 0.002586
+          }
+        },
+        "elapsed_ms": 2629,
+        "response_model": "x-ai/grok-4.20-20260309",
+        "reasoning": "Najpierw użytkownik podaje: \"Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki.\" To oznacza, że mam być precyzyjnym systemem do rozwiązywania polskich krzyżówek. Instrukcja mówi: \"Twoim zada..."
+      }
+    ]
+  },
+  {
+    "question": "Połowica władcy zwierząt",
+    "correct_answer": "LWICA",
+    "model": "openrouter/x-ai/grok-4.20",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "LWICA",
+        "cleaned_answer": "LWICA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Połowica władcy zwierząt\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 456,
+          "prompt_tokens": 278,
+          "total_tokens": 734,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 454,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 64,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0031768,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0031768,
+            "upstream_inference_prompt_cost": 0.0004408,
+            "upstream_inference_completions_cost": 0.002736
+          }
+        },
+        "elapsed_ms": 3261,
+        "response_model": "x-ai/grok-4.20-20260309",
+        "reasoning": "Najpierw użytkownik podaje definicję: \"Połowica władcy zwierząt\". To po polsku oznacza coś jak \"Połowa władcy zwierząt\" lub \"Żona władcy zwierząt\".\n"
+      }
+    ]
+  },
+  {
+    "question": "Fallon, komik z TV",
+    "correct_answer": "JIMMY",
+    "model": "openrouter/x-ai/grok-4.20",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "JIMMY",
+        "cleaned_answer": "JIMMY",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Fallon, komik z TV\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 472,
+          "prompt_tokens": 278,
+          "total_tokens": 750,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 469,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 64,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0032728,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0032728,
+            "upstream_inference_prompt_cost": 0.0004408,
+            "upstream_inference_completions_cost": 0.002832
+          }
+        },
+        "elapsed_ms": 2999,
+        "response_model": "x-ai/grok-4.20-20260309",
+        "reasoning": "Najpierw użytkownik podaje definicję: \"Fallon, komik z TV\". To po polsku oznacza \"Fallon, komik z TV\".\nI see the definition is \"Fallon, komik z TV,\" which points to Jimmy Fallon, the TV comedian."
+      }
+    ]
+  },
+  {
+    "question": "Siostra Balladyny",
+    "correct_answer": "ALINA",
+    "model": "openrouter/x-ai/grok-4.20",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "ALINA",
+        "cleaned_answer": "ALINA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Siostra Balladyny\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 220,
+          "prompt_tokens": 277,
+          "total_tokens": 497,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 218,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 64,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0017588,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0017588,
+            "upstream_inference_prompt_cost": 0.0004388,
+            "upstream_inference_completions_cost": 0.00132
+          }
+        },
+        "elapsed_ms": 1485,
+        "response_model": "x-ai/grok-4.20-20260309",
+        "reasoning": "Najpierw zadanie: Jestem precyzyjnym systemem rozwiązującym polskie krzyżówki. Muszę podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawać żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani z..."
+      }
+    ]
+  },
+  {
+    "question": "Okrągłe skrzyżowanie",
+    "correct_answer": "RONDO",
+    "model": "openrouter/x-ai/grok-4.20",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "RONDO",
+        "cleaned_answer": "RONDO",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Okrągłe skrzyżowanie\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 335,
+          "prompt_tokens": 278,
+          "total_tokens": 613,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 333,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 64,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0024508,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0024508,
+            "upstream_inference_prompt_cost": 0.0004408,
+            "upstream_inference_completions_cost": 0.00201
+          }
+        },
+        "elapsed_ms": 2127,
+        "response_model": "x-ai/grok-4.20-20260309",
+        "reasoning": "Najpierw użytkownik podaje definicję: \"Okrągłe skrzyżowanie\". Liczba liter: 5. Maska: _ _ _ _ _.\n"
+      }
+    ]
+  },
+  {
+    "question": "Imię Kurosawy, reżysera",
+    "correct_answer": "AKIRA",
+    "model": "openrouter/x-ai/grok-4.20",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "AKIRA",
+        "cleaned_answer": "AKIRA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Imię Kurosawy, reżysera\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 325,
+          "prompt_tokens": 281,
+          "total_tokens": 606,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 323,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 192,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0021664,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0021664,
+            "upstream_inference_prompt_cost": 0.0002164,
+            "upstream_inference_completions_cost": 0.00195
+          }
+        },
+        "elapsed_ms": 1941,
+        "response_model": "x-ai/grok-4.20-20260309",
+        "reasoning": "Najpierw zadanie: Jestem precyzyjnym systemem rozwiązującym polskie krzyżówki. Mam podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawać żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwr..."
+      }
+    ]
+  },
+  {
+    "question": "Nabranie powietrza do płuc",
+    "correct_answer": "WDECH",
+    "model": "openrouter/x-ai/grok-4.20",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "WDECH",
+        "cleaned_answer": "WDECH",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Nabranie powietrza do płuc\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 503,
+          "prompt_tokens": 279,
+          "total_tokens": 782,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 500,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 64,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0034608,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0034608,
+            "upstream_inference_prompt_cost": 0.0004428,
+            "upstream_inference_completions_cost": 0.003018
+          }
+        },
+        "elapsed_ms": 2695,
+        "response_model": "x-ai/grok-4.20-20260309",
+        "reasoning": "Najpierw użytkownik podaje definicję: \"Nabranie powietrza do płuc\". To po polsku oznacza \"Nabranie powietrza do płuc\", co jest inhalacją lub wdechem.\nI think the word is \"wdech,\" which means \"inhalation\" or \"taking a breath\" in Polish, perfectly matching the definition \"Nabranie powietrza do płuc."
+      }
+    ]
+  },
+  {
+    "question": "Listwa stołu bilardowego",
+    "correct_answer": "BANDA",
+    "model": "openrouter/x-ai/grok-4.20",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "BANDA",
+        "cleaned_answer": "BANDA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Listwa stołu bilardowego\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 291,
+          "prompt_tokens": 279,
+          "total_tokens": 570,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 289,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 64,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0021888,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0021888,
+            "upstream_inference_prompt_cost": 0.0004428,
+            "upstream_inference_completions_cost": 0.001746
+          }
+        },
+        "elapsed_ms": 1729,
+        "response_model": "x-ai/grok-4.20-20260309",
+        "reasoning": "Najpierw zadanie: Jestem precyzyjnym systemem rozwiązującym polskie krzyżówki. Muszę podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawać żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani z..."
+      }
+    ]
+  },
+  {
+    "question": "Naczynie na kakao",
+    "correct_answer": "KUBEK",
+    "model": "openrouter/x-ai/grok-4.20",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "KUBEK",
+        "cleaned_answer": "KUBEK",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Naczynie na kakao\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 865,
+          "prompt_tokens": 278,
+          "total_tokens": 1143,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 862,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 64,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0056308,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0056308,
+            "upstream_inference_prompt_cost": 0.0004408,
+            "upstream_inference_completions_cost": 0.00519
+          }
+        },
+        "elapsed_ms": 5074,
+        "response_model": "x-ai/grok-4.20-20260309",
+        "reasoning": "Najpierw zadanie: Jestem precyzyjnym systemem rozwiązującym polskie krzyżówki. Muszę podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawać żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani z...I need to find a 5-letter Polish word for a vessel used for cocoa. The definition is \"Naczynie na kakao,\" and the pattern is _ _ _ _ _.\n\nFirst, I consider common vessels. \"Filiżanka\" is too long with 8 letters."
+      }
+    ]
+  },
+  {
+    "question": "Kaczor z kreskówek",
+    "correct_answer": "DONALD",
+    "model": "openrouter/x-ai/grok-4.20",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _ _",
+        "raw_answer": "DONALD",
+        "cleaned_answer": "DONALD",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Kaczor z kreskówek\nLiczba liter: 6\nMaska: _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 303,
+          "prompt_tokens": 280,
+          "total_tokens": 583,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 301,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 64,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0022628,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0022628,
+            "upstream_inference_prompt_cost": 0.0004448,
+            "upstream_inference_completions_cost": 0.001818
+          }
+        },
+        "elapsed_ms": 2332,
+        "response_model": "x-ai/grok-4.20-20260309",
+        "reasoning": "Najpierw zadanie: Jestem precyzyjnym systemem rozwiązującym polskie krzyżówki. Muszę podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawać żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani z..."
+      }
+    ]
+  },
+  {
+    "question": "Buduje igloo",
+    "correct_answer": "ESKIMOS",
+    "model": "openrouter/x-ai/grok-4.20",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _ _ _",
+        "raw_answer": "ESKIMOS",
+        "cleaned_answer": "ESKIMOS",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Buduje igloo\nLiczba liter: 7\nMaska: _ _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 285,
+          "prompt_tokens": 278,
+          "total_tokens": 563,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 281,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 192,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0019204,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0019204,
+            "upstream_inference_prompt_cost": 0.0002104,
+            "upstream_inference_completions_cost": 0.00171
+          }
+        },
+        "elapsed_ms": 1685,
+        "response_model": "x-ai/grok-4.20-20260309",
+        "reasoning": "Najpierw użytkownik podaje definicję: \"Buduje igloo\". To po polsku oznacza \"Builds an igloo\".\n"
+      }
+    ]
+  },
+  {
+    "question": "Internetowa sprzedaż",
+    "correct_answer": "EHANDEL",
+    "model": "openrouter/x-ai/grok-4.20",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _ _ _",
+        "raw_answer": "EHANDEL",
+        "cleaned_answer": "EHANDEL",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Internetowa sprzedaż\nLiczba liter: 7\nMaska: _ _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 819,
+          "prompt_tokens": 277,
+          "total_tokens": 1096,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 816,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 64,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0053528,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0053528,
+            "upstream_inference_prompt_cost": 0.0004388,
+            "upstream_inference_completions_cost": 0.004914
+          }
+        },
+        "elapsed_ms": 5048,
+        "response_model": "x-ai/grok-4.20-20260309",
+        "reasoning": "Najpierw użytkownik podaje: \"Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki.\" To oznacza, że mam być precyzyjnym systemem do rozwiązywania polskich krzyżówek. Instrukcja mówi: \"Twoim zada...I think the definition \"Internetowa sprzedaż\" means \"online sales\" in Polish, and with 7 letters, the pattern is all blanks. The term that fits is \"EHANDEL\", which stands for \"e-handel\", a common way to refer to online commerce in Polish crosswords."
+      }
+    ]
+  },
+  {
+    "question": "Naprawa uszkodzenia",
+    "correct_answer": "REPARACJA",
+    "model": "openrouter/x-ai/grok-4.20",
+    "guessed": true,
+    "required_hints": 2,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _ _ _ _ _",
+        "raw_answer": "REPERACJA",
+        "cleaned_answer": "REPERACJA",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Naprawa uszkodzenia\nLiczba liter: 9\nMaska: _ _ _ _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 742,
+          "prompt_tokens": 280,
+          "total_tokens": 1022,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 738,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 64,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0048968,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0048968,
+            "upstream_inference_prompt_cost": 0.0004448,
+            "upstream_inference_completions_cost": 0.004452
+          }
+        },
+        "elapsed_ms": 4170,
+        "response_model": "x-ai/grok-4.20-20260309",
+        "reasoning": "Najpierw zadanie: Jestem precyzyjnym systemem rozwiązującym polskie krzyżówki. Muszę podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawać żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani z...I need to find a Polish word with 9 letters that means \"naprawa uszkodzenia,\" which translates to \"repair of damage.\" The clue is a crossword-style puzzle with a blank mask of 9 underscores.\n\nFirst, I consider what \"repair of damage\" could mean."
+      },
+      {
+        "hints": 1,
+        "mask": "R _ _ _ _ _ _ _ _",
+        "raw_answer": "RENOWACJA",
+        "cleaned_answer": "RENOWACJA",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Naprawa uszkodzenia\nLiczba liter: 9\nMaska: R _ _ _ _ _ _ _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: REPERACJA\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 1770,
+          "prompt_tokens": 305,
+          "total_tokens": 2075,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 1766,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 192,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0108844,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0108844,
+            "upstream_inference_prompt_cost": 0.0002644,
+            "upstream_inference_completions_cost": 0.01062
+          }
+        },
+        "elapsed_ms": 9492,
+        "response_model": "x-ai/grok-4.20-20260309",
+        "reasoning": "Najpierw zadanie: Jestem systemem rozwiązującym polskie krzyżówki. Muszę podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawać żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrze...I need to find a 9-letter Polish word starting with R that means \"naprawa uszkodzenia\" or repairing damage, since REPERACJA is wrong. After thinking about synonyms like remont, renowacja, and restauracja, I settle on RENOWACJA, which fits the definition as it involves restoringor repairing damaged things, has exactly 9 letters, and matches the mask starting with R followed by any letters. So, the new word is RENOWACJA."
+      },
+      {
+        "hints": 2,
+        "mask": "R E _ _ _ _ _ _ _",
+        "raw_answer": "REPARACJA",
+        "cleaned_answer": "REPARACJA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Naprawa uszkodzenia\nLiczba liter: 9\nMaska: R E _ _ _ _ _ _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: REPERACJA, RENOWACJA\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 3704,
+          "prompt_tokens": 310,
+          "total_tokens": 4014,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 3700,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 192,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0224984,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0224984,
+            "upstream_inference_prompt_cost": 0.0002744,
+            "upstream_inference_completions_cost": 0.022224
+          }
+        },
+        "elapsed_ms": 22792,
+        "response_model": "x-ai/grok-4.20-20260309",
+        "reasoning": "Najpierw zadanie: Jestem systemem rozwiązującym polskie krzyżówki. Muszę podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawać żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrze...I need to find a 9-letter Polish word starting with \"RE\" that means \"repair of damage\" or \"fixing something broken\". The given wrong answers are REPERACJA and RENOWACJA, so I have to come up with something else.\n\nThe clue is \"Naprawa uszkodzenia\", whichtranslates to \"repair of damage\". The pattern is R E _ _ _ _ _ _ _, confirming it starts with RE and has 9 letters.\n\nREPERACJA is R-E-P-E-R-A-C-J-A, which fits the pattern but is marked wrong. Similarly, RENOWACJA is R-E-N-O-W-A-C-J-A, also 9 letters but wrong.\n\nI need a different word. Other words for repair in Polish include \"remont\", but it doesn't start with RE. \"Regeneracja\" is 11 letters: R-E-G-E-N-E-R-A-C-J-A.\n\n\"Restauracja\" is11 letters. \"Reintegracja\" is too long.\n\n\"Reparacja\" is R-E-P-A-R-A-C-J-A, 9 letters, fits the pattern R-E-P-A-R-A-C-J-A.\n\n\"Reparacja\" can mean repair or compensation, and in the context of repairing damage, it works. Since \"reperacja\" was wrong, but \"reparacja\" is different.\n\nYes, \"reparacja\" is a valid Polish word for repair, distinct from \"reperacja\".\n\n\"Reparacja\" is used in contexts like war reparations, but also generally for repair.\n\nI think \"REPARACJA\" fits perfectly.\n\nIs there another possibility? \"Renowanie\" is R-E-N-O-W-A-N-I-E, 9 letters, fits the pattern.\n\n\"Renowanie\" means renovation, which is a form of repair or restoration.\n\nSince \"renowacja\" was marked wrong, but \"renowanie\" is the gerund or related form.\n\n\"Renowanie\" is R-E-N-O-W-A-N-I-E, let's count: R-E-N-O-W-A-N-I-E = 9 letters.\n\nYes, and renovation is repairing or restoring.\n\nBut the clue is \"naprawa uszkodzenia\", which is more direct repair than renovation.\n\n\"Reparacja\" seems closer to \"repair\".\n\nIn Polish, \"reparacja\" is indeed a word for repair.\n\nSo, the new word is REPARACJA.\n\nThe final answer is REPARACJA."
+      }
+    ]
+  },
+  {
+    "question": "Obcy wtręt językowy",
+    "correct_answer": "MAKARONIZM",
+    "model": "openrouter/x-ai/grok-4.20",
+    "guessed": true,
+    "required_hints": 1,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _ _ _ _ _ _",
+        "raw_answer": "BARBARZYZM",
+        "cleaned_answer": "BARBARZYZM",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Obcy wtręt językowy\nLiczba liter: 10\nMaska: _ _ _ _ _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 548,
+          "prompt_tokens": 284,
+          "total_tokens": 832,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 543,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 192,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0035104,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0035104,
+            "upstream_inference_prompt_cost": 0.0002224,
+            "upstream_inference_completions_cost": 0.003288
+          }
+        },
+        "elapsed_ms": 3379,
+        "response_model": "x-ai/grok-4.20-20260309",
+        "reasoning": "Najpierw zadanie: Jestem precyzyjnym systemem rozwiązującym polskie krzyżówki. Muszę podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawać żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani z...I need to find a Polish word with 10 letters that means a foreign language intrusion or borrowing. The definition is \"Obcy wtręt językowy,\" which translates to a foreign intrusion in language."
+      },
+      {
+        "hints": 1,
+        "mask": "M _ _ _ _ _ _ _ _ _",
+        "raw_answer": "MAKARONIZM",
+        "cleaned_answer": "MAKARONIZM",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Obcy wtręt językowy\nLiczba liter: 10\nMaska: M _ _ _ _ _ _ _ _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: BARBARZYZM\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 672,
+          "prompt_tokens": 310,
+          "total_tokens": 982,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 667,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 64,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0045368,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0045368,
+            "upstream_inference_prompt_cost": 0.0005048,
+            "upstream_inference_completions_cost": 0.004032
+          }
+        },
+        "elapsed_ms": 3412,
+        "response_model": "x-ai/grok-4.20-20260309",
+        "reasoning": "Najpierw zadanie: Jestem precyzyjnym systemem rozwiązującym polskie krzyżówki. Muszę podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawać żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani z...I need to find a 10-letter Polish word starting with M that means \"foreign language intrusion\" or \"foreign word insertion,\" fitting the mask M _ _ _ _ _ _ _ _ _.\n\nThe given wrong answer is BARBARZYZM, which starts with B, so it doesn't fit."
+      }
+    ]
+  }
+]

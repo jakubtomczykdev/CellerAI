@@ -1,0 +1,1233 @@
+[
+  {
+    "question": "Podwodny grunt",
+    "correct_answer": "DNO",
+    "model": "openrouter/google/gemma-4-26b-a4b-it",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _",
+        "raw_answer": "DNO",
+        "cleaned_answer": "DNO",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Podwodny grunt\nLiczba liter: 3\nMaska: _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 138,
+          "prompt_tokens": 185,
+          "total_tokens": 323,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 109,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 16,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 7.925e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 7.925e-05,
+            "upstream_inference_prompt_cost": 2.405e-05,
+            "upstream_inference_completions_cost": 5.52e-05
+          }
+        },
+        "elapsed_ms": 3721,
+        "response_model": "google/gemma-4-26b-a4b-it-20260403",
+        "reasoning": "*   Definition: \"Podwodny grunt\" (Underwater ground/bottom).\n    *   Length: 3 letters.\n    *   Mask: `_ _ _`.\n    *   Constraint: Provide ONLY the word.\n\n    *   \"Podwodny grunt\" in Polish (3 letters):\n        *   \"Dno\" (bottom/floor).\n\n    *   \"Dno\" has 3 letters.\n    *   \"Dno\" means the bottom of a body of water (underwater ground).\n\n    *   The user wants only the word.\n\n    *   Word: DNO."
+      }
+    ]
+  },
+  {
+    "question": "Kropla smutku",
+    "correct_answer": "ŁZA",
+    "model": "openrouter/google/gemma-4-26b-a4b-it",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _",
+        "raw_answer": "ŁZA",
+        "cleaned_answer": "ŁZA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Kropla smutku\nLiczba liter: 3\nMaska: _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 143,
+          "prompt_tokens": 186,
+          "total_tokens": 329,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 7.208e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 7.208e-05,
+            "upstream_inference_prompt_cost": 1.488e-05,
+            "upstream_inference_completions_cost": 5.72e-05
+          }
+        },
+        "elapsed_ms": 3427,
+        "response_model": "google/gemma-4-26b-a4b-it-20260403"
+      }
+    ]
+  },
+  {
+    "question": "Góral z dowcipów",
+    "correct_answer": "BACA",
+    "model": "openrouter/google/gemma-4-26b-a4b-it",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _",
+        "raw_answer": "BACA",
+        "cleaned_answer": "BACA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Góral z dowcipów\nLiczba liter: 4\nMaska: _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 165,
+          "prompt_tokens": 189,
+          "total_tokens": 354,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 8.112e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 8.112e-05,
+            "upstream_inference_prompt_cost": 1.512e-05,
+            "upstream_inference_completions_cost": 6.6e-05
+          }
+        },
+        "elapsed_ms": 3388,
+        "response_model": "google/gemma-4-26b-a4b-it-20260403"
+      }
+    ]
+  },
+  {
+    "question": "Podróż przez morze",
+    "correct_answer": "REJS",
+    "model": "openrouter/google/gemma-4-26b-a4b-it",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _",
+        "raw_answer": "REJS",
+        "cleaned_answer": "REJS",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Podróż przez morze\nLiczba liter: 4\nMaska: _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 197,
+          "prompt_tokens": 189,
+          "total_tokens": 386,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 159,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 9.77e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 9.77e-05,
+            "upstream_inference_prompt_cost": 1.89e-05,
+            "upstream_inference_completions_cost": 7.88e-05
+          }
+        },
+        "elapsed_ms": 3918,
+        "response_model": "google/gemma-4-26b-a4b-it-20260403",
+        "reasoning": "*   Definition: \"Podróż przez morze\" (Journey through the sea).\n    *   Length: 4 letters.\n    *   Mask: `_ _ _ _`.\n    *   Constraint: Provide ONLY the word.\n\n    *   Rejs (voyage/cruise) - 4 letters.\n    *   Łódź (boat) - 4 letters (but it's a vessel, not the journey itself).\n    *   Kurs (course) - 4 letters (related, but not the journey).\n    *   Fale (waves) - 4 letters (related, but not the journey).\n\n    *   \"Rejs\" is the standard Polish word for a sea journey/cruise.\n\n    *   Word: REJS.\n    *   Length: 4.\n    *   Matches definition.\n\n    *   Output: REJS."
+      }
+    ]
+  },
+  {
+    "question": "Sala sportowa",
+    "correct_answer": "HALA",
+    "model": "openrouter/google/gemma-4-26b-a4b-it",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _",
+        "raw_answer": "HALA",
+        "cleaned_answer": "HALA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Sala sportowa\nLiczba liter: 4\nMaska: _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 178,
+          "prompt_tokens": 185,
+          "total_tokens": 363,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 138,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 144,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 9.525e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 9.525e-05,
+            "upstream_inference_prompt_cost": 2.405e-05,
+            "upstream_inference_completions_cost": 7.12e-05
+          }
+        },
+        "elapsed_ms": 2646,
+        "response_model": "google/gemma-4-26b-a4b-it-20260403",
+        "reasoning": "*   Definition: \"Sala sportowa\" (Sports hall/gym).\n    *   Length: 4 letters.\n    *   Mask: `_ _ _ _`.\n    *   Constraint: Provide ONLY the word.\n\n    *   Hala (Hall) - 4 letters.\n    *   Gim (Gym - English, unlikely in Polish crossword unless specific).\n    *   Arena (5 letters - too long).\n    *   Boja (No).\n    *   Gym (No).\n\n    *   \"Hala\" is a common synonym for a sports hall (e.g., hala sportowa).\n    *   Length: H-A-L-A (4 letters).\n\n    *   The user wants only the word.\n\n    *   Word: HALA."
+      }
+    ]
+  },
+  {
+    "question": "Połowica władcy zwierząt",
+    "correct_answer": "LWICA",
+    "model": "openrouter/google/gemma-4-26b-a4b-it",
+    "guessed": true,
+    "required_hints": 1,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": null,
+        "cleaned_answer": "",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Połowica władcy zwierząt\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 1024,
+          "prompt_tokens": 191,
+          "total_tokens": 1215,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 733,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00037368,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00037368,
+            "upstream_inference_prompt_cost": 1.528e-05,
+            "upstream_inference_completions_cost": 0.0003584
+          }
+        },
+        "elapsed_ms": 22860,
+        "response_model": "google/gemma-4-26b-a4b-it-20260403",
+        "reasoning": "*   Definition: \"Połowica władcy zwierząt\" (Half of the ruler of animals).\n    *   Length: 5 letters.\n    *   Mask: `_ _ _ _ _` (5 underscores).\n\n    *   \"Władca zwierząt\" (Ruler of animals) is a common metaphor for \"LEW\" (Lion).\n    *   \"Połowica\" (Half) is a bit tricky. Let's look at the word \"LEW\".\n    *   Wait, \"Połowica\" could mean a part of a word or a specific term.\n    *   Let's re-examine \"Władca zwierząt\".\n    *   Common ruler of animals: LEW.\n    *   Is there another ruler? Maybe \"TYGRYS\"? No.\n    *   Let's look at the word \"LEW\" again. \"Połowica\" might imply a word that is half of something else or related to \"LEW\".\n    *   Wait, \"Połowica\" can also mean \"half\" in a more literal sense or a play on words.\n    *   Let's try another angle: \"Władca zwierząt\" = LEW.\n    *   If the word is 5 letters, maybe it's \"LEWIA\" (not a word)? No.\n    *   What about \"LWIAT\"? No.\n    *   Let's look at the word \"LEWICA\" (Left/Leftist). \"LEW\" + \"ICA\". \"LEWICA\" is 6 letters.\n    *   What about \"LEWIA\"? No.\n    *   Let's rethink \"Władca zwierząt\".\n    *   Could it be \"LWIAT\"? No.\n    *   Wait, \"Połowica\" -> \"Pół\" + \"Lew\"? No.\n    *   Let's look at the word \"LEWICA\" again. If the word is 5 letters...\n    *   Maybe the ruler is \"LION\" (English)? No, this is Polish.\n    *   Let's look at \"LEW\" (Lion).\n    *   Is there a 5-letter word related to \"LEW\"?\n    *   \"LWIAT\"? No.\n    *   \"LEWIC\"? No.\n    *   Let's try \"LWIAT\" (not a word).\n    *   Wait! \"Połowica\" -> \"Pół\" + \"Lew\"?\n    *   What if the ruler is \"LWI\"? No.\n    *   Let's look at the word \"LEWICA\" (6 letters).\n    *   What if the ruler is \"LEW\" and the word is \"LEWIC\"? No.\n    *   Let's try another \"ruler of animals\".\n    *   \"KRÓL\" (King).\n    *   \"Połowica\" of \"KRÓL\"? No.\n    *   Wait, \"Połowica\" can mean \"half\".\n    *   If the word is \"LEWICA\", it's 6 letters.\n    *   If the word is \"LEWIC\", it's 5 letters, but not a standard word.\n    *   Let's look at \"LEW\" again.\n    *   Is there a word \"LEWIA\"? No.\n    *   What about \"LWIAT\"? No.\n    *   Let's think about \"Połowica\" as a synonym for \"half\".\n    *   Maybe the word is \"LWIAT\"? No.\n    *   Let's try \"LEWIC\" (not a word).\n    *   Wait, \"Połowica\" -> \"Pół\" + \"Lew\".\n    *   What if the ruler is \"LEW\" and the word is \"LEWIC\"? No.\n    *   Let's look at the definition again: \"Połowica władcy zwierząt\".\n    *   \"Władca zwierząt\" = LEW.\n    *   \"Połowica\" = ?\n    *   Could it be \"LWIAT\"? No.\n    *   Could it be \"LEWIC\"? No.\n    *   Wait, \"LEWICA\" is 6 letters.\n    *   What about \"LWIAT\"? No.\n    *   Let's try \"LWIAT\" (not a word).\n    *   Wait, \"LEW\" + \"ICA\" = \"LEWICA\".\n    *   Is there a 5-letter word?\n    *   Maybe \"LWIAT\"?"
+      },
+      {
+        "hints": 1,
+        "mask": "L _ _ _ _",
+        "raw_answer": "LWICA",
+        "cleaned_answer": "LWICA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Połowica władcy zwierząt\nLiczba liter: 5\nMaska: L _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 416,
+          "prompt_tokens": 191,
+          "total_tokens": 607,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 320,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00016088,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00016088,
+            "upstream_inference_prompt_cost": 1.528e-05,
+            "upstream_inference_completions_cost": 0.0001456
+          }
+        },
+        "elapsed_ms": 11388,
+        "response_model": "google/gemma-4-26b-a4b-it-20260403",
+        "reasoning": "*   Definition: \"Połowica władcy zwierząt\" (Half of the ruler of animals).\n    *   Number of letters: 5.\n    *   Mask: `L _ _ _ _`.\n    *   Constraint: Provide ONLY the word.\n\n    *   \"Władca zwierząt\" (Ruler of animals) is typically \"LEW\" (Lion).\n    *   \"Połowica\" (Half) is a bit tricky here. Let's look at the mask.\n    *   Mask: `L _ _ _ _` (5 letters starting with L).\n    *   Wait, \"Połowica\" might mean something else. Let's re-examine.\n    *   \"Lew\" is the ruler.\n    *   Is there a word related to \"Lew\" that is 5 letters long?\n    *   Maybe \"Lwia\" (Lioness/Lion's)? No, that's 4 letters.\n    *   Maybe \"Lwica\" (Lioness)?\n        *   L-W-I-C-A (5 letters).\n        *   Does \"Lwica\" fit \"Połowica władcy zwierząt\"?\n        *   \"Połowica\" can mean \"half\" or \"female counterpart\".\n        *   A lioness (lwica) is the female counterpart of the lion (lew).\n    *   Let's check the mask: `L _ _ _ _`.\n    *   `L W I C A` fits the mask.\n\n    *   Definition: Połowica (female counterpart) of the ruler of animals (lew).\n    *   Word: LWICA.\n    *   Length: 5.\n    *   Mask: L _ _ _ _ -> L W I C A.\n\n    *   The user wants ONLY the word.\n\n    *   Word: LWICA."
+      }
+    ]
+  },
+  {
+    "question": "Fallon, komik z TV",
+    "correct_answer": "JIMMY",
+    "model": "openrouter/google/gemma-4-26b-a4b-it",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "JIMMY",
+        "cleaned_answer": "JIMMY",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Fallon, komik z TV\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 214,
+          "prompt_tokens": 190,
+          "total_tokens": 404,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 128,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 9.568e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 9.568e-05,
+            "upstream_inference_prompt_cost": 1.008e-05,
+            "upstream_inference_completions_cost": 8.56e-05
+          }
+        },
+        "elapsed_ms": 6582,
+        "response_model": "google/gemma-4-26b-a4b-it-20260403"
+      }
+    ]
+  },
+  {
+    "question": "Siostra Balladyny",
+    "correct_answer": "ALINA",
+    "model": "openrouter/google/gemma-4-26b-a4b-it",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "ALINA",
+        "cleaned_answer": "ALINA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Siostra Balladyny\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 169,
+          "prompt_tokens": 190,
+          "total_tokens": 359,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 128,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 7.768e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 7.768e-05,
+            "upstream_inference_prompt_cost": 1.008e-05,
+            "upstream_inference_completions_cost": 6.76e-05
+          }
+        },
+        "elapsed_ms": 5951,
+        "response_model": "google/gemma-4-26b-a4b-it-20260403"
+      }
+    ]
+  },
+  {
+    "question": "Okrągłe skrzyżowanie",
+    "correct_answer": "RONDO",
+    "model": "openrouter/google/gemma-4-26b-a4b-it",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "rondo",
+        "cleaned_answer": "RONDO",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Okrągłe skrzyżowanie\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 155,
+          "prompt_tokens": 192,
+          "total_tokens": 347,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 117,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 6.961e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 6.961e-05,
+            "upstream_inference_prompt_cost": 1.536e-05,
+            "upstream_inference_completions_cost": 5.425e-05
+          }
+        },
+        "elapsed_ms": 3373,
+        "response_model": "google/gemma-4-26b-a4b-it-20260403",
+        "reasoning": "*   Definition: \"Okrągłe skrzyżowanie\" (Round intersection/junction).\n    *   Number of letters: 5.\n    *   Mask: `_ _ _ _ _` (5 letters).\n    *   Goal: Provide only the word.\n\n    *   \"Okrągłe skrzyżowanie\" in Polish is commonly known as a \"rondo\".\n\n    *   Word: \"rondo\".\n    *   Length: 5 letters (r-o-n-d-o).\n    *   Matches the mask `_ _ _ _ _`.\n\n    *   The user requested *only* the word.\n\n    *   rondo."
+      }
+    ]
+  },
+  {
+    "question": "Imię Kurosawy, reżysera",
+    "correct_answer": "AKIRA",
+    "model": "openrouter/google/gemma-4-26b-a4b-it",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "AKIRA",
+        "cleaned_answer": "AKIRA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Imię Kurosawy, reżysera\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 150,
+          "prompt_tokens": 194,
+          "total_tokens": 344,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 112,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 144,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 8.522e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 8.522e-05,
+            "upstream_inference_prompt_cost": 2.522e-05,
+            "upstream_inference_completions_cost": 6e-05
+          }
+        },
+        "elapsed_ms": 3848,
+        "response_model": "google/gemma-4-26b-a4b-it-20260403",
+        "reasoning": "*   Definition: \"Imię Kurosawy, reżysera\" (Kurosawa's first name, the director).\n    *   Length: 5 letters.\n    *   Mask: `_ _ _ _ _` (all unknown).\n    *   Constraint: Provide ONLY the final word.\n\n    *   Famous director: Akira Kurosawa.\n    *   First name: Akira.\n\n    *   \"Akira\" has 5 letters (A-K-I-R-A).\n    *   Matches the mask `_ _ _ _ _`.\n\n    *   The user wants only the word.\n\n    *   AKIRA"
+      }
+    ]
+  },
+  {
+    "question": "Nabranie powietrza do płuc",
+    "correct_answer": "WDECH",
+    "model": "openrouter/google/gemma-4-26b-a4b-it",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "wdech",
+        "cleaned_answer": "WDECH",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Nabranie powietrza do płuc\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 140,
+          "prompt_tokens": 192,
+          "total_tokens": 332,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 109,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 128,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 6.88e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 6.88e-05,
+            "upstream_inference_prompt_cost": 1.28e-05,
+            "upstream_inference_completions_cost": 5.6e-05
+          }
+        },
+        "elapsed_ms": 4762,
+        "response_model": "google/gemma-4-26b-a4b-it-20260403",
+        "reasoning": "*   Definition: \"Nabranie powietrza do płuc\" (Taking air into the lungs).\n    *   Length: 5 letters.\n    *   Mask: `_ _ _ _ _` (5 underscores).\n    *   Constraint: Provide ONLY the word.\n\n    *   \"Nabranie powietrza do płuc\" is the definition of \"wdech\".\n\n    *   \"wdech\"\n    *   Length: w-d-e-c-h (5 letters).\n    *   Matches the mask.\n\n    *   The user wants only the word.\n\n    *   wdech"
+      }
+    ]
+  },
+  {
+    "question": "Listwa stołu bilardowego",
+    "correct_answer": "BANDA",
+    "model": "openrouter/google/gemma-4-26b-a4b-it",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "BANDA",
+        "cleaned_answer": "BANDA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Listwa stołu bilardowego\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 239,
+          "prompt_tokens": 190,
+          "total_tokens": 429,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 191,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 144,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0001203,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0001203,
+            "upstream_inference_prompt_cost": 2.47e-05,
+            "upstream_inference_completions_cost": 9.56e-05
+          }
+        },
+        "elapsed_ms": 5320,
+        "response_model": "google/gemma-4-26b-a4b-it-20260403",
+        "reasoning": "*   Definition: \"Listwa stołu bilardowego\" (The rail/cushion of a billiard table).\n    *   Length: 5 letters.\n    *   Mask: `_ _ _ _ _` (5 underscores).\n    *   Constraint: Provide ONLY the word.\n\n    *   Billiard table parts: cushions, rails, pockets, cloth.\n    *   Polish terms for billiard table rails/cushions: \"banda\", \"ramka\", \"listwa\".\n    *   \"Banda\" is the most common term for the cushion/rail in billiards.\n\n    *   \"Banda\" has 5 letters: B-A-N-D-A.\n    *   Does it fit the definition? Yes, \"banda\" is the term used for the cushion/rail of a billiard table.\n\n    *   Word: BANDA.\n    *   Length: 5.\n    *   Matches mask: `_ _ _ _ _`.\n\n    *   The user requested ONLY the word.\n\n    *   BANDA."
+      }
+    ]
+  },
+  {
+    "question": "Naczynie na kakao",
+    "correct_answer": "KUBEK",
+    "model": "openrouter/google/gemma-4-26b-a4b-it",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "KUBEK",
+        "cleaned_answer": "KUBEK",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Naczynie na kakao\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 277,
+          "prompt_tokens": 190,
+          "total_tokens": 467,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 193,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0001298,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0001298,
+            "upstream_inference_prompt_cost": 1.9e-05,
+            "upstream_inference_completions_cost": 0.0001108
+          }
+        },
+        "elapsed_ms": 4121,
+        "response_model": "google/gemma-4-26b-a4b-it-20260403",
+        "reasoning": "*   Definition: \"Naczynie na kakao\" (Vessel for cocoa)\n    *   Length: 5 letters\n    *   Mask: `_ _ _ _ _` (5 underscores)\n    *   Constraint: Provide ONLY the word.\n\n    *   \"Naczynie na kakao\" (Vessel for cocoa)\n    *   Common vessels for hot drinks: kubek (mug), filiżanka (cup - too long), czarka (small cup), czajnik (teapot - wrong), dzbanek (pitcher - too long).\n    *   Let's check \"kubek\": K-U-B-E-K (5 letters).\n    *   Let's check \"czarka\": C-Z-A-R-K-A (6 letters).\n    *   Let's check \"filiż\": No.\n    *   \"Kubek\" is the most common 5-letter word for a vessel used for cocoa.\n\n    *   K-U-B-E-K\n    *   1-2-3-4-5\n    *   Matches length 5.\n\n    *   The user wants ONLY the word.\n\n    *   Word: KUBEK."
+      }
+    ]
+  },
+  {
+    "question": "Kaczor z kreskówek",
+    "correct_answer": "DONALD",
+    "model": "openrouter/google/gemma-4-26b-a4b-it",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _ _",
+        "raw_answer": "DONALD",
+        "cleaned_answer": "DONALD",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Kaczor z kreskówek\nLiczba liter: 6\nMaska: _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 194,
+          "prompt_tokens": 193,
+          "total_tokens": 387,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 136,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 8.334e-05,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 8.334e-05,
+            "upstream_inference_prompt_cost": 1.544e-05,
+            "upstream_inference_completions_cost": 6.79e-05
+          }
+        },
+        "elapsed_ms": 4032,
+        "response_model": "google/gemma-4-26b-a4b-it-20260403",
+        "reasoning": "*   Definition: \"Kaczor z kreskówek\" (Cartoon duck).\n    *   Length: 6 letters.\n    *   Mask: `_ _ _ _ _ _` (6 underscores).\n    *   Constraint: Provide ONLY the word.\n\n    *   Donald Duck (Donald) - 6 letters? D-O-N-A-L-D (6 letters).\n    *   Daffy Duck (Daffy) - 5 letters.\n    *   Daisy Duck (Daisy) - 5 letters.\n    *   Kaczor Donald is the most famous.\n\n    *   D-O-N-A-L-D\n    *   1-2-3-4-5-6\n    *   Matches the length requirement.\n\n    *   The user wants ONLY the word.\n\n    *   DONALD"
+      }
+    ]
+  },
+  {
+    "question": "Buduje igloo",
+    "correct_answer": "ESKIMOS",
+    "model": "openrouter/google/gemma-4-26b-a4b-it",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _ _ _",
+        "raw_answer": "ESKIMOS",
+        "cleaned_answer": "ESKIMOS",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Buduje igloo\nLiczba liter: 7\nMaska: _ _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 366,
+          "prompt_tokens": 190,
+          "total_tokens": 556,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 270,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0001433,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0001433,
+            "upstream_inference_prompt_cost": 1.52e-05,
+            "upstream_inference_completions_cost": 0.0001281
+          }
+        },
+        "elapsed_ms": 7103,
+        "response_model": "google/gemma-4-26b-a4b-it-20260403",
+        "reasoning": "*   Definition: \"Buduje igloo\" (Builds an igloo).\n    *   Number of letters: 7.\n    *   Mask: `_ _ _ _ _ _ _` (7 underscores).\n    *   Constraint: Provide ONLY the final word. No extra text.\n\n    *   Who builds an igloo? An Eskimo (Eskimos).\n    *   In Polish, the word for someone who builds an igloo (or lives in the Arctic) is \"ESKIMOS\" (plural) or \"ESKIMOS\" (singular is usually \"Eskimos\" or \"Inuit\").\n    *   Wait, \"Eskimos\" is 7 letters.\n    *   Let's check other possibilities: \"INUIT\" is 5 letters. \"ESKIMOS\" is 7 letters.\n    *   Is there a verb? \"Buduje\" is a verb (3rd person singular).\n    *   The subject of \"Buduje igloo\" is a person.\n    *   \"ESKIMOS\" (7 letters).\n\n    *   E-S-K-I-M-O-S (7 letters).\n    *   Definition: \"Buduje igloo\" (He/she builds an igloo).\n    *   In Polish, \"Eskimos\" can be used as a singular noun (though \"Inuit\" is more modern, \"Eskimos\" is common in crosswords).\n\n    *   \"ESKIMOS\" fits the 7-letter requirement.\n\n    *   The user wants ONLY the word.\n\n    *   Word: ESKIMOS."
+      }
+    ]
+  },
+  {
+    "question": "Internetowa sprzedaż",
+    "correct_answer": "EHANDEL",
+    "model": "openrouter/google/gemma-4-26b-a4b-it",
+    "guessed": true,
+    "required_hints": 2,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _ _ _",
+        "raw_answer": null,
+        "cleaned_answer": "",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Internetowa sprzedaż\nLiczba liter: 7\nMaska: _ _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 1024,
+          "prompt_tokens": 189,
+          "total_tokens": 1213,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 699,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 144,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00043417,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00043417,
+            "upstream_inference_prompt_cost": 2.457e-05,
+            "upstream_inference_completions_cost": 0.0004096
+          }
+        },
+        "elapsed_ms": 13216,
+        "response_model": "google/gemma-4-26b-a4b-it-20260403",
+        "reasoning": "*   Definition: \"Internetowa sprzedaż\" (Internet sales)\n    *   Length: 7 letters\n    *   Mask: `_ _ _ _ _ _ _` (7 underscores)\n    *   Constraint: Provide ONLY the word.\n\n    *   E-commerce (too long/English)\n    *   E-handel (7 letters: E-H-A-N-D-E-L? No, usually \"e-handel\" or \"ehandel\" is 7 letters if we ignore the hyphen, but let's check others).\n    *   E-sprzedaż (too long)\n    *   E-sklep (6 letters)\n    *   E-handel (7 letters: E H A N D E L)\n    *   E-commerce (9 letters)\n    *   E-sprzedaż (9 letters)\n    *   E-handel (E-H-A-N-D-E-L) -> 7 letters.\n    *   Wait, \"E-handel\" is often written as \"e-handel\".\n    *   Let's look for other 7-letter words.\n    *   \"E-handel\" is 7 letters if we count the hyphen? No, the mask is 7 underscores.\n    *   \"E-handel\" -> E, H, A, N, D, E, L (7 letters).\n    *   Is there another word?\n    *   \"E-sklepy\" (7 letters)? No, that's plural.\n    *   \"E-handel\" is a common term.\n    *   Let's check \"E-handel\" vs \"Ehandel\".\n    *   Actually, \"E-handel\" is often used.\n    *   What about \"E-sklep\"? (6 letters).\n    *   What about \"E-sprzed\"? No.\n    *   What about \"E-handel\"? E-H-A-N-D-E-L.\n    *   Let's check \"E-handel\" in Polish crossword contexts.\n    *   Another possibility: \"E-handel\" is 7 letters.\n    *   Wait, \"E-handel\" has a hyphen. The mask is 7 underscores.\n    *   Let's try \"E-handel\" without hyphen: \"Ehandel\" (7 letters).\n    *   Is there another word? \"E-handel\" is the most likely.\n    *   Let's check \"E-handel\" again. E-H-A-N-D-E-L.\n    *   Wait, \"E-handel\" is 7 letters.\n    *   Let's check \"E-handel\" in a dictionary.\n    *   Actually, \"E-handel\" is often used.\n    *   Is there a word \"E-handel\" or \"Ehandel\"?\n    *   Let's look for other 7-letter words for \"Internetowa sprzedaż\".\n    *   \"E-handel\" (7 letters).\n    *   \"E-sklepy\" (7 letters).\n    *   \"E-handel\" is the standard term.\n    *   Wait, \"E-handel\" is 7 letters if we count the hyphen? No, the mask is 7 underscores.\n    *   Let's try \"E-handel\" -> E H A N D E L.\n    *   Wait, \"E-handel\" is 7 letters.\n    *   Let's check \"E-handel\" in Polish.\n    *   Actually, \"E-handel\" is 7 letters.\n    *   Let's check \"E-handel\" in a crossword solver.\n    *   \"E-handel\" is a common answer.\n    *   Wait, \"E-handel\" is 7 letters.\n    *   Let's check \"E-handel\" (E, H, A, N, D, E, L).\n    *   Wait, \"E-handel\" is 7 letters.\n    *   Let's check \"E-handel\" (E, H, A, N, D, E, L).\n    *   Wait, \"E-handel\" is 7 letters.\n    *   Let's check \"E-handel\" (E, H, A, N, D, E, L).\n    *   Wait, \"E-handel\" is 7 letters.\n    *   Let's check \"E-handel\" (E, H, A, N, D, E, L).\n    *   Wait, \"E-handel\" is 7"
+      },
+      {
+        "hints": 1,
+        "mask": "E _ _ _ _ _ _",
+        "raw_answer": null,
+        "cleaned_answer": "",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Internetowa sprzedaż\nLiczba liter: 7\nMaska: E _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 1024,
+          "prompt_tokens": 190,
+          "total_tokens": 1214,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 717,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0003736,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0003736,
+            "upstream_inference_prompt_cost": 1.52e-05,
+            "upstream_inference_completions_cost": 0.0003584
+          }
+        },
+        "elapsed_ms": 26746,
+        "response_model": "google/gemma-4-26b-a4b-it-20260403",
+        "reasoning": "*   Definition: \"Internetowa sprzedaż\" (Online sales/selling).\n    *   Length: 7 letters.\n    *   Mask: `E _ _ _ _ _ _` (Starts with 'E').\n\n    *   E-commerce (English term, but used in Polish).\n    *   E-sprzedaż (too long/not standard).\n    *   E-handel (7 letters: E-H-A-N-D-E-L). Let's check the mask: E _ _ _ _ _ _.\n    *   Wait, \"E-handel\" is 7 letters if we count the hyphen? No, usually crosswords don't include hyphens unless specified.\n    *   Let's look for other words.\n    *   \"E-commerce\" is 9 letters.\n    *   \"E-sprzedaż\" is 9 letters.\n    *   \"E-handel\" is 7 letters (E, H, A, N, D, E, L).\n    *   Is there another word?\n    *   \"E-sklep\" is 6 letters.\n    *   \"E-sprzedaż\" is too long.\n    *   \"E-handel\" fits the 7-letter requirement if we ignore the hyphen or if it's written as one word (though \"ehandel\" isn't standard).\n    *   Let's re-evaluate \"E-handel\". E-H-A-N-D-E-L. 1-2-3-4-5-6-7.\n    *   Wait, \"E-handel\" is often used.\n    *   Let's check \"E-sklep\" (6).\n    *   Let's check \"E-sprzedaż\" (9).\n    *   Let's check \"E-commerce\" (9).\n    *   Let's check \"E-handel\" again. E-H-A-N-D-E-L.\n    *   Is there a word \"E-sprzed\"? No.\n    *   What about \"E-handel\"?\n    *   Let's look for synonyms of \"Internetowa sprzedaż\".\n    *   \"E-handel\" is the most likely candidate for a 7-letter word starting with E.\n\n    *   E (1)\n    *   H (2)\n    *   A (3)\n    *   N (4)\n    *   D (5)\n    *   E (6)\n    *   L (7)\n    *   Total: 7.\n\n    *   Definition: Internetowa sprzedaż.\n    *   Mask: E _ _ _ _ _ _ (7 letters).\n    *   Word: EHANDEL (often written with a hyphen, but in crosswords, it's usually just the letters).\n\n    *   \"E-handel\" is the standard term.\n    *   Let's check if there are other words.\n    *   \"E-sklepy\" (7 letters)? E-S-K-L-E-P-Y.\n    *   Definition: \"Internetowa sprzedaż\" (Online sales). \"E-sklepy\" means \"Online shops\".\n    *   \"E-handel\" means \"E-commerce/Online trade\".\n    *   \"E-handel\" fits better as a concept for \"Internetowa sprzedaż\".\n\n    *   E-H-A-N-D-E-L (7 letters).\n    *   E-S-K-L-E-P-Y (7 letters).\n    *   \"E-handel\" is a more direct synonym for \"Internetowa sprzedaż\".\n\n    *   \"E-handel\" is the most common crossword answer for this definition.\n\n    *   E-H-A-N-D-E-L.\n    *   E (1), H (2), A (3), N (4), D (5), E (6), L (7).\n\n    *   The user wants ONLY the word.\n\n    *   Wait, is \"E-handel\" 7 letters? E-H-A-N-D-E-L. Yes.\n    *   Is there any other word?\n    *   \"E-sprzedaż\" is too long.\n    *   \"E-sklepy\" is \"online shops\".\n    *   \"E-handel\" is \"e-commerce\".\n\n    *   Let's check \"E-handel\" in Polish crossword databases.\n    *   Definition: \"Handel elektroniczny\" -> E-"
+      },
+      {
+        "hints": 2,
+        "mask": "E H _ _ _ _ _",
+        "raw_answer": "EHANDEL",
+        "cleaned_answer": "EHANDEL",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Internetowa sprzedaż\nLiczba liter: 7\nMaska: E H _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 318,
+          "prompt_tokens": 190,
+          "total_tokens": 508,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0001424,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0001424,
+            "upstream_inference_prompt_cost": 1.52e-05,
+            "upstream_inference_completions_cost": 0.0001272
+          }
+        },
+        "elapsed_ms": 7499,
+        "response_model": "google/gemma-4-26b-a4b-it-20260403"
+      }
+    ]
+  },
+  {
+    "question": "Naprawa uszkodzenia",
+    "correct_answer": "REPARACJA",
+    "model": "openrouter/google/gemma-4-26b-a4b-it",
+    "guessed": true,
+    "required_hints": 3,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _ _ _ _ _",
+        "raw_answer": null,
+        "cleaned_answer": "",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Naprawa uszkodzenia\nLiczba liter: 9\nMaska: _ _ _ _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 1024,
+          "prompt_tokens": 193,
+          "total_tokens": 1217,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 731,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00037384,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00037384,
+            "upstream_inference_prompt_cost": 1.544e-05,
+            "upstream_inference_completions_cost": 0.0003584
+          }
+        },
+        "elapsed_ms": 18691,
+        "response_model": "google/gemma-4-26b-a4b-it-20260403",
+        "reasoning": "*   Definition: \"Naprawa uszkodzenia\" (Repair of damage).\n    *   Length: 9 letters.\n    *   Mask: `_ _ _ _ _ _ _ _ _` (9 underscores).\n    *   Constraint: Provide ONLY the word.\n\n    *   \"Naprawa uszkodzenia\" (Repair of damage)\n    *   Synonyms/Related words:\n        *   Naprawa (6)\n        *   Remont (6)\n        *   Reanimacja (10)\n        *   Regeneracja (11)\n        *   Rekonstrukcja (13)\n        *   Naprawianie (11)\n        *   **Naprawienie** (11)\n        *   **Naprawianie** (11)\n        *   **Naprawa** (6)\n        *   **Naprawienie** (11)\n        *   **Naprawianie** (11)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa** (6)\n        *   **Naprawa"
+      },
+      {
+        "hints": 1,
+        "mask": "R _ _ _ _ _ _ _ _",
+        "raw_answer": null,
+        "cleaned_answer": "",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Naprawa uszkodzenia\nLiczba liter: 9\nMaska: R _ _ _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 1024,
+          "prompt_tokens": 193,
+          "total_tokens": 1217,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 1080,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00037384,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00037384,
+            "upstream_inference_prompt_cost": 1.544e-05,
+            "upstream_inference_completions_cost": 0.0003584
+          }
+        },
+        "elapsed_ms": 30390,
+        "response_model": "google/gemma-4-26b-a4b-it-20260403",
+        "reasoning": "*   Definition: \"Naprawa uszkodzenia\" (Repair of damage).\n    *   Length: 9 letters.\n    *   Mask: `R _ _ _ _ _ _ _ _` (Starts with 'R').\n\n    *   \"Naprawa uszkodzenia\" (Repair of damage)\n    *   Synonyms/Related words: naprawa, regeneracja, renowacja, naprawianie, naprawienie, restaurowanie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, naprawienie, napraw"
+      },
+      {
+        "hints": 2,
+        "mask": "R E _ _ _ _ _ _ _",
+        "raw_answer": null,
+        "cleaned_answer": "",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Naprawa uszkodzenia\nLiczba liter: 9\nMaska: R E _ _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 1024,
+          "prompt_tokens": 193,
+          "total_tokens": 1217,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 821,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0004289,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0004289,
+            "upstream_inference_prompt_cost": 1.93e-05,
+            "upstream_inference_completions_cost": 0.0004096
+          }
+        },
+        "elapsed_ms": 16199,
+        "response_model": "google/gemma-4-26b-a4b-it-20260403",
+        "reasoning": "*   Definition: \"Naprawa uszkodzenia\" (Repair of damage).\n    *   Length: 9 letters.\n    *   Mask: `R E _ _ _ _ _ _ _` (Starts with RE).\n\n    *   \"Naprawa uszkodzenia\" (Repairing damage)\n    *   Synonyms/Related words: naprawa, regeneracja, remont, renowacja, reperacja, restytucja, rekultywacja, reperacja (wait, \"reperacja\" is rare, \"reperacja\" is not a common word, \"reperacja\" is not it, \"reperacja\" is not it... \"reperacja\" is not a word, \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja\" is not a word... \"reperacja"
+      },
+      {
+        "hints": 3,
+        "mask": "R E P _ _ _ _ _ _",
+        "raw_answer": "REPARACJA",
+        "cleaned_answer": "REPARACJA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Naprawa uszkodzenia\nLiczba liter: 9\nMaska: R E P _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 310,
+          "prompt_tokens": 192,
+          "total_tokens": 502,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 210,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 144,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00014896,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00014896,
+            "upstream_inference_prompt_cost": 2.496e-05,
+            "upstream_inference_completions_cost": 0.000124
+          }
+        },
+        "elapsed_ms": 5527,
+        "response_model": "google/gemma-4-26b-a4b-it-20260403",
+        "reasoning": "*   Definition: \"Naprawa uszkodzenia\" (Repair of damage)\n    *   Length: 9 letters\n    *   Mask: `R E P _ _ _ _ _ _`\n\n    *   The word starts with \"REP\".\n    *   Common Polish words starting with \"REP\" related to repair:\n        *   REPARACJA (9 letters: R-E-P-A-R-A-C-J-A)\n        *   REPAROWANIE (11 letters - too long)\n        *   REPARATUR (not a standard Polish word in this context)\n\n    *   R-E-P-A-R-A-C-J-A\n    *   1: R\n    *   2: E\n    *   3: P\n    *   4: A\n    *   5: R\n    *   6: A\n    *   7: C\n    *   8: J\n    *   9: A\n    *   Total: 9 letters.\n\n    *   Definition: \"Naprawa uszkodzenia\" -> \"Reparacja\" (Repair/Restoration).\n    *   Mask: `R E P _ _ _ _ _ _` -> `R E P A R A C J A`.\n\n    *   The user requested ONLY the word.\n\n    *   REPARACJA"
+      }
+    ]
+  },
+  {
+    "question": "Obcy wtręt językowy",
+    "correct_answer": "MAKARONIZM",
+    "model": "openrouter/google/gemma-4-26b-a4b-it",
+    "guessed": true,
+    "required_hints": 1,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _ _ _ _ _ _",
+        "raw_answer": null,
+        "cleaned_answer": "",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Obcy wtręt językowy\nLiczba liter: 10\nMaska: _ _ _ _ _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 1024,
+          "prompt_tokens": 196,
+          "total_tokens": 1220,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 615,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 144,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00043508,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00043508,
+            "upstream_inference_prompt_cost": 2.548e-05,
+            "upstream_inference_completions_cost": 0.0004096
+          }
+        },
+        "elapsed_ms": 14398,
+        "response_model": "google/gemma-4-26b-a4b-it-20260403",
+        "reasoning": "*   Definition: \"Obcy wtręt językowy\" (Foreign linguistic intrusion/insertion).\n    *   Length: 10 letters.\n    *   Mask: `_ _ _ _ _ _ _ _ _ _` (10 underscores).\n    *   Constraint: Provide ONLY the word.\n\n    *   \"Obcy wtręt językowy\" refers to a word or phrase taken from another language and used in another.\n    *   Common terms: *zapożyczenie*, *archaizm* (no), *anglicyzm* (9 letters), *germanizm* (9 letters), *fransuzizm* (no), *latynizm* (8 letters), *russyzm* (7 letters), *kalki* (no).\n    *   Let's check \"zapożyczenie\": Z-A-P-O-Ż-Y-C-Z-E-N-I-E (12 letters). Too long.\n    *   Let's check \"anglicyzm\": A-N-G-L-I-C-Y-Z-M (9 letters). Too short.\n    *   Let's check \"germanizm\": G-E-R-M-A-N-I-Z-M (9 letters). Too short.\n    *   Let's check \"latynizm\": L-A-T-Y-N-I-Z-M (8 letters). Too short.\n    *   Let's check \"russyzm\": R-U-S-S-Y-Z-M (7 letters). Too short.\n    *   Let's check \"galicyzm\": G-A-L-I-C-Y-Z-M (8 letters). Too short.\n    *   Let's check \"archaizm\": A-R-C-H-A-I-Z-M (8 letters). Too short.\n    *   Let's check \"neologizm\": N-E-O-L-O-G-I-Z-M (9 letters). Too short.\n    *   Let's check \"zapożyczenie\" again... wait, \"zapożyczenie\" is 12.\n    *   What about \"zapożyczkę\"? No.\n    *   What about \"zapożyczony\"? No.\n    *   What about \"zapożyczone\"? No.\n    *   Let's look for synonyms of \"wtręt językowy\".\n    *   \"Zapożyczenie\" is the most common, but it's 12.\n    *   \"Anglicyzm\" is 9.\n    *   \"Germanizm\" is 9.\n    *   \"Latynizm\" is 8.\n    *   \"Russyzm\" is 7.\n    *   \"Kalki\" is 5.\n    *   \"Wtręt\" itself? No.\n    *   \"Inwazja\"? No.\n    *   \"Zapożyczenie\" is 12.\n    *   Wait, \"zapożyczenie\" is Z-A-P-O-Ż-Y-C-Z-E-N-I-E.\n    *   Let's count \"zapożyczenie\" again: Z(1) A(2) P(3) O(4) Ż(5) Y(6) C(7) Z(8) E(9) N(10) I(11) E(12).\n    *   What about \"zapożyczone\"? No.\n    *   What about \"zapożyczony\"? No.\n    *   What about \"zapożyczkę\"? No.\n    *   Let's try \"zapożyczenie\" synonyms.\n    *   \"Zapożyczenie\" is a noun.\n    *   \"Wtręt\" -> \"zapożyczenie\".\n    *   Is there a 10-letter word?\n    *   \"Anglicyzmy\" (plural)? A-N-G-L-I-C-Y-Z-M-Y (10 letters).\n    *   \"Germanizmy\" (plural)? G-E-R-M-A-N-I-Z-M-Y (10 letters).\n    *   \"Latynizmy\" (plural)? L-A-T-Y-N-I-Z-M-Y (9 letters).\n    *   \"Russyzmy\" (plural)? R-U-S-S-Y-Z-M-"
+      },
+      {
+        "hints": 1,
+        "mask": "M _ _ _ _ _ _ _ _ _",
+        "raw_answer": "MAKARONIZM",
+        "cleaned_answer": "MAKARONIZM",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Obcy wtręt językowy\nLiczba liter: 10\nMaska: M _ _ _ _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 227,
+          "prompt_tokens": 197,
+          "total_tokens": 424,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 0,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00010656,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00010656,
+            "upstream_inference_prompt_cost": 1.576e-05,
+            "upstream_inference_completions_cost": 9.08e-05
+          }
+        },
+        "elapsed_ms": 6313,
+        "response_model": "google/gemma-4-26b-a4b-it-20260403"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1181 @@
+[
+  {
+    "question": "Podwodny grunt",
+    "correct_answer": "DNO",
+    "model": "openrouter/google/gemini-3.1-flash-lite-preview",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _",
+        "raw_answer": "DNO",
+        "cleaned_answer": "DNO",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Podwodny grunt\nLiczba liter: 3\nMaska: _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 125,
+          "prompt_tokens": 160,
+          "total_tokens": 285,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 123,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0002275,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0002275,
+            "upstream_inference_prompt_cost": 4e-05,
+            "upstream_inference_completions_cost": 0.0001875
+          }
+        },
+        "elapsed_ms": 1614,
+        "response_model": "google/gemini-3.1-flash-lite-preview-20260303"
+      }
+    ]
+  },
+  {
+    "question": "Kropla smutku",
+    "correct_answer": "ŁZA",
+    "model": "openrouter/google/gemini-3.1-flash-lite-preview",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _",
+        "raw_answer": "ŁZA",
+        "cleaned_answer": "ŁZA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Kropla smutku\nLiczba liter: 3\nMaska: _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 132,
+          "prompt_tokens": 160,
+          "total_tokens": 292,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 130,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.000238,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.000238,
+            "upstream_inference_prompt_cost": 4e-05,
+            "upstream_inference_completions_cost": 0.000198
+          }
+        },
+        "elapsed_ms": 1221,
+        "response_model": "google/gemini-3.1-flash-lite-preview-20260303"
+      }
+    ]
+  },
+  {
+    "question": "Góral z dowcipów",
+    "correct_answer": "BACA",
+    "model": "openrouter/google/gemini-3.1-flash-lite-preview",
+    "guessed": true,
+    "required_hints": 2,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _",
+        "raw_answer": "JANEK",
+        "cleaned_answer": "JANEK",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Góral z dowcipów\nLiczba liter: 4\nMaska: _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 115,
+          "prompt_tokens": 161,
+          "total_tokens": 276,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 112,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00021275,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00021275,
+            "upstream_inference_prompt_cost": 4.025e-05,
+            "upstream_inference_completions_cost": 0.0001725
+          }
+        },
+        "elapsed_ms": 1657,
+        "response_model": "google/gemini-3.1-flash-lite-preview-20260303"
+      },
+      {
+        "hints": 1,
+        "mask": "B _ _ _",
+        "raw_answer": "BACU",
+        "cleaned_answer": "BACU",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Góral z dowcipów\nLiczba liter: 4\nMaska: B _ _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: JANEK\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 133,
+          "prompt_tokens": 185,
+          "total_tokens": 318,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 131,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00024575,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00024575,
+            "upstream_inference_prompt_cost": 4.625e-05,
+            "upstream_inference_completions_cost": 0.0001995
+          }
+        },
+        "elapsed_ms": 2330,
+        "response_model": "google/gemini-3.1-flash-lite-preview-20260303"
+      },
+      {
+        "hints": 2,
+        "mask": "B A _ _",
+        "raw_answer": "BACA",
+        "cleaned_answer": "BACA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Góral z dowcipów\nLiczba liter: 4\nMaska: B A _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: JANEK, BACU\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 138,
+          "prompt_tokens": 190,
+          "total_tokens": 328,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 136,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0002545,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0002545,
+            "upstream_inference_prompt_cost": 4.75e-05,
+            "upstream_inference_completions_cost": 0.000207
+          }
+        },
+        "elapsed_ms": 1437,
+        "response_model": "google/gemini-3.1-flash-lite-preview-20260303"
+      }
+    ]
+  },
+  {
+    "question": "Blada u chorego",
+    "correct_answer": "CERA",
+    "model": "openrouter/google/gemini-3.1-flash-lite-preview",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _",
+        "raw_answer": "CERA",
+        "cleaned_answer": "CERA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Blada u chorego\nLiczba liter: 4\nMaska: _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 121,
+          "prompt_tokens": 162,
+          "total_tokens": 283,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 119,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.000222,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.000222,
+            "upstream_inference_prompt_cost": 4.05e-05,
+            "upstream_inference_completions_cost": 0.0001815
+          }
+        },
+        "elapsed_ms": 1368,
+        "response_model": "google/gemini-3.1-flash-lite-preview-20260303"
+      }
+    ]
+  },
+  {
+    "question": "Podróż przez morze",
+    "correct_answer": "REJS",
+    "model": "openrouter/google/gemini-3.1-flash-lite-preview",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _",
+        "raw_answer": "REJS",
+        "cleaned_answer": "REJS",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Podróż przez morze\nLiczba liter: 4\nMaska: _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 133,
+          "prompt_tokens": 161,
+          "total_tokens": 294,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 131,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00023975,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00023975,
+            "upstream_inference_prompt_cost": 4.025e-05,
+            "upstream_inference_completions_cost": 0.0001995
+          }
+        },
+        "elapsed_ms": 2163,
+        "response_model": "google/gemini-3.1-flash-lite-preview-20260303"
+      }
+    ]
+  },
+  {
+    "question": "Sala sportowa",
+    "correct_answer": "HALA",
+    "model": "openrouter/google/gemini-3.1-flash-lite-preview",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _",
+        "raw_answer": "HALA",
+        "cleaned_answer": "HALA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Sala sportowa\nLiczba liter: 4\nMaska: _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 128,
+          "prompt_tokens": 158,
+          "total_tokens": 286,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 126,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0002315,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0002315,
+            "upstream_inference_prompt_cost": 3.95e-05,
+            "upstream_inference_completions_cost": 0.000192
+          }
+        },
+        "elapsed_ms": 1622,
+        "response_model": "google/gemini-3.1-flash-lite-preview-20260303"
+      }
+    ]
+  },
+  {
+    "question": "Połowica władcy zwierząt",
+    "correct_answer": "LWICA",
+    "model": "openrouter/google/gemini-3.1-flash-lite-preview",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "LWICA",
+        "cleaned_answer": "LWICA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Połowica władcy zwierząt\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 122,
+          "prompt_tokens": 163,
+          "total_tokens": 285,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 120,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00022375,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00022375,
+            "upstream_inference_prompt_cost": 4.075e-05,
+            "upstream_inference_completions_cost": 0.000183
+          }
+        },
+        "elapsed_ms": 1819,
+        "response_model": "google/gemini-3.1-flash-lite-preview-20260303"
+      }
+    ]
+  },
+  {
+    "question": "Fallon, komik z TV",
+    "correct_answer": "JIMMY",
+    "model": "openrouter/google/gemini-3.1-flash-lite-preview",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "JIMMY",
+        "cleaned_answer": "JIMMY",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Fallon, komik z TV\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 120,
+          "prompt_tokens": 162,
+          "total_tokens": 282,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 118,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0002205,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0002205,
+            "upstream_inference_prompt_cost": 4.05e-05,
+            "upstream_inference_completions_cost": 0.00018
+          }
+        },
+        "elapsed_ms": 1772,
+        "response_model": "google/gemini-3.1-flash-lite-preview-20260303"
+      }
+    ]
+  },
+  {
+    "question": "Siostra Balladyny",
+    "correct_answer": "ALINA",
+    "model": "openrouter/google/gemini-3.1-flash-lite-preview",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "ALINA",
+        "cleaned_answer": "ALINA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Siostra Balladyny\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 133,
+          "prompt_tokens": 164,
+          "total_tokens": 297,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 131,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0002405,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0002405,
+            "upstream_inference_prompt_cost": 4.1e-05,
+            "upstream_inference_completions_cost": 0.0001995
+          }
+        },
+        "elapsed_ms": 1683,
+        "response_model": "google/gemini-3.1-flash-lite-preview-20260303"
+      }
+    ]
+  },
+  {
+    "question": "Okrągłe skrzyżowanie",
+    "correct_answer": "RONDO",
+    "model": "openrouter/google/gemini-3.1-flash-lite-preview",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "RONDO",
+        "cleaned_answer": "RONDO",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Okrągłe skrzyżowanie\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 119,
+          "prompt_tokens": 166,
+          "total_tokens": 285,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 117,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00022,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00022,
+            "upstream_inference_prompt_cost": 4.15e-05,
+            "upstream_inference_completions_cost": 0.0001785
+          }
+        },
+        "elapsed_ms": 1402,
+        "response_model": "google/gemini-3.1-flash-lite-preview-20260303"
+      }
+    ]
+  },
+  {
+    "question": "Imię Kurosawy, reżysera",
+    "correct_answer": "AKIRA",
+    "model": "openrouter/google/gemini-3.1-flash-lite-preview",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "AKIRA",
+        "cleaned_answer": "AKIRA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Imię Kurosawy, reżysera\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 129,
+          "prompt_tokens": 167,
+          "total_tokens": 296,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 127,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00023525,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00023525,
+            "upstream_inference_prompt_cost": 4.175e-05,
+            "upstream_inference_completions_cost": 0.0001935
+          }
+        },
+        "elapsed_ms": 2125,
+        "response_model": "google/gemini-3.1-flash-lite-preview-20260303"
+      }
+    ]
+  },
+  {
+    "question": "Nabranie powietrza do płuc",
+    "correct_answer": "WDECH",
+    "model": "openrouter/google/gemini-3.1-flash-lite-preview",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "WDECH",
+        "cleaned_answer": "WDECH",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Nabranie powietrza do płuc\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 120,
+          "prompt_tokens": 166,
+          "total_tokens": 286,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 117,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0002215,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0002215,
+            "upstream_inference_prompt_cost": 4.15e-05,
+            "upstream_inference_completions_cost": 0.00018
+          }
+        },
+        "elapsed_ms": 1561,
+        "response_model": "google/gemini-3.1-flash-lite-preview-20260303"
+      }
+    ]
+  },
+  {
+    "question": "Listwa stołu bilardowego",
+    "correct_answer": "BANDA",
+    "model": "openrouter/google/gemini-3.1-flash-lite-preview",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "BANDA",
+        "cleaned_answer": "BANDA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Listwa stołu bilardowego\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 123,
+          "prompt_tokens": 163,
+          "total_tokens": 286,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 121,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00022525,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00022525,
+            "upstream_inference_prompt_cost": 4.075e-05,
+            "upstream_inference_completions_cost": 0.0001845
+          }
+        },
+        "elapsed_ms": 1524,
+        "response_model": "google/gemini-3.1-flash-lite-preview-20260303"
+      }
+    ]
+  },
+  {
+    "question": "Naczynie na kakao",
+    "correct_answer": "KUBEK",
+    "model": "openrouter/google/gemini-3.1-flash-lite-preview",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _",
+        "raw_answer": "KUBEK",
+        "cleaned_answer": "KUBEK",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Naczynie na kakao\nLiczba liter: 5\nMaska: _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 143,
+          "prompt_tokens": 162,
+          "total_tokens": 305,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 140,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.000255,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.000255,
+            "upstream_inference_prompt_cost": 4.05e-05,
+            "upstream_inference_completions_cost": 0.0002145
+          }
+        },
+        "elapsed_ms": 2273,
+        "response_model": "google/gemini-3.1-flash-lite-preview-20260303"
+      }
+    ]
+  },
+  {
+    "question": "Kaczor z kreskówek",
+    "correct_answer": "DONALD",
+    "model": "openrouter/google/gemini-3.1-flash-lite-preview",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _ _",
+        "raw_answer": "DONALD",
+        "cleaned_answer": "DONALD",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Kaczor z kreskówek\nLiczba liter: 6\nMaska: _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 128,
+          "prompt_tokens": 165,
+          "total_tokens": 293,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 126,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00023325,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00023325,
+            "upstream_inference_prompt_cost": 4.125e-05,
+            "upstream_inference_completions_cost": 0.000192
+          }
+        },
+        "elapsed_ms": 1887,
+        "response_model": "google/gemini-3.1-flash-lite-preview-20260303"
+      }
+    ]
+  },
+  {
+    "question": "Buduje igloo",
+    "correct_answer": "ESKIMOS",
+    "model": "openrouter/google/gemini-3.1-flash-lite-preview",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _ _ _",
+        "raw_answer": "ESKIMOS",
+        "cleaned_answer": "ESKIMOS",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Buduje igloo\nLiczba liter: 7\nMaska: _ _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 133,
+          "prompt_tokens": 164,
+          "total_tokens": 297,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 129,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0002405,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0002405,
+            "upstream_inference_prompt_cost": 4.1e-05,
+            "upstream_inference_completions_cost": 0.0001995
+          }
+        },
+        "elapsed_ms": 1812,
+        "response_model": "google/gemini-3.1-flash-lite-preview-20260303"
+      }
+    ]
+  },
+  {
+    "question": "Internetowa sprzedaż",
+    "correct_answer": "EHANDEL",
+    "model": "openrouter/google/gemini-3.1-flash-lite-preview",
+    "guessed": true,
+    "required_hints": 0,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _ _ _",
+        "raw_answer": "EHANDEL",
+        "cleaned_answer": "EHANDEL",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Internetowa sprzedaż\nLiczba liter: 7\nMaska: _ _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 121,
+          "prompt_tokens": 164,
+          "total_tokens": 285,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 118,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.0002225,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.0002225,
+            "upstream_inference_prompt_cost": 4.1e-05,
+            "upstream_inference_completions_cost": 0.0001815
+          }
+        },
+        "elapsed_ms": 1541,
+        "response_model": "google/gemini-3.1-flash-lite-preview-20260303"
+      }
+    ]
+  },
+  {
+    "question": "Naprawa uszkodzenia",
+    "correct_answer": "REPARACJA",
+    "model": "openrouter/google/gemini-3.1-flash-lite-preview",
+    "guessed": true,
+    "required_hints": 2,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _ _ _ _ _",
+        "raw_answer": "REPERACJA",
+        "cleaned_answer": "REPERACJA",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Naprawa uszkodzenia\nLiczba liter: 9\nMaska: _ _ _ _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 120,
+          "prompt_tokens": 167,
+          "total_tokens": 287,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 116,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00022175,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00022175,
+            "upstream_inference_prompt_cost": 4.175e-05,
+            "upstream_inference_completions_cost": 0.00018
+          }
+        },
+        "elapsed_ms": 1860,
+        "response_model": "google/gemini-3.1-flash-lite-preview-20260303"
+      },
+      {
+        "hints": 1,
+        "mask": "R _ _ _ _ _ _ _ _",
+        "raw_answer": "REMONTOWA",
+        "cleaned_answer": "REMONTOWA",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Naprawa uszkodzenia\nLiczba liter: 9\nMaska: R _ _ _ _ _ _ _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: REPERACJA\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 136,
+          "prompt_tokens": 192,
+          "total_tokens": 328,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 132,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.000252,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.000252,
+            "upstream_inference_prompt_cost": 4.8e-05,
+            "upstream_inference_completions_cost": 0.000204
+          }
+        },
+        "elapsed_ms": 1993,
+        "response_model": "google/gemini-3.1-flash-lite-preview-20260303"
+      },
+      {
+        "hints": 2,
+        "mask": "R E _ _ _ _ _ _ _",
+        "raw_answer": "REPARACJA",
+        "cleaned_answer": "REPARACJA",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Naprawa uszkodzenia\nLiczba liter: 9\nMaska: R E _ _ _ _ _ _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: REPERACJA, REMONTOWA\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 125,
+          "prompt_tokens": 194,
+          "total_tokens": 319,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 121,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.000236,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.000236,
+            "upstream_inference_prompt_cost": 4.85e-05,
+            "upstream_inference_completions_cost": 0.0001875
+          }
+        },
+        "elapsed_ms": 2105,
+        "response_model": "google/gemini-3.1-flash-lite-preview-20260303"
+      }
+    ]
+  },
+  {
+    "question": "Obcy wtręt językowy",
+    "correct_answer": "MAKARONIZM",
+    "model": "openrouter/google/gemini-3.1-flash-lite-preview",
+    "guessed": true,
+    "required_hints": 1,
+    "attempts": [
+      {
+        "hints": 0,
+        "mask": "_ _ _ _ _ _ _ _ _ _",
+        "raw_answer": "BARBARYZM",
+        "cleaned_answer": "BARBARYZM",
+        "correct": false,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Obcy wtręt językowy\nLiczba liter: 10\nMaska: _ _ _ _ _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 143,
+          "prompt_tokens": 169,
+          "total_tokens": 312,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 139,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00025675,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00025675,
+            "upstream_inference_prompt_cost": 4.225e-05,
+            "upstream_inference_completions_cost": 0.0002145
+          }
+        },
+        "elapsed_ms": 2789,
+        "response_model": "google/gemini-3.1-flash-lite-preview-20260303"
+      },
+      {
+        "hints": 1,
+        "mask": "M _ _ _ _ _ _ _ _ _",
+        "raw_answer": "MAKARONIZM",
+        "cleaned_answer": "MAKARONIZM",
+        "correct": true,
+        "messages": [
+          {
+            "role": "system",
+            "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+          },
+          {
+            "role": "user",
+            "content": "Definicja: Obcy wtręt językowy\nLiczba liter: 10\nMaska: M _ _ _ _ _ _ _ _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: BARBARYZM\nPodaj wprost nowe hasło:"
+          }
+        ],
+        "usage": {
+          "completion_tokens": 154,
+          "prompt_tokens": 196,
+          "total_tokens": 350,
+          "completion_tokens_details": {
+            "audio_tokens": 0,
+            "reasoning_tokens": 150,
+            "image_tokens": 0
+          },
+          "prompt_tokens_details": {
+            "audio_tokens": 0,
+            "cached_tokens": 0,
+            "video_tokens": 0,
+            "cache_write_tokens": 0
+          },
+          "cost": 0.00028,
+          "is_byok": false,
+          "cost_details": {
+            "upstream_inference_cost": 0.00028,
+            "upstream_inference_prompt_cost": 4.9e-05,
+            "upstream_inference_completions_cost": 0.000231
+          }
+        },
+        "elapsed_ms": 1404,
+        "response_model": "google/gemini-3.1-flash-lite-preview-20260303"
+      }
+    ]
+  }
+]
