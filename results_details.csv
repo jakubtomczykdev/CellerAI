@@ -1,0 +1,210 @@
+question,correct_answer,model,guessed,hints
+Podwodny grunt,DNO,openrouter/openai/gpt-5.4-nano,True,1.0
+Podwodny grunt,DNO,openrouter/google/gemma-4-31b-it,True,0.0
+Podwodny grunt,DNO,openrouter/openai/gpt-oss-20b,True,0.0
+Podwodny grunt,DNO,openrouter/openai/gpt-oss-120b,True,0.0
+Podwodny grunt,DNO,openrouter/x-ai/grok-4.1-fast,True,0.0
+Podwodny grunt,DNO,openrouter/google/gemini-3.1-flash-lite-preview,True,0.0
+Podwodny grunt,DNO,openrouter/qwen/qwen3.5-flash-02-23,True,0.0
+Podwodny grunt,DNO,openrouter/mistralai/ministral-14b-2512,True,0.0
+Podwodny grunt,DNO,openrouter/mistralai/mistral-small-2603,True,0.0
+Podwodny grunt,DNO,openrouter/anthropic/claude-sonnet-4.6,True,0.0
+Podwodny grunt,DNO,openrouter/anthropic/claude-opus-4.7,True,0.0
+Kropla smutku,ŁZA,openrouter/openai/gpt-5.4-nano,True,0.0
+Kropla smutku,ŁZA,openrouter/google/gemma-4-31b-it,True,0.0
+Kropla smutku,ŁZA,openrouter/openai/gpt-oss-20b,True,2.0
+Kropla smutku,ŁZA,openrouter/openai/gpt-oss-120b,True,0.0
+Kropla smutku,ŁZA,openrouter/x-ai/grok-4.1-fast,True,0.0
+Kropla smutku,ŁZA,openrouter/google/gemini-3.1-flash-lite-preview,True,0.0
+Kropla smutku,ŁZA,openrouter/qwen/qwen3.5-flash-02-23,True,0.0
+Kropla smutku,ŁZA,openrouter/mistralai/ministral-14b-2512,True,0.0
+Kropla smutku,ŁZA,openrouter/mistralai/mistral-small-2603,True,0.0
+Kropla smutku,ŁZA,openrouter/anthropic/claude-sonnet-4.6,True,0.0
+Kropla smutku,ŁZA,openrouter/anthropic/claude-opus-4.7,True,0.0
+Góral z dowcipów,BACA,openrouter/openai/gpt-5.4-nano,True,1.0
+Góral z dowcipów,BACA,openrouter/google/gemma-4-31b-it,True,0.0
+Góral z dowcipów,BACA,openrouter/openai/gpt-oss-20b,True,4.0
+Góral z dowcipów,BACA,openrouter/openai/gpt-oss-120b,True,2.0
+Góral z dowcipów,BACA,openrouter/x-ai/grok-4.1-fast,True,1.0
+Góral z dowcipów,BACA,openrouter/google/gemini-3.1-flash-lite-preview,True,2.0
+Góral z dowcipów,BACA,openrouter/qwen/qwen3.5-flash-02-23,True,4.0
+Góral z dowcipów,BACA,openrouter/mistralai/ministral-14b-2512,True,3.0
+Góral z dowcipów,BACA,openrouter/mistralai/mistral-small-2603,True,0.0
+Góral z dowcipów,BACA,openrouter/anthropic/claude-sonnet-4.6,True,1.0
+Góral z dowcipów,BACA,openrouter/anthropic/claude-opus-4.7,True,0.0
+Blada u chorego,CERA,openrouter/openai/gpt-5.4-nano,True,0.0
+Blada u chorego,CERA,openrouter/google/gemma-4-31b-it,True,0.0
+Blada u chorego,CERA,openrouter/openai/gpt-oss-20b,True,4.0
+Blada u chorego,CERA,openrouter/openai/gpt-oss-120b,True,2.0
+Blada u chorego,CERA,openrouter/x-ai/grok-4.1-fast,True,0.0
+Blada u chorego,CERA,openrouter/google/gemini-3.1-flash-lite-preview,True,0.0
+Blada u chorego,CERA,openrouter/qwen/qwen3.5-flash-02-23,True,2.0
+Blada u chorego,CERA,openrouter/mistralai/ministral-14b-2512,True,1.0
+Blada u chorego,CERA,openrouter/mistralai/mistral-small-2603,True,0.0
+Blada u chorego,CERA,openrouter/anthropic/claude-sonnet-4.6,True,0.0
+Blada u chorego,CERA,openrouter/anthropic/claude-opus-4.7,True,0.0
+Podróż przez morze,REJS,openrouter/openai/gpt-5.4-nano,True,0.0
+Podróż przez morze,REJS,openrouter/google/gemma-4-31b-it,True,0.0
+Podróż przez morze,REJS,openrouter/openai/gpt-oss-20b,True,2.0
+Podróż przez morze,REJS,openrouter/openai/gpt-oss-120b,True,0.0
+Podróż przez morze,REJS,openrouter/x-ai/grok-4.1-fast,True,0.0
+Podróż przez morze,REJS,openrouter/google/gemini-3.1-flash-lite-preview,True,0.0
+Podróż przez morze,REJS,openrouter/qwen/qwen3.5-flash-02-23,True,0.0
+Podróż przez morze,REJS,openrouter/mistralai/ministral-14b-2512,True,0.0
+Podróż przez morze,REJS,openrouter/mistralai/mistral-small-2603,True,0.0
+Podróż przez morze,REJS,openrouter/anthropic/claude-sonnet-4.6,True,0.0
+Podróż przez morze,REJS,openrouter/anthropic/claude-opus-4.7,True,0.0
+Sala sportowa,HALA,openrouter/openai/gpt-5.4-nano,True,0.0
+Sala sportowa,HALA,openrouter/google/gemma-4-31b-it,True,0.0
+Sala sportowa,HALA,openrouter/openai/gpt-oss-20b,True,0.0
+Sala sportowa,HALA,openrouter/openai/gpt-oss-120b,True,0.0
+Sala sportowa,HALA,openrouter/x-ai/grok-4.1-fast,True,0.0
+Sala sportowa,HALA,openrouter/google/gemini-3.1-flash-lite-preview,True,0.0
+Sala sportowa,HALA,openrouter/qwen/qwen3.5-flash-02-23,True,0.0
+Sala sportowa,HALA,openrouter/mistralai/ministral-14b-2512,True,0.0
+Sala sportowa,HALA,openrouter/mistralai/mistral-small-2603,True,0.0
+Sala sportowa,HALA,openrouter/anthropic/claude-sonnet-4.6,True,0.0
+Sala sportowa,HALA,openrouter/anthropic/claude-opus-4.7,True,0.0
+Połowica władcy zwierząt,LWICA,openrouter/openai/gpt-5.4-nano,True,0.0
+Połowica władcy zwierząt,LWICA,openrouter/google/gemma-4-31b-it,True,0.0
+Połowica władcy zwierząt,LWICA,openrouter/openai/gpt-oss-20b,True,3.0
+Połowica władcy zwierząt,LWICA,openrouter/openai/gpt-oss-120b,True,2.0
+Połowica władcy zwierząt,LWICA,openrouter/x-ai/grok-4.1-fast,True,0.0
+Połowica władcy zwierząt,LWICA,openrouter/google/gemini-3.1-flash-lite-preview,True,0.0
+Połowica władcy zwierząt,LWICA,openrouter/qwen/qwen3.5-flash-02-23,True,4.0
+Połowica władcy zwierząt,LWICA,openrouter/mistralai/ministral-14b-2512,True,1.0
+Połowica władcy zwierząt,LWICA,openrouter/mistralai/mistral-small-2603,True,0.0
+Połowica władcy zwierząt,LWICA,openrouter/anthropic/claude-sonnet-4.6,True,0.0
+Połowica władcy zwierząt,LWICA,openrouter/anthropic/claude-opus-4.7,True,0.0
+"Fallon, komik z TV",JIMMY,openrouter/openai/gpt-5.4-nano,True,0.0
+"Fallon, komik z TV",JIMMY,openrouter/google/gemma-4-31b-it,True,0.0
+"Fallon, komik z TV",JIMMY,openrouter/openai/gpt-oss-20b,True,2.0
+"Fallon, komik z TV",JIMMY,openrouter/openai/gpt-oss-120b,True,0.0
+"Fallon, komik z TV",JIMMY,openrouter/x-ai/grok-4.1-fast,True,0.0
+"Fallon, komik z TV",JIMMY,openrouter/google/gemini-3.1-flash-lite-preview,True,0.0
+"Fallon, komik z TV",JIMMY,openrouter/qwen/qwen3.5-flash-02-23,True,0.0
+"Fallon, komik z TV",JIMMY,openrouter/mistralai/ministral-14b-2512,True,4.0
+"Fallon, komik z TV",JIMMY,openrouter/mistralai/mistral-small-2603,True,0.0
+"Fallon, komik z TV",JIMMY,openrouter/anthropic/claude-sonnet-4.6,True,0.0
+"Fallon, komik z TV",JIMMY,openrouter/anthropic/claude-opus-4.7,True,0.0
+Siostra Balladyny,ALINA,openrouter/openai/gpt-5.4-nano,True,0.0
+Siostra Balladyny,ALINA,openrouter/google/gemma-4-31b-it,True,0.0
+Siostra Balladyny,ALINA,openrouter/openai/gpt-oss-20b,True,1.0
+Siostra Balladyny,ALINA,openrouter/openai/gpt-oss-120b,True,0.0
+Siostra Balladyny,ALINA,openrouter/x-ai/grok-4.1-fast,True,0.0
+Siostra Balladyny,ALINA,openrouter/google/gemini-3.1-flash-lite-preview,True,0.0
+Siostra Balladyny,ALINA,openrouter/qwen/qwen3.5-flash-02-23,True,1.0
+Siostra Balladyny,ALINA,openrouter/mistralai/ministral-14b-2512,True,0.0
+Siostra Balladyny,ALINA,openrouter/mistralai/mistral-small-2603,True,0.0
+Siostra Balladyny,ALINA,openrouter/anthropic/claude-sonnet-4.6,True,0.0
+Siostra Balladyny,ALINA,openrouter/anthropic/claude-opus-4.7,True,0.0
+Okrągłe skrzyżowanie,RONDO,openrouter/openai/gpt-5.4-nano,True,0.0
+Okrągłe skrzyżowanie,RONDO,openrouter/google/gemma-4-31b-it,True,0.0
+Okrągłe skrzyżowanie,RONDO,openrouter/openai/gpt-oss-20b,True,5.0
+Okrągłe skrzyżowanie,RONDO,openrouter/openai/gpt-oss-120b,True,0.0
+Okrągłe skrzyżowanie,RONDO,openrouter/x-ai/grok-4.1-fast,True,0.0
+Okrągłe skrzyżowanie,RONDO,openrouter/google/gemini-3.1-flash-lite-preview,True,0.0
+Okrągłe skrzyżowanie,RONDO,openrouter/qwen/qwen3.5-flash-02-23,True,0.0
+Okrągłe skrzyżowanie,RONDO,openrouter/mistralai/ministral-14b-2512,True,0.0
+Okrągłe skrzyżowanie,RONDO,openrouter/mistralai/mistral-small-2603,True,0.0
+Okrągłe skrzyżowanie,RONDO,openrouter/anthropic/claude-sonnet-4.6,True,0.0
+Okrągłe skrzyżowanie,RONDO,openrouter/anthropic/claude-opus-4.7,True,0.0
+"Imię Kurosawy, reżysera",AKIRA,openrouter/openai/gpt-5.4-nano,True,0.0
+"Imię Kurosawy, reżysera",AKIRA,openrouter/google/gemma-4-31b-it,True,0.0
+"Imię Kurosawy, reżysera",AKIRA,openrouter/openai/gpt-oss-20b,True,0.0
+"Imię Kurosawy, reżysera",AKIRA,openrouter/openai/gpt-oss-120b,True,0.0
+"Imię Kurosawy, reżysera",AKIRA,openrouter/x-ai/grok-4.1-fast,True,0.0
+"Imię Kurosawy, reżysera",AKIRA,openrouter/google/gemini-3.1-flash-lite-preview,True,0.0
+"Imię Kurosawy, reżysera",AKIRA,openrouter/qwen/qwen3.5-flash-02-23,True,0.0
+"Imię Kurosawy, reżysera",AKIRA,openrouter/mistralai/ministral-14b-2512,True,0.0
+"Imię Kurosawy, reżysera",AKIRA,openrouter/mistralai/mistral-small-2603,True,0.0
+"Imię Kurosawy, reżysera",AKIRA,openrouter/anthropic/claude-sonnet-4.6,True,0.0
+"Imię Kurosawy, reżysera",AKIRA,openrouter/anthropic/claude-opus-4.7,True,0.0
+Nabranie powietrza do płuc,WDECH,openrouter/openai/gpt-5.4-nano,True,0.0
+Nabranie powietrza do płuc,WDECH,openrouter/google/gemma-4-31b-it,True,0.0
+Nabranie powietrza do płuc,WDECH,openrouter/openai/gpt-oss-20b,True,0.0
+Nabranie powietrza do płuc,WDECH,openrouter/openai/gpt-oss-120b,True,0.0
+Nabranie powietrza do płuc,WDECH,openrouter/x-ai/grok-4.1-fast,True,0.0
+Nabranie powietrza do płuc,WDECH,openrouter/google/gemini-3.1-flash-lite-preview,True,0.0
+Nabranie powietrza do płuc,WDECH,openrouter/qwen/qwen3.5-flash-02-23,True,0.0
+Nabranie powietrza do płuc,WDECH,openrouter/mistralai/ministral-14b-2512,True,0.0
+Nabranie powietrza do płuc,WDECH,openrouter/mistralai/mistral-small-2603,True,0.0
+Nabranie powietrza do płuc,WDECH,openrouter/anthropic/claude-sonnet-4.6,True,0.0
+Nabranie powietrza do płuc,WDECH,openrouter/anthropic/claude-opus-4.7,True,0.0
+Listwa stołu bilardowego,BANDA,openrouter/openai/gpt-5.4-nano,True,2.0
+Listwa stołu bilardowego,BANDA,openrouter/google/gemma-4-31b-it,True,0.0
+Listwa stołu bilardowego,BANDA,openrouter/openai/gpt-oss-20b,True,5.0
+Listwa stołu bilardowego,BANDA,openrouter/openai/gpt-oss-120b,True,2.0
+Listwa stołu bilardowego,BANDA,openrouter/x-ai/grok-4.1-fast,True,0.0
+Listwa stołu bilardowego,BANDA,openrouter/google/gemini-3.1-flash-lite-preview,True,0.0
+Listwa stołu bilardowego,BANDA,openrouter/qwen/qwen3.5-flash-02-23,True,0.0
+Listwa stołu bilardowego,BANDA,openrouter/mistralai/ministral-14b-2512,True,0.0
+Listwa stołu bilardowego,BANDA,openrouter/mistralai/mistral-small-2603,True,0.0
+Listwa stołu bilardowego,BANDA,openrouter/anthropic/claude-sonnet-4.6,True,0.0
+Listwa stołu bilardowego,BANDA,openrouter/anthropic/claude-opus-4.7,True,0.0
+Naczynie na kakao,KUBEK,openrouter/openai/gpt-5.4-nano,True,0.0
+Naczynie na kakao,KUBEK,openrouter/google/gemma-4-31b-it,True,0.0
+Naczynie na kakao,KUBEK,openrouter/openai/gpt-oss-20b,True,3.0
+Naczynie na kakao,KUBEK,openrouter/openai/gpt-oss-120b,True,1.0
+Naczynie na kakao,KUBEK,openrouter/x-ai/grok-4.1-fast,True,0.0
+Naczynie na kakao,KUBEK,openrouter/google/gemini-3.1-flash-lite-preview,True,0.0
+Naczynie na kakao,KUBEK,openrouter/qwen/qwen3.5-flash-02-23,True,0.0
+Naczynie na kakao,KUBEK,openrouter/mistralai/ministral-14b-2512,True,4.0
+Naczynie na kakao,KUBEK,openrouter/mistralai/mistral-small-2603,True,1.0
+Naczynie na kakao,KUBEK,openrouter/anthropic/claude-sonnet-4.6,True,0.0
+Naczynie na kakao,KUBEK,openrouter/anthropic/claude-opus-4.7,True,0.0
+Kaczor z kreskówek,DONALD,openrouter/openai/gpt-5.4-nano,True,0.0
+Kaczor z kreskówek,DONALD,openrouter/google/gemma-4-31b-it,True,0.0
+Kaczor z kreskówek,DONALD,openrouter/openai/gpt-oss-20b,True,0.0
+Kaczor z kreskówek,DONALD,openrouter/openai/gpt-oss-120b,True,0.0
+Kaczor z kreskówek,DONALD,openrouter/x-ai/grok-4.1-fast,True,0.0
+Kaczor z kreskówek,DONALD,openrouter/google/gemini-3.1-flash-lite-preview,True,0.0
+Kaczor z kreskówek,DONALD,openrouter/qwen/qwen3.5-flash-02-23,True,0.0
+Kaczor z kreskówek,DONALD,openrouter/mistralai/ministral-14b-2512,True,0.0
+Kaczor z kreskówek,DONALD,openrouter/mistralai/mistral-small-2603,True,0.0
+Kaczor z kreskówek,DONALD,openrouter/anthropic/claude-sonnet-4.6,True,0.0
+Kaczor z kreskówek,DONALD,openrouter/anthropic/claude-opus-4.7,True,0.0
+Buduje igloo,ESKIMOS,openrouter/openai/gpt-5.4-nano,True,0.0
+Buduje igloo,ESKIMOS,openrouter/google/gemma-4-31b-it,True,0.0
+Buduje igloo,ESKIMOS,openrouter/openai/gpt-oss-20b,True,5.0
+Buduje igloo,ESKIMOS,openrouter/openai/gpt-oss-120b,True,1.0
+Buduje igloo,ESKIMOS,openrouter/x-ai/grok-4.1-fast,True,0.0
+Buduje igloo,ESKIMOS,openrouter/google/gemini-3.1-flash-lite-preview,True,0.0
+Buduje igloo,ESKIMOS,openrouter/qwen/qwen3.5-flash-02-23,True,0.0
+Buduje igloo,ESKIMOS,openrouter/mistralai/ministral-14b-2512,True,0.0
+Buduje igloo,ESKIMOS,openrouter/mistralai/mistral-small-2603,True,1.0
+Buduje igloo,ESKIMOS,openrouter/anthropic/claude-sonnet-4.6,True,0.0
+Buduje igloo,ESKIMOS,openrouter/anthropic/claude-opus-4.7,True,0.0
+Internetowa sprzedaż,EHANDEL,openrouter/openai/gpt-5.4-nano,True,1.0
+Internetowa sprzedaż,EHANDEL,openrouter/google/gemma-4-31b-it,True,0.0
+Internetowa sprzedaż,EHANDEL,openrouter/openai/gpt-oss-20b,True,0.0
+Internetowa sprzedaż,EHANDEL,openrouter/openai/gpt-oss-120b,True,0.0
+Internetowa sprzedaż,EHANDEL,openrouter/x-ai/grok-4.1-fast,True,0.0
+Internetowa sprzedaż,EHANDEL,openrouter/google/gemini-3.1-flash-lite-preview,True,0.0
+Internetowa sprzedaż,EHANDEL,openrouter/qwen/qwen3.5-flash-02-23,True,0.0
+Internetowa sprzedaż,EHANDEL,openrouter/mistralai/ministral-14b-2512,False,
+Internetowa sprzedaż,EHANDEL,openrouter/mistralai/mistral-small-2603,True,2.0
+Internetowa sprzedaż,EHANDEL,openrouter/anthropic/claude-sonnet-4.6,True,0.0
+Internetowa sprzedaż,EHANDEL,openrouter/anthropic/claude-opus-4.7,True,0.0
+Naprawa uszkodzenia,REPARACJA,openrouter/openai/gpt-5.4-nano,True,0.0
+Naprawa uszkodzenia,REPARACJA,openrouter/google/gemma-4-31b-it,True,3.0
+Naprawa uszkodzenia,REPARACJA,openrouter/openai/gpt-oss-20b,True,0.0
+Naprawa uszkodzenia,REPARACJA,openrouter/openai/gpt-oss-120b,True,1.0
+Naprawa uszkodzenia,REPARACJA,openrouter/x-ai/grok-4.1-fast,True,1.0
+Naprawa uszkodzenia,REPARACJA,openrouter/google/gemini-3.1-flash-lite-preview,True,2.0
+Naprawa uszkodzenia,REPARACJA,openrouter/qwen/qwen3.5-flash-02-23,True,2.0
+Naprawa uszkodzenia,REPARACJA,openrouter/mistralai/ministral-14b-2512,True,1.0
+Naprawa uszkodzenia,REPARACJA,openrouter/mistralai/mistral-small-2603,True,6.0
+Naprawa uszkodzenia,REPARACJA,openrouter/anthropic/claude-sonnet-4.6,True,1.0
+Naprawa uszkodzenia,REPARACJA,openrouter/anthropic/claude-opus-4.7,True,4.0
+Obcy wtręt językowy,MAKARONIZM,openrouter/openai/gpt-5.4-nano,True,1.0
+Obcy wtręt językowy,MAKARONIZM,openrouter/google/gemma-4-31b-it,True,1.0
+Obcy wtręt językowy,MAKARONIZM,openrouter/openai/gpt-oss-20b,True,10.0
+Obcy wtręt językowy,MAKARONIZM,openrouter/openai/gpt-oss-120b,True,6.0
+Obcy wtręt językowy,MAKARONIZM,openrouter/x-ai/grok-4.1-fast,True,1.0
+Obcy wtręt językowy,MAKARONIZM,openrouter/google/gemini-3.1-flash-lite-preview,True,1.0
+Obcy wtręt językowy,MAKARONIZM,openrouter/qwen/qwen3.5-flash-02-23,True,1.0
+Obcy wtręt językowy,MAKARONIZM,openrouter/mistralai/ministral-14b-2512,True,3.0
+Obcy wtręt językowy,MAKARONIZM,openrouter/mistralai/mistral-small-2603,True,1.0
+Obcy wtręt językowy,MAKARONIZM,openrouter/anthropic/claude-sonnet-4.6,True,1.0
+Obcy wtręt językowy,MAKARONIZM,openrouter/anthropic/claude-opus-4.7,True,0.0

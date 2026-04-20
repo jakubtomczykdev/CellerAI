@@ -1,0 +1,20 @@
+question,Answer,openrouter/anthropic/claude-opus-4.7,openrouter/anthropic/claude-sonnet-4.6,openrouter/google/gemini-3.1-flash-lite-preview,openrouter/google/gemma-4-31b-it,openrouter/mistralai/ministral-14b-2512,openrouter/mistralai/mistral-small-2603,openrouter/openai/gpt-5.4-nano,openrouter/openai/gpt-oss-120b,openrouter/openai/gpt-oss-20b,openrouter/qwen/qwen3.5-flash-02-23,openrouter/x-ai/grok-4.1-fast
+Blada u chorego,CERA,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,4.0,2.0,0.0
+Buduje igloo,ESKIMOS,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,5.0,0.0,0.0
+"Fallon, komik z TV",JIMMY,0.0,0.0,0.0,0.0,4.0,0.0,0.0,0.0,2.0,0.0,0.0
+Góral z dowcipów,BACA,0.0,1.0,2.0,0.0,3.0,0.0,1.0,2.0,4.0,4.0,1.0
+"Imię Kurosawy, reżysera",AKIRA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Internetowa sprzedaż,EHANDEL,0.0,0.0,0.0,0.0,FAIL,2.0,1.0,0.0,0.0,0.0,0.0
+Kaczor z kreskówek,DONALD,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Kropla smutku,ŁZA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
+Listwa stołu bilardowego,BANDA,0.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,5.0,0.0,0.0
+Nabranie powietrza do płuc,WDECH,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Naczynie na kakao,KUBEK,0.0,0.0,0.0,0.0,4.0,1.0,0.0,1.0,3.0,0.0,0.0
+Naprawa uszkodzenia,REPARACJA,4.0,1.0,2.0,3.0,1.0,6.0,0.0,1.0,0.0,2.0,1.0
+Obcy wtręt językowy,MAKARONIZM,0.0,1.0,1.0,1.0,3.0,1.0,1.0,6.0,10.0,1.0,1.0
+Okrągłe skrzyżowanie,RONDO,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5.0,0.0,0.0
+Podróż przez morze,REJS,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,0.0,0.0
+Podwodny grunt,DNO,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+Połowica władcy zwierząt,LWICA,0.0,0.0,0.0,0.0,1.0,0.0,0.0,2.0,3.0,4.0,0.0
+Sala sportowa,HALA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Siostra Balladyny,ALINA,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0
