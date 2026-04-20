@@ -1,0 +1,137 @@
+[
+  {
+    "question": "Naprawa uszkodzenia",
+    "correct_answer": "REPARACJA",
+    "model": "openrouter/google/gemma-4-26b-a4b-it",
+    "hints": 0,
+    "mask": "_ _ _ _ _ _ _ _ _",
+    "raw_answer": "REPARACJA",
+    "cleaned_answer": "REPARACJA",
+    "correct": true,
+    "messages": [
+      {
+        "role": "system",
+        "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+      },
+      {
+        "role": "user",
+        "content": "Definicja: Naprawa uszkodzenia\nLiczba liter: 9\nMaska: _ _ _ _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+      }
+    ],
+    "usage": {
+      "completion_tokens": 5,
+      "prompt_tokens": 195,
+      "total_tokens": 200,
+      "completion_tokens_details": {
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0,
+        "video_tokens": 0,
+        "cache_write_tokens": 0
+      },
+      "cost": 2.15e-05,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 2.15e-05,
+        "upstream_inference_prompt_cost": 1.95e-05,
+        "upstream_inference_completions_cost": 2e-06
+      }
+    },
+    "elapsed_ms": 1176,
+    "response_model": "google/gemma-4-26b-a4b-it-20260403"
+  },
+  {
+    "question": "Obcy wtręt językowy",
+    "correct_answer": "MAKARONIZM",
+    "model": "openrouter/google/gemma-4-26b-a4b-it",
+    "hints": 0,
+    "mask": "_ _ _ _ _ _ _ _ _ _",
+    "raw_answer": "KALKA JĘZYKOWA",
+    "cleaned_answer": "KALKAJĘZYKOWA",
+    "correct": false,
+    "messages": [
+      {
+        "role": "system",
+        "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+      },
+      {
+        "role": "user",
+        "content": "Definicja: Obcy wtręt językowy\nLiczba liter: 10\nMaska: _ _ _ _ _ _ _ _ _ _\nPodaj wprost nowe hasło:"
+      }
+    ],
+    "usage": {
+      "completion_tokens": 8,
+      "prompt_tokens": 199,
+      "total_tokens": 207,
+      "completion_tokens_details": {
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 0,
+        "video_tokens": 0,
+        "cache_write_tokens": 0
+      },
+      "cost": 2.31e-05,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 2.31e-05,
+        "upstream_inference_prompt_cost": 1.99e-05,
+        "upstream_inference_completions_cost": 3.2e-06
+      }
+    },
+    "elapsed_ms": 546,
+    "response_model": "google/gemma-4-26b-a4b-it-20260403"
+  },
+  {
+    "question": "Obcy wtręt językowy",
+    "correct_answer": "MAKARONIZM",
+    "model": "openrouter/google/gemma-4-26b-a4b-it",
+    "hints": 1,
+    "mask": "M _ _ _ _ _ _ _ _ _",
+    "raw_answer": "MAKARONIZM",
+    "cleaned_answer": "MAKARONIZM",
+    "correct": true,
+    "messages": [
+      {
+        "role": "system",
+        "content": "Jesteś precyzyjnym systemem rozwiązującym polskie krzyżówki. Otrzymasz definicję (pytanie) oraz maskę słowa, gdzie '_' oznacza nieznaną literę, a litery już podane to podpowiedź. Twoim zadaniem jest podać TYLKO I WYŁĄCZNIE ostateczne hasło. Nie dodawaj żadnego dodatkowego tekstu, żadnej interpunkcji, kropek ani zwrotów ugrzeczniających. Odpowiedź musi zawierać tylko odgadnięte polskie słowo."
+      },
+      {
+        "role": "user",
+        "content": "Definicja: Obcy wtręt językowy\nLiczba liter: 10\nMaska: M _ _ _ _ _ _ _ _ _\nUWAGA! Te odpowiedzi na pewno są BŁĘDNE, wymyśl coś innego: KALKAJĘZYKOWA\nPodaj wprost nowe hasło:"
+      }
+    ],
+    "usage": {
+      "completion_tokens": 5,
+      "prompt_tokens": 227,
+      "total_tokens": 232,
+      "completion_tokens_details": {
+        "audio_tokens": 0,
+        "reasoning_tokens": 0,
+        "image_tokens": 0
+      },
+      "prompt_tokens_details": {
+        "audio_tokens": 0,
+        "cached_tokens": 128,
+        "video_tokens": 0,
+        "cache_write_tokens": 0
+      },
+      "cost": 1.83e-05,
+      "is_byok": false,
+      "cost_details": {
+        "upstream_inference_cost": 1.83e-05,
+        "upstream_inference_prompt_cost": 1.63e-05,
+        "upstream_inference_completions_cost": 2e-06
+      }
+    },
+    "elapsed_ms": 458,
+    "response_model": "google/gemma-4-26b-a4b-it-20260403"
+  }
+]
